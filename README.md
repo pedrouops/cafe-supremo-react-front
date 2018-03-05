@@ -19,5 +19,8 @@ To use it
 4. yarn install
 
 5. yarn start
-   On the  console feedback should indicate that the application is starting, and a browser tab might start the [App](http://localhost:3000)
+
+  On the  console feedback should indicate that the application is starting: `Starting the development server...`.
+
+  A browser tab might start the [App](http://localhost:3000)
 
