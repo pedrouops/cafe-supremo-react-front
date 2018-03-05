@@ -1,0 +1,221 @@
+{
+    "hasMore": true,
+    "limit": 4,
+    "count": 3,
+    "items": [{
+        "id": "Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4",
+        "description": "Try something special, with that special someone",
+        "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+        },
+        "name": "A LITTLE PARTY IN EVERY POD",
+        "publishinfo": [{
+            "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+            "publishedby": "1463671286774",
+            "version": "1",
+            "publisheddate": {
+                "value": "2017-06-26T08:33:15.070Z",
+                "timezone": "UTC",
+                "description": ""
+            }
+        }],
+        "data": {
+            "ad_textcolor": "Dark",
+            "ad_image_side": {
+                "id": "DigitalAsset_proxy_fd77c467-0f0a-4636-966d-652298d270a0",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_fd77c467-0f0a-4636-966d-652298d270a0",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "ad_textposition": "Left",
+            "ad_image_banner": {
+                "id": "DigitalAsset_proxy_24ca1644-fbe3-45db-a69f-7278b5c82aca",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_24ca1644-fbe3-45db-a69f-7278b5c82aca",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "ad_commerceurl": "https://ccstore-z5ga.oracleoutsourcing.com/coffee-pods/category/2468"
+        },
+        "updateddate": {
+            "value": "2017-06-26T08:33:15.495Z",
+            "timezone": "UTC",
+            "description": ""
+        },
+        "type": "Ad"
+    }, {
+        "id": "Ad_core_1ad5aaf6-a3de-40ee-b604-f0d9467679d7",
+        "description": "Get this months imports from around the globe in all of your favorite flavors",
+        "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_1ad5aaf6-a3de-40ee-b604-f0d9467679d7",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+        },
+        "name": "LOVE AT FIRST ROAST",
+        "publishinfo": [{
+            "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+            "publishedby": "1463671286774",
+            "version": "1",
+            "publisheddate": {
+                "value": "2017-05-08T22:39:54.656Z",
+                "timezone": "UTC",
+                "description": ""
+            }
+        }],
+        "data": {
+            "ad_textcolor": "Light",
+            "ad_image_side": {
+                "id": "DigitalAsset_proxy_841a466f-5be6-4968-a0a5-5db966081b4b",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_841a466f-5be6-4968-a0a5-5db966081b4b",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "ad_textposition": "Right",
+            "ad_image_banner": {
+                "id": "DigitalAsset_proxy_752f96f0-c3f5-4bea-a01a-2f0a8b5e2063",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_752f96f0-c3f5-4bea-a01a-2f0a8b5e2063",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "ad_commerceurl": "https://ccstore-z5ga.oracleoutsourcing.com/aroma-beans/product/1234"
+        },
+        "updateddate": {
+            "value": "2017-05-08T22:40:21.250Z",
+            "timezone": "UTC",
+            "description": ""
+        },
+        "type": "Ad"
+    }, {
+        "id": "Ad_core_5745fa53-5790-428a-ad17-30d9f13f4d85",
+        "description": "Cups, spoons and any other accessories you need",
+        "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_5745fa53-5790-428a-ad17-30d9f13f4d85",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+        },
+        "name": "NOW, ALL YOU NEED IS THE SPOON",
+        "publishinfo": [{
+            "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+            "publishedby": "1463671286774",
+            "version": "1",
+            "publisheddate": {
+                "value": "2017-05-08T22:39:54.656Z",
+                "timezone": "UTC",
+                "description": ""
+            }
+        }],
+        "data": {
+            "ad_textcolor": "Dark",
+            "ad_image_side": {
+                "id": "DigitalAsset_proxy_23d2931d-d53e-41d5-a012-3fe1df602036",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_23d2931d-d53e-41d5-a012-3fe1df602036",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "ad_textposition": "Left",
+            "ad_image_banner": {
+                "id": "DigitalAsset_proxy_c8d7c231-f9dc-4a44-834f-86f8527c5677",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_c8d7c231-f9dc-4a44-834f-86f8527c5677",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "ad_commerceurl": "https://ccstore-z5ga.oracleoutsourcing.com/oracle-mug/product/Mug123"
+        },
+        "updateddate": {
+            "value": "2017-05-08T22:40:16.234Z",
+            "timezone": "UTC",
+            "description": ""
+        },
+        "type": "Ad"
+    }],
+    "links": [{
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=3&field:type:equals=Ad&cb=_cache_7d24&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&fields=ALL",
+        "rel": "self",
+        "templated": false,
+        "method": "",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=3&field:type:equals=Ad&cb=_cache_7d24&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&fields=ALL",
+        "rel": "canonical",
+        "templated": false,
+        "method": "",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items",
+        "rel": "describedby",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": "application/schema+json"
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=3&field:type:equals=Ad&cb=_cache_7d24&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=3&fields=ALL",
+        "rel": "next",
+        "templated": false,
+        "method": "",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=3&field:type:equals=Ad&cb=_cache_7d24&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=0&fields=ALL",
+        "rel": "first",
+        "templated": false,
+        "method": "",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=3&field:type:equals=Ad&cb=_cache_7d24&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=3&fields=ALL",
+        "rel": "last",
+        "templated": false,
+        "method": "",
+        "profile": "",
+        "mediaType": ""
+    }],
+    "offset": 0
+}

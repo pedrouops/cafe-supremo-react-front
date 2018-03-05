@@ -1,0 +1,194 @@
+{
+    "hasMore": false,
+    "limit": 2,
+    "count": 2,
+    "items": [{
+        "id": "Blog_core_2fe962a2-322b-4621-9c49-42803441d16b",
+        "description": "Make your coffee look as good as it tastes",
+        "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+        },
+        "name": "Create Beautiful Latte Art!",
+        "publishinfo": [{
+            "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+            "publishedby": "1463671286774",
+            "version": "1",
+            "publisheddate": {
+                "value": "2017-05-08T22:39:54.656Z",
+                "timezone": "UTC",
+                "description": ""
+            }
+        }],
+        "data": {
+            "blog_image_ad_small": {
+                "id": "DigitalAsset_proxy_d84d7e6b-0fe3-4832-9f7a-51783ba75e84",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_d84d7e6b-0fe3-4832-9f7a-51783ba75e84",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_image_ad": {
+                "id": "DigitalAsset_proxy_1c670c73-d036-48ea-81ba-c452f1ae299c",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_1c670c73-d036-48ea-81ba-c452f1ae299c",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_category": "HOW TO",
+            "blog_image_header": {
+                "id": "DigitalAsset_proxy_9a7fc0af-99f1-4511-b7d2-53ce65501115",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_9a7fc0af-99f1-4511-b7d2-53ce65501115",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_author": {
+                "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+                "type": "Author",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_textposition": "Center",
+            "blog_image_thumbnail": {
+                "id": "DigitalAsset_proxy_3eb6ff3b-2ccc-4771-8987-9e4308d73afd",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_3eb6ff3b-2ccc-4771-8987-9e4308d73afd",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_textcolor": "Light"
+        },
+        "updateddate": {
+            "value": "2017-05-08T22:40:24.659Z",
+            "timezone": "UTC",
+            "description": ""
+        },
+        "type": "Blog"
+    }, {
+        "id": "Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+        "description": "Getting the best look from your espresso",
+        "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+        },
+        "name": "Pouring Just The Right Cup",
+        "publishinfo": [{
+            "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+            "publishedby": "1463671286774",
+            "version": "1",
+            "publisheddate": {
+                "value": "2017-05-08T22:39:54.656Z",
+                "timezone": "UTC",
+                "description": ""
+            }
+        }],
+        "data": {
+            "blog_image_ad_small": {
+                "id": "DigitalAsset_proxy_5020bb57-e313-40a6-b31e-edfaab4a5d05",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_5020bb57-e313-40a6-b31e-edfaab4a5d05",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_image_ad": {
+                "id": "DigitalAsset_proxy_e39d412f-a757-43a7-9097-b4dd768fd6c7",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_e39d412f-a757-43a7-9097-b4dd768fd6c7",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_category": "HOW TO",
+            "blog_image_header": {
+                "id": "DigitalAsset_proxy_c0c52ea8-7f4b-4798-8cd3-73fce38a0600",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_c0c52ea8-7f4b-4798-8cd3-73fce38a0600",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_author": {
+                "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+                "type": "Author",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_textposition": "Right",
+            "blog_image_thumbnail": {
+                "id": "DigitalAsset_proxy_8b271097-4429-443a-9302-6facaca6ac07",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_8b271097-4429-443a-9302-6facaca6ac07",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_textcolor": "Light"
+        },
+        "updateddate": {
+            "value": "2017-05-08T22:40:12.336Z",
+            "timezone": "UTC",
+            "description": ""
+        },
+        "type": "Blog"
+    }],
+    "links": [],
+    "offset": 0
+}

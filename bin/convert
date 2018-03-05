@@ -1,0 +1,5 @@
+fn=$(basename "$1")
+fn2=${fn%.html}
+echo $fn $fn2
+cls="$(echo "$fn2" | gsed 's/.*/\u&/')"
+htmltojsx  "$1" -c $cls > $cls.jsx

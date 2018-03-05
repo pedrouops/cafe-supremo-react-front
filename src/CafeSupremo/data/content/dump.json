@@ -1,0 +1,1612 @@
+[{
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Ad-Default/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Ad-Default/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "660c821ae5ba2c6d33551094d2995391",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Ad-Default/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Ad-Default/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Ad-Default/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "65896fab9a8b4722caaa234932eaa16f",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Ad-Default/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Ad-Default/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Ad-Default/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "deafc7433281853758133ffccebc8d4e",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Ad-Default/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Ad-Highlight/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Ad-Highlight/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "bbbbf72abafda0f399caa72e2be5f3e2",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Ad-Highlight/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Ad-Highlight/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Ad-Highlight/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "5a8f3d2fafc8954e00ed5601cfe34c75",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Ad-Highlight/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Ad-Highlight/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Ad-Highlight/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "2473278f257afa68c54627bbe5900e87",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Ad-Highlight/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Author-Banner/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Author-Banner/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "4718c04fe3fc29118fd3187ea63e94e4",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Author-Banner/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Author-Banner/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Author-Banner/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "5ce287932ca669aee7103ba174baed60",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Author-Banner/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Author-Banner/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Author-Banner/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "897e75eff2812bc9da2b9d6ecd9bb8f4",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Author-Banner/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Author-Details/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Author-Details/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "a6c0fae776ceb216771105c1b1c2d942",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Author-Details/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Author-Details/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Author-Details/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "0553f06f92c1be554aec0af42bdbdd15",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Author-Details/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Author-Details/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Author-Details/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "3cd331a91a395b71886ab6b97a1f7e7d",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Author-Details/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Author/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Author/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "0887f5eb1a789f1fab5470dbf8faca11",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Author/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Author/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Author/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "0efd5769f7a5304e7596070ea3b0cc9c",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Author/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Author/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Author/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "b747012f7637503867ea6ada39d31d6c",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Author/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Banner/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Banner/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "09b4a174425b66c32b142bcba3b776a1",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Banner/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Banner/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Banner/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "bf268a59bbe6b1eb096702831fa2fc39",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Banner/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Banner/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Banner/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "3584a4e6ff3b720961e8f569a3e1c497",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Banner/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Default/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Default/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "63a352262df09e4d0db07445ad31bee7",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Default/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Default/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Default/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "af6c0425e4051ad8496af42593521576",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Default/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Default/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Default/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "8231647c48ecc23e805559e08342bb52",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Default/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Details/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Details/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "14b60df127ac60bee4b135d429ef2e83",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Details/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Details/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Details/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "575e17f22d6e2d7952f91ebd6880e883",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Details/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Details/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Details/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "7c8d69348eb590c5407b3ac3eae0f036",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Details/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Headline/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Headline/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "64970819d4ec8bada63e5336dfcc3aaf",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Headline/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Headline/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Headline/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "e300d008b25d36c616afdf2d61d49383",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Headline/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Headline/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Headline/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "666c69900252aec6e7c4aa44088e6750",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Headline/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Highlight/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Highlight/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "f0fc28dd60c5a8cf23c8abb3155f3b36",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Highlight/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Highlight/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Highlight/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "9cd803900c77c382529fe200e24518a5",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Highlight/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Highlight/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Highlight/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "0112c97828b6cdaa99fe509b3ad61623",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Highlight/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Overlay/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Overlay/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "f004555beec44d0c089558a70761fae8",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Overlay/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Overlay/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Overlay/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "13efb072f4ae176c7bb4eba91c9ef38f",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Overlay/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Blog-Overlay/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Blog-Overlay/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "2a6c0851e963a81e7a6054d592902460",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Blog-Overlay/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/DynamicContentList/assets/css/list.css",
+        "pathname": "/_compdelivery/_cache_16f1/DynamicContentList/assets/css/list.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "a88674ec5c177059d2df218842f75a08",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/DynamicContentList/assets/css/list.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/DynamicContentMenu/assets/css/menu.css",
+        "pathname": "/_compdelivery/_cache_16f1/DynamicContentMenu/assets/css/menu.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "ba603c75080b8aaad69f8d596c75c564",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/DynamicContentMenu/assets/css/menu.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Promo-Default/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Promo-Default/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "a9843e8b12599cafc9af9cd38101e2cd",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Promo-Default/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Promo-Default/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Promo-Default/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "5d897790e240311c20d74c3dc7a31ea0",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Promo-Default/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Promo-Default/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Promo-Default/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "4ee8d250f248441f50cb62b09e2efb3e",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Promo-Default/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Promo-Details/assets/design.css",
+        "pathname": "/_compdelivery/_cache_16f1/Promo-Details/assets/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "62e98e05f278c12fdc4eb93805c1ce0d",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Promo-Details/assets/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Promo-Details/assets/layout.html",
+        "pathname": "/_compdelivery/_cache_16f1/Promo-Details/assets/layout.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "a6703eaacba450ea811dfbb8c339fd66",
+        "ext": ".html",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Promo-Details/assets/layout.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Promo-Details/assets/render.js",
+        "pathname": "/_compdelivery/_cache_16f1/Promo-Details/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "9b9e7afe6eb37409298158c5aabe7662",
+        "ext": ".js",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Promo-Details/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/_compdelivery/_cache_16f1/Search-Button/assets/css/search.css",
+        "pathname": "/_compdelivery/_cache_16f1/Search-Button/assets/css/search.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "5f17e0e6ab6c5e5caa5e36998e00493b",
+        "ext": ".css",
+        "filepath": "static/supremo/_compdelivery/_cache_16f1/Search-Button/assets/css/search.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/",
+        "pathname": "/CafeSupremo/",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "f6ae0f2b611d4b3776ceb0385c165611",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/index.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/ContentNavMenu/assets/css/nav-menu.css",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/ContentNavMenu/assets/css/nav-menu.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "b2fad188c2a28d074b111d5992d89e9a",
+        "ext": ".css",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/ContentNavMenu/assets/css/nav-menu.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/ContentNavMenu/assets/render.js",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/ContentNavMenu/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "301cd330f1d3fc749e495e8f8f70e71a",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/ContentNavMenu/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/ContentNavMenu/assets/template.html",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/ContentNavMenu/assets/template.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "429a04daf78c8ae9f9cdb160d593e951",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/ContentNavMenu/assets/template.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/js/component.js",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/js/component.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "4b36112c98d79a5d2d439ae7fb490b33",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/js/component.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/js/viewmodel.js",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/js/viewmodel.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "70522df72b44f2a348a00e1b63c3d527",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/js/viewmodel.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/render.js",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "601051d6e152b1e4ef7c08dd5c953cd4",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/template.html",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/template.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "3a54e3f6314949db266f675a3b1272f0",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentList/assets/template.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/js/component.js",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/js/component.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "b95372c3a24df3faeccc00b9bd0d0986",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/js/component.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/js/viewmodel.js",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/js/viewmodel.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "7273329d74bf2afc0180e875c4045c28",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/js/viewmodel.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/render.js",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "2c8635e25a98b6aac0f4826c7c82eb4e",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/template.html",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/template.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "7279e5b3078ef9b065c79c9d8d092d37",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/DynamicContentMenu/assets/template.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/js/component.js",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/js/component.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "85979ffbf03980ceda6097501aea260f",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/js/component.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/js/viewmodel.js",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/js/viewmodel.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "817cbb6d4e636ae51a020c0a30c82feb",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/js/viewmodel.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/render.js",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/render.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "3430d997522affd746d37ff9f850c530",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/render.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/template.html",
+        "pathname": "/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/template.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "b3280b372cce708755685dde5e62986a",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/_cache_16f1/_compdelivery/Search-Button/assets/template.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_2bf4/_sitesclouddelivery/renderer/controller.js",
+        "pathname": "/CafeSupremo/_cache_2bf4/_sitesclouddelivery/renderer/controller.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "a9d38ef6331091ae284ba1336a061acf",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_2bf4/_sitesclouddelivery/renderer/controller.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_2bf4/_sitesclouddelivery/renderer/renderer.js",
+        "pathname": "/CafeSupremo/_cache_2bf4/_sitesclouddelivery/renderer/renderer.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "001e140face91ba23ced80e951d01fdb",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_2bf4/_sitesclouddelivery/renderer/renderer.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_2bf4/_sitesclouddelivery/renderer/require.js",
+        "pathname": "/CafeSupremo/_cache_2bf4/_sitesclouddelivery/renderer/require.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "01ad41cf2734594dcaeaf49dd5814869",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_2bf4/_sitesclouddelivery/renderer/require.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/css/footer.css",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/css/footer.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "e1f05f6cff3bdc14f6e99a40d11e9f3d",
+        "ext": ".css",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/css/footer.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/css/header.css",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/css/header.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "c408b4d82b4c02e3bff0d0061dd00f71",
+        "ext": ".css",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/css/header.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/css/styles.css",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/css/styles.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "c9d6b9c6e3e554cc1e70776c642d6c35",
+        "ext": ".css",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/css/styles.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/html/footer.html",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/html/footer.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "1f44a4443c2642126578a0d573199409",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/html/footer.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/html/header.html",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/html/header.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "5c73eda77c6b2b3949f85c0b4f740dcc",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/html/header.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/js/includeHTML.js",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/js/includeHTML.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "2b1a2662790ea82be8cebe49f0af9448",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/js/includeHTML.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/bootstrap/css/bootstrap.min.css",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/bootstrap/css/bootstrap.min.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "a49f3c6538cb17e01feeace62233c063",
+        "ext": ".css",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/bootstrap/css/bootstrap.min.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2",
+        "search": "",
+        "content-type": "text/plain",
+        "hash": "4c62c92bd369ef2bd158bfed8781ae03",
+        "ext": ".woff2",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/bootstrap/js/bootstrap.min.js",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/bootstrap/js/bootstrap.min.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "65ffc5ac38de1b53a3f60a72f6378004",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/bootstrap/js/bootstrap.min.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/jquery-3.2.1.min.js",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/jquery-3.2.1.min.js",
+        "search": "",
+        "content-type": "application/javascript",
+        "hash": "1b3a566a1831f191e39b2015255a8b8e",
+        "ext": ".js",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/assets/plugins/jquery-3.2.1.min.js"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/design.css",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/design.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "1c996cf457680ad59cc4adad3c7a941c",
+        "ext": ".css",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/design.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/facebook.png",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/facebook.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "97586dba8c585053273088e8f1d7ffa2",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/facebook.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/googleplus.png",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/googleplus.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "4a6e55b7da2ef7f1d2a95ccc24a9c14f",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/googleplus.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/linkedin.png",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/linkedin.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "89a1af52fffdfcdfa8239b46f4e1a46a",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/linkedin.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/socialbar.css",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/socialbar.css",
+        "search": "",
+        "content-type": "text/css",
+        "hash": "5cd101fa3305c8970e94301696912d3c",
+        "ext": ".css",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/socialbar.css"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/twitter.png",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/twitter.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "6d3c4bde94c4b95757d3d4f1d6a1ce57",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/twitter.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/x-close.png",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/x-close.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "5d3aac302d2f0d3f2a1416f6871dca1f",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/x-close.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/youtube.png",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/youtube.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "9d9e6a396d9c834e0f14aec5f12369e0",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/designs/default/youtube.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/layouts/default.html",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/layouts/default.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "63ffc18ad69c1ce864da90c6b21cde15",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/layouts/default.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/layouts/details.html",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/layouts/details.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "446d0ab9364b2dac7db6ea1738bd6d6b",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/layouts/details.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/layouts/index.html",
+        "pathname": "/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/layouts/index.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "27639cf752a3869455eb55edbae921c5",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/_cache_7219/_themesdelivery/CafeSupremoTheme/layouts/index.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_7d24/caas_contenttypemap.json",
+        "pathname": "/CafeSupremo/_cache_7d24/caas_contenttypemap.json",
+        "search": "",
+        "content-type": "application/json",
+        "hash": "e45e19fb8e7bc6cc9ecb5d517d661678",
+        "ext": ".json",
+        "filepath": "static/supremo/CafeSupremo/_cache_7d24/caas_contenttypemap.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-30650000004898.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-30650000004898.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "64c3e6dfeb1877f00b36869f998252df",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-30650000004898.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-30650000004899.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-30650000004899.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "6a42b1485a950d70e96acd1be62dfbca",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-30650000004899.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-30650000005298.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-30650000005298.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "8dae28c64e15ebb7ed8dc32c1fa85bd5",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-30650000005298.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002852.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002852.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "bf0603d5cf917b68a714b32865e8a3b1",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002852.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002853.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002853.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "d2bb8c9898a7e5a0e590837134428074",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002853.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002955.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002955.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "d9823aed7f7d80fd121dbbba97540b64",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002955.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002959.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002959.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "39cce4c61f0e961c4792163e1aa04b4b",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002959.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002960.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002960.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "5ad8ec024f6fc5dc80af6c39ecc0e947",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002960.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002962.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002962.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "04fdc7c2209ffc4a138091eae42062f0",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002962.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002963.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002963.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "2b66dde673ba5fa0822b956e412e5c94",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002963.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002965.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002965.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "c33e1f30a9d5cfaf9c49a43fa06376b1",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002965.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002966.png",
+        "pathname": "/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002966.png",
+        "search": "",
+        "content-type": "image/png",
+        "hash": "b335f4d7e6d3b9a56dc2a432e7fe922b",
+        "ext": ".png",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Cafe-Supremo-Logo-7708770000002966.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/content/Product%20Catalog-3564130000001020.jpg",
+        "pathname": "/CafeSupremo/_cache_c242/content/Product%20Catalog-3564130000001020.jpg",
+        "search": "",
+        "content-type": "image/jpeg",
+        "hash": "2c77ef258333a719dd6e1ce6b2f63bac",
+        "ext": ".jpg",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/content/Product%20Catalog-3564130000001020.jpg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/pages/12.json",
+        "pathname": "/CafeSupremo/_cache_c242/pages/12.json",
+        "search": "",
+        "content-type": "application/json",
+        "hash": "1fcaed51d4d3be1e316dcb0246755155",
+        "ext": ".json",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/pages/12.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/pages/34.json",
+        "pathname": "/CafeSupremo/_cache_c242/pages/34.json",
+        "search": "",
+        "content-type": "application/json",
+        "hash": "8805f551b1d67e4f3f1ad77ee6d10b96",
+        "ext": ".json",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/pages/34.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/pages/39.json",
+        "pathname": "/CafeSupremo/_cache_c242/pages/39.json",
+        "search": "",
+        "content-type": "application/json",
+        "hash": "d7507abf06c52cbd1b4e7615fc9be050",
+        "ext": ".json",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/pages/39.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/pages/41.json",
+        "pathname": "/CafeSupremo/_cache_c242/pages/41.json",
+        "search": "",
+        "content-type": "application/json",
+        "hash": "3ae743f7154c9e9bfd5df4c0a73355e4",
+        "ext": ".json",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/pages/41.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/pages/43.json",
+        "pathname": "/CafeSupremo/_cache_c242/pages/43.json",
+        "search": "",
+        "content-type": "application/json",
+        "hash": "0cc47efe7f3ed5f61ed2978f42fa604a",
+        "ext": ".json",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/pages/43.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/pages/44.json",
+        "pathname": "/CafeSupremo/_cache_c242/pages/44.json",
+        "search": "",
+        "content-type": "application/json",
+        "hash": "5240959c73814fb4304300b389ab52fd",
+        "ext": ".json",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/pages/44.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_cache_c242/structure.json",
+        "pathname": "/CafeSupremo/_cache_c242/structure.json",
+        "search": "",
+        "content-type": "application/json",
+        "hash": "3ee96fb5db8f05409793ff8193d9b994",
+        "ext": ".json",
+        "filepath": "static/supremo/CafeSupremo/_cache_c242/structure.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/_idcservice/SCS_VISITOR_COUNT",
+        "pathname": "/CafeSupremo/_idcservice/SCS_VISITOR_COUNT",
+        "search": "",
+        "content-type": "application/json; charset=utf-8",
+        "hash": "c12294b8b4df46b8402697c0ba90b4c3",
+        "ext": ".json",
+        "filepath": "static/supremo/CafeSupremo/_idcservice/SCS_VISITOR_COUNT"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog.html",
+        "pathname": "/CafeSupremo/blog.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "c694f44243505d6c1993ecac2b29219d",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/authordetails/Author/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d/Create%20Beautiful%20Latte%20Art!",
+        "pathname": "/CafeSupremo/blog/authordetails/Author/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d/Create%20Beautiful%20Latte%20Art!",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "52c79cc9d25029fa396681912f289489",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/authordetails/Author/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d/Create%20Beautiful%20Latte%20Art!"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/authordetails/Author/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d/Pouring%20Just%20The%20Right%20Cup",
+        "pathname": "/CafeSupremo/blog/authordetails/Author/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d/Pouring%20Just%20The%20Right%20Cup",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "58dba8f6b51d407a872dd186f278f53d",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/authordetails/Author/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d/Pouring%20Just%20The%20Right%20Cup"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/authordetails/Author/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d/Sustainable%20Coffee%20for%20you",
+        "pathname": "/CafeSupremo/blog/authordetails/Author/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d/Sustainable%20Coffee%20for%20you",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "c84f02f6a9a3956e347bb3bc23cf0443",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/authordetails/Author/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d/Sustainable%20Coffee%20for%20you"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/authordetails/Author/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b/Iced%20Coffee",
+        "pathname": "/CafeSupremo/blog/authordetails/Author/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b/Iced%20Coffee",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "19b9d8c2dd38eb0082ec3c0529b54a50",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/authordetails/Author/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b/Iced%20Coffee"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/authordetails/Author/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b/Our%20Pastries",
+        "pathname": "/CafeSupremo/blog/authordetails/Author/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b/Our%20Pastries",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "0958216f54a073ff3c06d76befa40b77",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/authordetails/Author/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b/Our%20Pastries"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/authordetails/Author/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b/Power%20of%20Coffee",
+        "pathname": "/CafeSupremo/blog/authordetails/Author/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b/Power%20of%20Coffee",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "85266efe3159e205d3d6d9d62af6c7fa",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/authordetails/Author/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b/Power%20of%20Coffee"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/blogdetails/Blog/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b/Create%20Beautiful%20Latte%20Art!",
+        "pathname": "/CafeSupremo/blog/blogdetails/Blog/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b/Create%20Beautiful%20Latte%20Art!",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "1582f79399d88380035fa841c8ca136e",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/blogdetails/Blog/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b/Create%20Beautiful%20Latte%20Art!"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/blogdetails/Blog/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5/The%20Perfect%20Meringue",
+        "pathname": "/CafeSupremo/blog/blogdetails/Blog/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5/The%20Perfect%20Meringue",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "7495c53ea906b4a5c4e7b53c6455ced1",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/blogdetails/Blog/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5/The%20Perfect%20Meringue"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/blogdetails/Blog/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c/Power%20of%20Coffee",
+        "pathname": "/CafeSupremo/blog/blogdetails/Blog/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c/Power%20of%20Coffee",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "d0034d0831d8361715c269e1bcb48df2",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/blogdetails/Blog/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c/Power%20of%20Coffee"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/blogdetails/Blog/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3/Sustainable%20Coffee%20for%20you",
+        "pathname": "/CafeSupremo/blog/blogdetails/Blog/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3/Sustainable%20Coffee%20for%20you",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "21155b3c7079f5e99a0fae78274f2dfc",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/blogdetails/Blog/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3/Sustainable%20Coffee%20for%20you"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/blogdetails/Blog/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4/Our%20Pastries",
+        "pathname": "/CafeSupremo/blog/blogdetails/Blog/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4/Our%20Pastries",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "a36263b131baba362d7417f3053ef3ca",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/blogdetails/Blog/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4/Our%20Pastries"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/blogdetails/Blog/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c/Iced%20Coffee",
+        "pathname": "/CafeSupremo/blog/blogdetails/Blog/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c/Iced%20Coffee",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "220339565becf019e8080657dc0d2075",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/blogdetails/Blog/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c/Iced%20Coffee"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/blogdetails/Blog/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00/Pouring%20Just%20The%20Right%20Cup",
+        "pathname": "/CafeSupremo/blog/blogdetails/Blog/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00/Pouring%20Just%20The%20Right%20Cup",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "f527eb1e55a3499894dd65cd0d9d75c8",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/blogdetails/Blog/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00/Pouring%20Just%20The%20Right%20Cup"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/blogdetails/Blog/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a/Cake%20Batter%20The%20Right%20Way!",
+        "pathname": "/CafeSupremo/blog/blogdetails/Blog/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a/Cake%20Batter%20The%20Right%20Way!",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "9c2e79567d1ace2c9fa3de8c7e0f6e38",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/blogdetails/Blog/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a/Cake%20Batter%20The%20Right%20Way!"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/blog/blogdetails/Blog/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098/Meet%20our%20Barista%20of%20the%20Month",
+        "pathname": "/CafeSupremo/blog/blogdetails/Blog/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098/Meet%20our%20Barista%20of%20the%20Month",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "75f636d1cde0b11a775cc14a050a973a",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/blog/blogdetails/Blog/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098/Meet%20our%20Barista%20of%20the%20Month"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/caas_contenttypemap.json",
+        "pathname": "/CafeSupremo/caas_contenttypemap.json",
+        "search": "",
+        "content-type": "application/json",
+        "hash": "e8a770c9ae1d32e71eb0676d64d14254",
+        "ext": ".json",
+        "filepath": "static/supremo/CafeSupremo/caas_contenttypemap.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/home.html",
+        "pathname": "/CafeSupremo/home.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "f01a0cce50e437d5ef7c57c4eef1f484",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/home.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/product-catalog.html",
+        "pathname": "/CafeSupremo/product-catalog.html",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "d4b90c0d0db5a10822b09d15914d5025",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/product-catalog.html"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/CafeSupremo/product-catalog/details/Promo/Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc/A%20free%20pastry!",
+        "pathname": "/CafeSupremo/product-catalog/details/Promo/Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc/A%20free%20pastry!",
+        "search": "",
+        "content-type": "text/html",
+        "hash": "652e28813a18ade5a79f30084755e110",
+        "ext": ".html",
+        "filepath": "static/supremo/CafeSupremo/product-catalog/details/Promo/Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc/A%20free%20pastry!"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_0093d8f2-1f9f-46d9-8d0b-523c554525ae/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_0093d8f2-1f9f-46d9-8d0b-523c554525ae/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/png",
+        "hash": "62e5ab2d5b896eb44d8c60dbd5fad15d",
+        "ext": ".png",
+        "filepath": "static/supremo/62e5ab2d5b896eb44d8c60dbd5fad15d.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_24ca1644-fbe3-45db-a69f-7278b5c82aca/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_24ca1644-fbe3-45db-a69f-7278b5c82aca/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "058f77e08053872e9efe95562466a40b",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/058f77e08053872e9efe95562466a40b.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_25eadc42-5f65-447b-a246-5adccfcbbeb0/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_25eadc42-5f65-447b-a246-5adccfcbbeb0/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "ed317cbdb663c281d0f94f72641361cc",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/ed317cbdb663c281d0f94f72641361cc.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_3eb6ff3b-2ccc-4771-8987-9e4308d73afd/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_3eb6ff3b-2ccc-4771-8987-9e4308d73afd/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "e25f4c9737e1434d24181bf0470334b1",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/e25f4c9737e1434d24181bf0470334b1.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_43822e3b-c719-43b2-b93a-4ec86f623e36/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_43822e3b-c719-43b2-b93a-4ec86f623e36/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "de2e99506e315355223c168aa9c74514",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/de2e99506e315355223c168aa9c74514.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_4f5e47a4-fab0-4705-894e-a1a200b69dcd/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_4f5e47a4-fab0-4705-894e-a1a200b69dcd/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "b0edec025b5a9d16e49401d0850fc2c1",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/b0edec025b5a9d16e49401d0850fc2c1.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_6184d3cd-2d6a-43ac-a707-c9ca615f67ad/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_6184d3cd-2d6a-43ac-a707-c9ca615f67ad/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "9959520a3ede2d6a6d56cac87ab8908c",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/9959520a3ede2d6a6d56cac87ab8908c.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_752f96f0-c3f5-4bea-a01a-2f0a8b5e2063/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_752f96f0-c3f5-4bea-a01a-2f0a8b5e2063/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "aca487dd043c782e89a6e09496dbb311",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/aca487dd043c782e89a6e09496dbb311.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_81812417-0cd8-4ece-97a6-1e85c9867a5a/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_81812417-0cd8-4ece-97a6-1e85c9867a5a/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "f6385504ccaa69b689cffffb978ea773",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/f6385504ccaa69b689cffffb978ea773.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_84b4f175-7430-4206-a08b-1624b80d03bc/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_84b4f175-7430-4206-a08b-1624b80d03bc/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "7610eca355079edd4e59f0669e83b249",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/7610eca355079edd4e59f0669e83b249.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_8b271097-4429-443a-9302-6facaca6ac07/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_8b271097-4429-443a-9302-6facaca6ac07/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "c0d2ec9bd778cb797126b967ee2b5027",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/c0d2ec9bd778cb797126b967ee2b5027.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_9a7fc0af-99f1-4511-b7d2-53ce65501115/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_9a7fc0af-99f1-4511-b7d2-53ce65501115/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "4d01c7ee90a2f8e0857741c3166ef366",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/4d01c7ee90a2f8e0857741c3166ef366.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_9e01720b-3ad1-4ea8-85d6-fad6257e4699/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_9e01720b-3ad1-4ea8-85d6-fad6257e4699/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "aca3f58c402cb90fd0316da3955ae777",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/aca3f58c402cb90fd0316da3955ae777.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_c0c52ea8-7f4b-4798-8cd3-73fce38a0600/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_c0c52ea8-7f4b-4798-8cd3-73fce38a0600/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "bf218b3a780527ea0e826765359ef651",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/bf218b3a780527ea0e826765359ef651.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_c8d7c231-f9dc-4a44-834f-86f8527c5677/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_c8d7c231-f9dc-4a44-834f-86f8527c5677/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "35d32bd8c7a50f1d70c90a21b61b07bd",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/35d32bd8c7a50f1d70c90a21b61b07bd.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_d1c87576-01cd-4bd5-83b6-fd1f461effa0/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_d1c87576-01cd-4bd5-83b6-fd1f461effa0/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "da1181e0e55daef46626b5ac4127c803",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/da1181e0e55daef46626b5ac4127c803.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_dd886f14-a26c-46b0-b541-5f6650fa0400/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_dd886f14-a26c-46b0-b541-5f6650fa0400/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "29d93d1aced7a8af06a232ee4b9b5ef1",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/29d93d1aced7a8af06a232ee4b9b5ef1.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_e156c1a8-7f02-4e9d-b9bb-7a63077cea3c/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_e156c1a8-7f02-4e9d-b9bb-7a63077cea3c/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "f807b9470b554712ba5fbffa22c8c3eb",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/f807b9470b554712ba5fbffa22c8c3eb.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_e3084412-433a-418c-8e52-1eb064d4f35c/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_e3084412-433a-418c-8e52-1eb064d4f35c/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "fed2fa56ddb3927706705a6e1631e607",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/fed2fa56ddb3927706705a6e1631e607.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_e88bc36c-066d-4669-8435-63d2b500a0d9/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_e88bc36c-066d-4669-8435-63d2b500a0d9/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "b17269f97980deb695fec88f340f2d2f",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/b17269f97980deb695fec88f340f2d2f.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_ebbdba07-b6fd-4372-94e4-8af7b6ffa53c/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_ebbdba07-b6fd-4372-94e4-8af7b6ffa53c/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "4d3d411d66820ddc4c49bc2be427258e",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/4d3d411d66820ddc4c49bc2be427258e.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_f70348c8-8207-4cfd-a843-48b6d6d97a15/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_f70348c8-8207-4cfd-a843-48b6d6d97a15/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "30c09efe17a4e49aa634ec19446eeb02",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/30c09efe17a4e49aa634ec19446eeb02.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_fa72b211-85a5-457d-bf50-50c4c497acc3/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_fa72b211-85a5-457d-bf50-50c4c497acc3/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "724765d6ecb9943106aa10c9ab804907",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/724765d6ecb9943106aa10c9ab804907.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_fbe74f07-ab7f-4eeb-ac2c-fd04ad86f89e/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_fbe74f07-ab7f-4eeb-ac2c-fd04ad86f89e/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/png",
+        "hash": "7184d0ba959675d94721f9dc8bc9f083",
+        "ext": ".png",
+        "filepath": "static/supremo/7184d0ba959675d94721f9dc8bc9f083.png"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_fd150797-019b-487e-b1c2-cc674e277cc8/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_fd150797-019b-487e-b1c2-cc674e277cc8/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "ad9c7c666c16b4b22553651948890a0a",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/ad9c7c666c16b4b22553651948890a0a.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_fd77c467-0f0a-4636-966d-652298d270a0/default?cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/digital-assets/DigitalAsset_proxy_fd77c467-0f0a-4636-966d-652298d270a0/default",
+        "search": "?cb=_cache_7d24",
+        "content-type": "image/jpeg",
+        "hash": "eefd3a2b2ebb96801c602e6d8820d0f5",
+        "ext": ".jpeg",
+        "filepath": "static/supremo/eefd3a2b2ebb96801c602e6d8820d0f5.jpeg"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?field:type:equals=Ad&contentType=published&fields=ALL&orderBy=updateddate%3Adesc&limit=1&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?field:type:equals=Ad&contentType=published&fields=ALL&orderBy=updateddate%3Adesc&limit=1&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "e19108aa44d97e3db46ce76eac51ec18",
+        "ext": ".json",
+        "filepath": "static/supremo/e19108aa44d97e3db46ce76eac51ec18.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?field:type:equals=Ad&contentType=published&fields=ALL&orderBy=updateddate%3Adesc&limit=3&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?field:type:equals=Ad&contentType=published&fields=ALL&orderBy=updateddate%3Adesc&limit=3&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "17fc3ac39d4bafc762ce29d4364ee05e",
+        "ext": ".json",
+        "filepath": "static/supremo/17fc3ac39d4bafc762ce29d4364ee05e.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?field:type:equals=Blog&contentType=published&fields=ALL&orderBy=updateddate:des&limit=1&links=&offset=7&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?field:type:equals=Blog&contentType=published&fields=ALL&orderBy=updateddate:des&limit=1&links=&offset=7&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "4678189f090d17cb567d3a02714c4191",
+        "ext": ".json",
+        "filepath": "static/supremo/4678189f090d17cb567d3a02714c4191.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?field:type:equals=Blog&contentType=published&fields=ALL&orderBy=updateddate%3Adesc&limit=1&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?field:type:equals=Blog&contentType=published&fields=ALL&orderBy=updateddate%3Adesc&limit=1&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "e35f06607ba9ee5a416612a83a8e00a8",
+        "ext": ".json",
+        "filepath": "static/supremo/e35f06607ba9ee5a416612a83a8e00a8.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?field:type:equals=Blog&contentType=published&fields=ALL&orderBy=updateddate%3Adesc&limit=1&offset=1&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?field:type:equals=Blog&contentType=published&fields=ALL&orderBy=updateddate%3Adesc&limit=1&offset=1&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "1de543848a4e492e3bb13446419d1b18",
+        "ext": ".json",
+        "filepath": "static/supremo/1de543848a4e492e3bb13446419d1b18.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?field:type:equals=Blog&contentType=undefined&fields=ALL&limit=2&links=&field:type=Blog&field:blog_author=Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?field:type:equals=Blog&contentType=undefined&fields=ALL&limit=2&links=&field:type=Blog&field:blog_author=Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "f0ba12c1cd95877f838c8144bb4f1571",
+        "ext": ".json",
+        "filepath": "static/supremo/f0ba12c1cd95877f838c8144bb4f1571.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?field:type:equals=Blog&contentType=undefined&fields=ALL&limit=2&links=&field:type=Blog&field:blog_author=Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?field:type:equals=Blog&contentType=undefined&fields=ALL&limit=2&links=&field:type=Blog&field:blog_author=Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "8f4b59d42a0805666482df9bd2ae4f62",
+        "ext": ".json",
+        "filepath": "static/supremo/8f4b59d42a0805666482df9bd2ae4f62.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?field:type:equals=Promo&contentType=published&fields=ALL&orderBy=updateddate%3Adesc&limit=1&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?field:type:equals=Promo&contentType=published&fields=ALL&orderBy=updateddate%3Adesc&limit=1&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "617f8964c9846d16df1ef3aa39dffc44",
+        "ext": ".json",
+        "filepath": "static/supremo/617f8964c9846d16df1ef3aa39dffc44.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=DRINKS&orderBy=updateddate:des&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=DRINKS&orderBy=updateddate:des&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "4c713ecbb857407311407e5a2e5dd9ea",
+        "ext": ".json",
+        "filepath": "static/supremo/4c713ecbb857407311407e5a2e5dd9ea.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=HOW%20TO&orderBy=updateddate:des&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=HOW%20TO&orderBy=updateddate:des&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "dc150c6b6197d949e5d3ed66cf4728dc",
+        "ext": ".json",
+        "filepath": "static/supremo/dc150c6b6197d949e5d3ed66cf4728dc.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=PEOPLE&orderBy=updateddate:des&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=PEOPLE&orderBy=updateddate:des&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "89a1fbaf749f6aad2dfa09e1895800aa",
+        "ext": ".json",
+        "filepath": "static/supremo/89a1fbaf749f6aad2dfa09e1895800aa.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=RECIPES&orderBy=updateddate:des&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=RECIPES&orderBy=updateddate:des&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "cdeedcc80134a260c0bcd6b8558bf7e6",
+        "ext": ".json",
+        "filepath": "static/supremo/cdeedcc80134a260c0bcd6b8558bf7e6.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items?fields=ALL&limit=6&links=&field:type:equals=Blog&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items",
+        "search": "?fields=ALL&limit=6&links=&field:type:equals=Blog&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "8200d4835fbc2683da19a5d814a88f2f",
+        "ext": ".json",
+        "filepath": "static/supremo/8200d4835fbc2683da19a5d814a88f2f.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d?access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+        "search": "?access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "b3ae8d366a50100b5a67b9b1ab81a17c",
+        "ext": ".json",
+        "filepath": "static/supremo/b3ae8d366a50100b5a67b9b1ab81a17c.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "7f13174756b7a5ffe0f389dc3d78bf77",
+        "ext": ".json",
+        "filepath": "static/supremo/7f13174756b7a5ffe0f389dc3d78bf77.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b?access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+        "search": "?access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "c12f689699787c7180508b07931f8ab2",
+        "ext": ".json",
+        "filepath": "static/supremo/c12f689699787c7180508b07931f8ab2.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "a50c93cc0beaaaeb571bd25d0ce5731c",
+        "ext": ".json",
+        "filepath": "static/supremo/a50c93cc0beaaaeb571bd25d0ce5731c.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "f454faaff9d25a1d9657c65f7c2891d9",
+        "ext": ".json",
+        "filepath": "static/supremo/f454faaff9d25a1d9657c65f7c2891d9.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "49b27f5e88e944325637af202104b658",
+        "ext": ".json",
+        "filepath": "static/supremo/49b27f5e88e944325637af202104b658.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "93c4773cca0aee94100b6caea8461997",
+        "ext": ".json",
+        "filepath": "static/supremo/93c4773cca0aee94100b6caea8461997.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "7d6f10afe7052c937e8c60c95e9933f8",
+        "ext": ".json",
+        "filepath": "static/supremo/7d6f10afe7052c937e8c60c95e9933f8.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "c98aa0a9c9e3070143fd31cccf8cd40f",
+        "ext": ".json",
+        "filepath": "static/supremo/c98aa0a9c9e3070143fd31cccf8cd40f.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "b779377c4abd960d102e0738c77f8458",
+        "ext": ".json",
+        "filepath": "static/supremo/b779377c4abd960d102e0738c77f8458.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "6f8edc7f7556d10a1ab0143abb489b10",
+        "ext": ".json",
+        "filepath": "static/supremo/6f8edc7f7556d10a1ab0143abb489b10.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "9b7fcbd1c37053a95ae5a314df9d5a32",
+        "ext": ".json",
+        "filepath": "static/supremo/9b7fcbd1c37053a95ae5a314df9d5a32.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "007a9cf68356164bd3ca8d43b29a82d4",
+        "ext": ".json",
+        "filepath": "static/supremo/007a9cf68356164bd3ca8d43b29a82d4.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/bulk?ids=Blog_core_2fe962a2-322b-4621-9c49-42803441d16b&contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/bulk",
+        "search": "?ids=Blog_core_2fe962a2-322b-4621-9c49-42803441d16b&contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "9447034e43a8d43e700847a4658d5c29",
+        "ext": ".json",
+        "filepath": "static/supremo/9447034e43a8d43e700847a4658d5c29.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/content/published/api/v1/items/Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "pathname": "/content/published/api/v1/items/Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc",
+        "search": "?contentType=published&access-token=11ad271cc1ae61bd03249332e8445c96&cb=_cache_7d24",
+        "content-type": "application/json",
+        "hash": "041e9346f901f8054e4d445c8fab31ea",
+        "ext": ".json",
+        "filepath": "static/supremo/041e9346f901f8054e4d445c8fab31ea.json"
+    },
+    {
+        "url": "https://www.mycontentdemo.com/favicon.ico",
+        "pathname": "/favicon.ico",
+        "search": "",
+        "content-type": "image/x-icon",
+        "hash": "56ba15697dbf896f1add256400691669",
+        "ext": ".ico",
+        "filepath": "static/supremo/favicon.ico"
+    }
+]

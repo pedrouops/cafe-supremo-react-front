@@ -1,0 +1,119 @@
+{
+    "id": "Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+    "type": "Blog",
+    "name": "Pouring Just The Right Cup",
+    "description": "Getting the best look from your espresso",
+    "createddate": {
+        "value": "2017-05-08T22:40:02.764Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "updateddate": {
+        "value": "2017-05-08T22:40:12.336Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "links": [{
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+        "rel": "self",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+        "rel": "canonical",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+        "rel": "describedby",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": "application/schema+json"
+    }],
+    "data": {
+        "blog_category": "HOW TO",
+        "blog_textposition": "Right",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sodales enim quis tortor euismod, eu egestas eros rhoncus. Vestibulum ac dui consequat, cursus velit eu, euismod felis. Ut tincidunt commodo nunc ut maximus. Phasellus ultricies, eros in pellentesque pulvinar, felis felis molestie erat, sed pellentesque neque ipsum nec dui. Quisque eleifend tortor turpis, vitae efficitur neque mattis nec. Etiam suscipit tincidunt viverra. Nullam aliquam faucibus gravida. Praesent mollis eu enim sed fermentum. Mauris lorem justo, varius quis purus at, pulvinar sodales dolor. Etiam nec nulla ipsum. Vivamus porta, magna tincidunt luctus tempus, odio leo hendrerit leo, nec bibendum orci eros nec est.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Curabitur congue mauris in neque cursus sagittis. Donec porta feugiat cursus. Aliquam elementum vehicula magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tincidunt erat, vulputate rhoncus ex. In ultricies diam eu elit faucibus, eget tempus metus pulvinar. Sed et tempus arcu, a porttitor nibh.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+            "id": "DigitalAsset_proxy_e39d412f-a757-43a7-9097-b4dd768fd6c7",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_e39d412f-a757-43a7-9097-b4dd768fd6c7",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_thumbnail": {
+            "id": "DigitalAsset_proxy_8b271097-4429-443a-9302-6facaca6ac07",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_8b271097-4429-443a-9302-6facaca6ac07",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_header": {
+            "id": "DigitalAsset_proxy_c0c52ea8-7f4b-4798-8cd3-73fce38a0600",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_c0c52ea8-7f4b-4798-8cd3-73fce38a0600",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_ad_small": {
+            "id": "DigitalAsset_proxy_5020bb57-e313-40a6-b31e-edfaab4a5d05",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_5020bb57-e313-40a6-b31e-edfaab4a5d05",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_author": {
+            "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+            "type": "Author",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        }
+    },
+    "publishinfo": [{
+        "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+        "publishedby": "1463671286774",
+        "version": "1",
+        "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+        }
+    }],
+    "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D67776D79C1E192D5087CEC7ECCA8B41B03C8311AD5D",
+        "version": "1"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "id": "Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a",
+    "type": "Blog",
+    "name": "Cake Batter The Right Way!",
+    "description": "Step by step guide for the perfect consistency",
+    "createddate": {
+        "value": "2017-05-08T22:01:24.349Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "updateddate": {
+        "value": "2017-11-08T19:20:27.476Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "links": [{
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a",
+        "rel": "self",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a",
+        "rel": "canonical",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a",
+        "rel": "describedby",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": "application/schema+json"
+    }],
+    "data": {
+        "blog_category": "RECIPES",
+        "blog_textposition": "Right",
+        "blog_textcolor": "Dark",
+        "blog_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus eu purus ac maximus. Morbi quis dignissim nisl. Nullam maximus urna sed enim eleifend efficitur. Suspendisse sagittis nulla egestas ligula placerat consequat. Morbi eget odio quis lacus laoreet lacinia. Cras vel mollis arcu, et ultricies enim. Sed at mi sed ante blandit tincidunt vitae nec ante. Proin congue id leo sed pellentesque. Nam blandit sollicitudin enim, sed venenatis mi sagittis vel. Maecenas gravida feugiat purus, et bibendum sem. Proin diam libero, placerat at risus ut, volutpat posuere turpis. Aliquam in mauris mauris. Curabitur vehicula diam at risus blandit, ut elementum enim dictum. In ac interdum turpis.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Praesent eleifend tincidunt convallis. Pellentesque rhoncus volutpat ex, sed posuere mi mattis ut. Nulla non nibh nunc. Quisque mauris urna, efficitur ac hendrerit sit amet, viverra nec erat. Aliquam erat volutpat. Donec risus sem, condimentum sed nulla sed, maximus porttitor risus. Etiam neque neque, molestie sit amet sem nec, efficitur venenatis lorem. Etiam pellentesque mi eu vehicula finibus.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Proin ac enim non neque pellentesque bibendum et eu sem. Suspendisse a purus ut tortor scelerisque pharetra. Nullam maximus tempor vulputate. Vivamus malesuada, libero vel placerat euismod, magna lacus mattis lectus, dignissim pellentesque massa risus eu mauris. Vivamus scelerisque nunc diam, eu tristique metus viverra at. Fusce nunc tellus, congue quis dictum eget, malesuada nec tellus. Curabitur pretium consectetur lacinia. Fusce et metus mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce fermentum at mauris sed rhoncus. Aenean ut accumsan quam. Duis velit leo, tempor sit amet eros sed, aliquam sodales lorem.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Mauris eu neque vitae odio eleifend bibendum. Morbi bibendum aliquam lectus at congue. Nunc vulputate tempor augue eu suscipit. Vivamus enim diam, vehicula eget justo non, elementum consequat nibh. Ut lectus odio, lacinia eget nulla vel, pharetra laoreet arcu. Sed in lectus vitae orci auctor luctus vel non risus. Morbi non turpis leo. Nunc tempus augue eget semper tristique. Phasellus faucibus placerat massa non tincidunt.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+            "id": "DigitalAsset_proxy_81812417-0cd8-4ece-97a6-1e85c9867a5a",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_81812417-0cd8-4ece-97a6-1e85c9867a5a",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_thumbnail": {
+            "id": "DigitalAsset_proxy_fa72b211-85a5-457d-bf50-50c4c497acc3",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_fa72b211-85a5-457d-bf50-50c4c497acc3",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_header": {
+            "id": "DigitalAsset_proxy_fd150797-019b-487e-b1c2-cc674e277cc8",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_fd150797-019b-487e-b1c2-cc674e277cc8",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_ad_small": {
+            "id": "DigitalAsset_proxy_7a5feb70-68d8-4132-9dbe-f6241eb53b73",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_7a5feb70-68d8-4132-9dbe-f6241eb53b73",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_author": {
+            "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+            "type": "Author",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        }
+    },
+    "publishinfo": [{
+        "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+        "publishedby": "1463671286774",
+        "version": "3",
+        "publisheddate": {
+            "value": "2017-11-08T19:20:25.763Z",
+            "timezone": "UTC",
+            "description": ""
+        }
+    }],
+    "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D46512F621DAF1F696372F32ECCA8B41B03C8311AD5D",
+        "version": "3"
+    }
+}

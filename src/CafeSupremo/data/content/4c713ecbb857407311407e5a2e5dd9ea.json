@@ -1,0 +1,194 @@
+{
+    "hasMore": false,
+    "limit": 2,
+    "count": 2,
+    "items": [{
+        "id": "Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+        "description": "Creating iced coffee the right way",
+        "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+        },
+        "name": "Iced Coffee",
+        "publishinfo": [{
+            "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+            "publishedby": "robert.briggs@oracle.com",
+            "version": "1",
+            "publisheddate": {
+                "value": "2017-10-27T04:31:27.518Z",
+                "timezone": "UTC",
+                "description": ""
+            }
+        }],
+        "data": {
+            "blog_image_ad_small": {
+                "id": "DigitalAsset_proxy_03cacd17-e8dc-443d-bb27-d1d1c6df283f",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_03cacd17-e8dc-443d-bb27-d1d1c6df283f",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_image_ad": {
+                "id": "DigitalAsset_proxy_9d3f9087-b99e-4710-b205-313f9435d9fe",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_9d3f9087-b99e-4710-b205-313f9435d9fe",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_category": "DRINKS",
+            "blog_image_header": {
+                "id": "DigitalAsset_proxy_25eadc42-5f65-447b-a246-5adccfcbbeb0",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_25eadc42-5f65-447b-a246-5adccfcbbeb0",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_author": {
+                "id": "Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+                "type": "Author",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_textposition": "Left",
+            "blog_image_thumbnail": {
+                "id": "DigitalAsset_proxy_a43e93da-3bfb-4676-8713-041ec9873d21",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_a43e93da-3bfb-4676-8713-041ec9873d21",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_textcolor": "Light"
+        },
+        "updateddate": {
+            "value": "2017-10-27T04:31:29.196Z",
+            "timezone": "UTC",
+            "description": ""
+        },
+        "type": "Blog"
+    }, {
+        "id": "Blog_core_c292363b-37a4-4964-9905-6de06d25adf3",
+        "description": "Good for the heart and soul",
+        "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+        },
+        "name": "Sustainable Coffee for you",
+        "publishinfo": [{
+            "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+            "publishedby": "1463671286774",
+            "version": "3",
+            "publisheddate": {
+                "value": "2017-08-03T07:22:21.827Z",
+                "timezone": "UTC",
+                "description": ""
+            }
+        }],
+        "data": {
+            "blog_image_ad_small": {
+                "id": "DigitalAsset_proxy_d3a8a531-5a1a-4ef8-ad69-6105702037cd",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_d3a8a531-5a1a-4ef8-ad69-6105702037cd",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_image_ad": {
+                "id": "DigitalAsset_proxy_65418071-9e7e-4ff5-a2a6-7513832106e1",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_65418071-9e7e-4ff5-a2a6-7513832106e1",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_category": "DRINKS",
+            "blog_image_header": {
+                "id": "DigitalAsset_proxy_43822e3b-c719-43b2-b93a-4ec86f623e36",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_43822e3b-c719-43b2-b93a-4ec86f623e36",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_author": {
+                "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+                "type": "Author",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_textposition": "Center",
+            "blog_image_thumbnail": {
+                "id": "DigitalAsset_proxy_e156c1a8-7f02-4e9d-b9bb-7a63077cea3c",
+                "type": "DigitalAsset",
+                "link": {
+                    "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_e156c1a8-7f02-4e9d-b9bb-7a63077cea3c",
+                    "rel": "Reference",
+                    "templated": false,
+                    "method": "GET",
+                    "profile": "",
+                    "mediaType": ""
+                }
+            },
+            "blog_textcolor": "Light"
+        },
+        "updateddate": {
+            "value": "2017-08-03T07:22:23.192Z",
+            "timezone": "UTC",
+            "description": ""
+        },
+        "type": "Blog"
+    }],
+    "links": [],
+    "offset": 0
+}

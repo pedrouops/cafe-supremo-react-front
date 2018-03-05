@@ -1,0 +1,40 @@
+[{
+    
+    "search": "field:type:equals=Ad&fields=ALL&orderBy=updateddate%3Adesc&limit=1"
+}, {
+    
+    "search": "field:type:equals=Ad&fields=ALL&orderBy=updateddate%3Adesc&limit=3"
+}, {
+    
+    "search": "field:type:equals=Blog&fields=ALL&orderBy=updateddate:des&limit=1&links=&offset=7"
+}, {
+    
+    "search": "field:type:equals=Blog&fields=ALL&orderBy=updateddate%3Adesc&limit=1"
+}, {
+    
+    "search": "field:type:equals=Blog&fields=ALL&orderBy=updateddate%3Adesc&limit=1&offset=1"
+}, {
+    
+    "search": "field:type:equals=Blog&fields=ALL&limit=2&links=&field:type=Blog&field:blog_author=Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d"
+}, {
+    
+    "search": "field:type:equals=Blog&fields=ALL&limit=2&links=&field:type=Blog&field:blog_author=Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b"
+}, {
+    
+    "search": "field:type:equals=Promo&fields=ALL&orderBy=updateddate%3Adesc&limit=1"
+}, {
+    
+    "search": "fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=DRINKS&orderBy=updateddate:des"
+}, {
+    
+    "search": "fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=HOW%20TO&orderBy=updateddate:des"
+}, {
+    
+    "search": "fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=PEOPLE&orderBy=updateddate:des"
+}, {
+    
+    "search": "fields=ALL&limit=10&links=&field:type:equals=Blog&field:blog_category=RECIPES&orderBy=updateddate:des"
+}, {
+    
+    "search": "fields=ALL&limit=6&links=&field:type:equals=Blog"
+}]

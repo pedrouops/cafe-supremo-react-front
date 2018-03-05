@@ -1,0 +1,828 @@
+{
+    "base": {
+        "properties": {
+            "title": "",
+            "pageLayout": "default.html",
+            "pageDescription": "",
+            "keywords": "",
+            "hideFromSearchEngines": false,
+            "header": "",
+            "footer": "",
+            "noIndex": false,
+            "noFollow": false,
+            "noArchive": false,
+            "noSnippet": false,
+            "isCobrowseEnabled": false
+        },
+        "slots": {
+            "headline": {
+                "components": ["fbb97632-8700-43a8-807e-3d55d65d536b"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"fbb97632-8700-43a8-807e-3d55d65d536b\"></div></div></div>"
+            },
+            "footer": {
+                "components": ["d3d06e79-8af4-4746-8a0f-84a0a4ae2fd0"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"d3d06e79-8af4-4746-8a0f-84a0a4ae2fd0\"></div></div></div>"
+            },
+            "content": {
+                "components": [],
+                "grid": ""
+            },
+            "logocontainer": {
+                "components": ["a3faf1db-c39a-46a6-8072-da1b922bf5a9"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"a3faf1db-c39a-46a6-8072-da1b922bf5a9\"></div></div></div>",
+                "styles": ["background-attachment:scroll", "background-color:", "background-position:left top", "background-repeat:no-repeat", "background-size:auto"]
+            },
+            "overlay": {
+                "components": [],
+                "grid": ""
+            },
+            "currentUser": {
+                "components": [],
+                "grid": ""
+            },
+            "background": {
+                "components": [],
+                "grid": "",
+                "styles": ["background-attachment:scroll", "background-color:", "background-position:left top", "background-repeat:no-repeat", "background-size:cover"]
+            },
+            "Content": {
+                "components": ["a27f9b10-65ea-45ce-9552-c1f8f2ad81f5", "bcc1f533-b64b-4dcb-a525-71237bd6ebd9"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"a27f9b10-65ea-45ce-9552-c1f8f2ad81f5\"></div><div id=\"bcc1f533-b64b-4dcb-a525-71237bd6ebd9\"></div></div></div>",
+                "styles": ["background-attachment:scroll", "background-color:", "background-position:center top", "background-repeat:no-repeat", "background-size:auto"]
+            },
+            "searchcontainer": {
+                "components": ["b72b1909-0a75-4689-a692-dc5f4ece1a89"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"b72b1909-0a75-4689-a692-dc5f4ece1a89\"></div></div></div>"
+            },
+            "navMenu": {
+                "components": ["c9c5b4f6-29f8-49e5-81fa-2398589f034f"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"c9c5b4f6-29f8-49e5-81fa-2398589f034f\"></div></div></div>"
+            }
+        },
+        "componentInstances": {
+            "9096b489-4768-4a11-97d8-b732aea59705": {
+                "type": "scs-socialbar",
+                "id": "scs-socialbar",
+                "data": {
+                    "alignment": "left",
+                    "backgroundColor": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "iconSize": 28,
+                    "iconSpacing": 10,
+                    "images": [{
+                        "source": "",
+                        "name": "COMP_ICON_FACEBOOK",
+                        "class": "scs-facebook-icon",
+                        "title": "",
+                        "altText": "",
+                        "description": "",
+                        "link": "http://www.facebook.com",
+                        "target": ["_blank"]
+                    }, {
+                        "source": "",
+                        "name": "COMP_ICON_LINKEDIN",
+                        "class": "scs-linkedin-icon",
+                        "title": "",
+                        "altText": "",
+                        "description": "",
+                        "link": "http://www.linkedin.com",
+                        "target": ["_blank"]
+                    }, {
+                        "source": "",
+                        "name": "COMP_ICON_TWITTER",
+                        "class": "scs-twitter-icon",
+                        "title": "",
+                        "altText": "",
+                        "description": "",
+                        "link": "http://www.twitter.com",
+                        "target": ["_blank"]
+                    }, {
+                        "source": "",
+                        "name": "COMP_ICON_GOOGLEPLUS",
+                        "class": "scs-googleplus-icon",
+                        "title": "",
+                        "altText": "",
+                        "description": "",
+                        "link": "http://plus.google.com",
+                        "target": ["_blank"]
+                    }, {
+                        "source": "",
+                        "name": "COMP_ICON_YOUTUBE",
+                        "class": "scs-youtube-icon",
+                        "title": "",
+                        "altText": "",
+                        "description": "",
+                        "link": "http://www.youtube.com",
+                        "target": ["_blank"]
+                    }],
+                    "layout": "horizontal",
+                    "marginBottom": 5,
+                    "marginLeft": 5,
+                    "marginRight": 5,
+                    "marginTop": 5,
+                    "styleClass": "",
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "contentIds": [],
+                    "contentViewings": []
+                }
+            },
+            "bc621bee-7b36-4edc-a8f1-106948d2771a": {
+                "type": "scs-image",
+                "id": "scs-image",
+                "data": {
+                    "alignment": "right",
+                    "altText": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "caption": "",
+                    "contentId": "",
+                    "contentViewing": "",
+                    "imageHref": "[!--$SCS_PAGE--]12[/!--$SCS_PAGE--]",
+                    "imageHrefContentViewing": "",
+                    "imageHrefName": "",
+                    "imageName": "Cafe-Supremo-Logo.png",
+                    "imageTarget": "_self",
+                    "imageUrl": "[!--$SCS_CONTENT_URL--]/Cafe-Supremo-Logo-7708770000002853.png",
+                    "linkType": "scs-link-sitepage",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "styleClass": "",
+                    "title": "",
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "width": 300
+                }
+            },
+            "a3faf1db-c39a-46a6-8072-da1b922bf5a9": {
+                "type": "scs-image",
+                "id": "scs-image",
+                "data": {
+                    "alignment": "left",
+                    "altText": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "caption": "",
+                    "contentId": "",
+                    "contentViewing": "",
+                    "imageHref": "[!--$SCS_PAGE--]12[/!--$SCS_PAGE--]",
+                    "imageHrefContentViewing": "",
+                    "imageHrefName": "",
+                    "imageName": "Cafe-Supremo-Logo.png",
+                    "imageTarget": "_self",
+                    "imageUrl": "[!--$SCS_CONTENT_URL--]/Cafe-Supremo-Logo-7708770000002852.png",
+                    "linkType": "scs-link-sitepage",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "styleClass": "",
+                    "title": "",
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "width": 300
+                }
+            },
+            "d3d06e79-8af4-4746-8a0f-84a0a4ae2fd0": {
+                "type": "scs-componentgroup",
+                "id": "FooterBar",
+                "data": {
+                    "className": "",
+                    "components": ["9096b489-4768-4a11-97d8-b732aea59705", "bc621bee-7b36-4edc-a8f1-106948d2771a"],
+                    "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 70.04%;\"><div id=\"9096b489-4768-4a11-97d8-b732aea59705\"></div></div><div class=\"scs-col\" style=\"width: 29.96%;\"><div id=\"aed03106-2283-43bb-80bb-16e270ef61ba\"></div><div id=\"bc621bee-7b36-4edc-a8f1-106948d2771a\"></div></div></div>"
+                }
+            },
+            "b663d4ff-2032-4a39-90f0-2d5be96dd801": {
+                "type": "scs-contentlist",
+                "id": "scs-contentlist",
+                "data": {
+                    "alignment": "fill",
+                    "borderColor": "black",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "contentTypes": ["Blog"],
+                    "customSettingsData": "",
+                    "dateFilter": "all",
+                    "dateFilterBegin": "",
+                    "dateFilterEnd": "",
+                    "dateFilterNumber": 1,
+                    "dateFilterNumber2": 1,
+                    "dateFilterUnits": "days",
+                    "detailPageId": "43",
+                    "layoutCategory": "Headline",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "maxResults": 1,
+                    "queryString": "offset=1",
+                    "sectionLayout": "",
+                    "sectionLayoutInstanceId": "",
+                    "sortOrder": "updateddate:desc",
+                    "styleClass": "",
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "width": ""
+                }
+            },
+            "fbb97632-8700-43a8-807e-3d55d65d536b": {
+                "type": "scs-sectionlayout",
+                "id": "scs-sl-vertical",
+                "data": {
+                    "componentFactory": "scs-vertical",
+                    "components": ["b663d4ff-2032-4a39-90f0-2d5be96dd801"],
+                    "customSettingsData": {},
+                    "styles": ["background-attachment:scroll", "background-color:#bc0807", "background-position:left top", "background-repeat:no-repeat", "background-size:auto"]
+                }
+            },
+            "a27f9b10-65ea-45ce-9552-c1f8f2ad81f5": {
+                "type": "scs-component",
+                "id": "DynamicContentMenu",
+                "data": {
+                    "actions": "",
+                    "alignment": "center",
+                    "assets": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "componentId": "dynamicContentMenu",
+                    "componentName": "Dynamic Content Menu",
+                    "componentFactory": "",
+                    "componentLayout": "default",
+                    "contentId": "",
+                    "contentLayoutCategory": "",
+                    "contentPlaceholder": false,
+                    "contentTypes": [],
+                    "contentViewing": "",
+                    "customSettingsData": {
+                        "showAllOption": true,
+                        "allLabel": "CURRENT",
+                        "allValue": "",
+                        "defaultOption": "CURRENT",
+                        "contentType": "Blog",
+                        "fieldName": "blog_category",
+                        "autoTriggerList": true,
+                        "menuItems": [{
+                            "label": "CURRENT",
+                            "value": ""
+                        }, {
+                            "label": "HOW TO",
+                            "value": "HOW TO"
+                        }, {
+                            "label": "DRINKS",
+                            "value": "DRINKS"
+                        }, {
+                            "label": "PEOPLE",
+                            "value": "PEOPLE"
+                        }, {
+                            "label": "RECIPES",
+                            "value": "RECIPES"
+                        }]
+                    },
+                    "componentConfig": {
+                        "id": "dynamicContentMenu",
+                        "settingsData": {
+                            "settingsWidth": 500,
+                            "settingsRenderOption": "dialog",
+                            "triggers": [{
+                                "triggerName": "dynamicContentMenuClick",
+                                "triggerDescription": "Dynamic Menu Click",
+                                "triggerPayload": [{
+                                    "name": "query",
+                                    "displayName": "Content Item Query"
+                                }]
+                            }],
+                            "actions": []
+                        },
+                        "initialData": {
+                            "componentId": "dynamicContentMenu",
+                            "componentName": "Dynamic Content Menu",
+                            "alignment": "center",
+                            "componentLayout": "default",
+                            "customSettingsData": {
+                                "showAllOption": true,
+                                "allLabel": "CURRENT",
+                                "allValue": "",
+                                "defaultOption": "CURRENT",
+                                "contentType": "Blog",
+                                "fieldName": "blog_category",
+                                "autoTriggerList": true,
+                                "selectedValueCssClass": "current",
+                                "menuItems": []
+                            },
+                            "nestedComponents": []
+                        }
+                    },
+                    "description": "",
+                    "detailPageId": "",
+                    "height": "",
+                    "initialized": true,
+                    "isCaaSLayout": false,
+                    "linkType": "scs-link-action",
+                    "marginBottom": 10,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 32,
+                    "nestedComponents": [],
+                    "styleClass": "",
+                    "styleClassName": "",
+                    "seeded": false,
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "visibleNestedComponents": [],
+                    "width": 650
+                }
+            },
+            "bcc1f533-b64b-4dcb-a525-71237bd6ebd9": {
+                "type": "scs-component",
+                "id": "DynamicContentList",
+                "data": {
+                    "actions": "",
+                    "alignment": "fill",
+                    "assets": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "componentId": "contentItemDynamicList",
+                    "componentName": "Content Item Dynamic List",
+                    "componentFactory": "",
+                    "componentLayout": "default",
+                    "contentId": "",
+                    "contentLayoutCategory": "",
+                    "contentPlaceholder": false,
+                    "contentTypes": [],
+                    "contentViewing": "",
+                    "customSettingsData": {
+                        "contentQuery": "field:type:equals=Blog",
+                        "sectionLayoutId": "scs-sl-three-columns",
+                        "contentLayoutId": "Default",
+                        "limit": 6,
+                        "offset": 0,
+                        "minHeight": "400",
+                        "noResultsMessage": "Sorry, we didn't find a match. Try a new search?",
+                        "noResultsCssClass": "panel text-center h3",
+                        "breakpoint": "767",
+                        "stackColumns": true
+                    },
+                    "componentConfig": {
+                        "id": "dynamic-content-list",
+                        "settingsData": {
+                            "settingsWidth": 500,
+                            "settingsRenderOption": "dialog",
+                            "componentLayouts": [],
+                            "triggers": [{
+                                "triggerName": "dynContentListReady",
+                                "triggerDescription": "Component Ready",
+                                "triggerPayload": [{
+                                    "name": "id",
+                                    "displayName": "Component ID"
+                                }]
+                            }],
+                            "actions": [{
+                                "actionName": "dynContentListUpdate",
+                                "actionDescription": "Update Content",
+                                "actionPayload": [{
+                                    "name": "query",
+                                    "description": "Content Item Query",
+                                    "type": {
+                                        "ojComponent": {
+                                            "component": "ojInputText"
+                                        }
+                                    }
+                                }, {
+                                    "name": "filter",
+                                    "description": "Content Type Filter",
+                                    "type": {
+                                        "ojComponent": {
+                                            "component": "ojInputText"
+                                        }
+                                    }
+                                }]
+                            }]
+                        },
+                        "initialData": {
+                            "componentId": "contentItemDynamicList",
+                            "componentName": "Content Item Dynamic List",
+                            "componentLayout": "default",
+                            "customSettingsData": {
+                                "contentQuery": "field:type=Blog",
+                                "sectionLayoutId": "scs-sl-three-columns",
+                                "limit": 6,
+                                "offset": 0,
+                                "minHeight": 900,
+                                "noResultsMessage": "No Blogs Found",
+                                "noResultsCssClass": "panel"
+                            },
+                            "nestedComponents": []
+                        }
+                    },
+                    "description": "field:type:equals=Blog",
+                    "detailPageId": "",
+                    "height": "",
+                    "initialized": true,
+                    "isCaaSLayout": false,
+                    "linkType": "scs-link-action",
+                    "marginBottom": 5,
+                    "marginLeft": 5,
+                    "marginRight": 5,
+                    "marginTop": 5,
+                    "nestedComponents": [],
+                    "styleClass": "",
+                    "styleClassName": "",
+                    "seeded": false,
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "visibleNestedComponents": [],
+                    "width": 0
+                }
+            },
+            "b72b1909-0a75-4689-a692-dc5f4ece1a89": {
+                "type": "scs-component",
+                "id": "Search-Button",
+                "data": {
+                    "actions": "",
+                    "alignment": "right",
+                    "assets": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "componentId": "searchButton",
+                    "componentName": "Search Button",
+                    "componentFactory": "",
+                    "componentLayout": "default",
+                    "contentId": "",
+                    "contentLayoutCategory": "",
+                    "contentPlaceholder": false,
+                    "contentTypes": [],
+                    "contentViewing": "",
+                    "customSettingsData": {
+                        "url": "blog/search.html",
+                        "method": "GET",
+                        "urlParam": "term",
+                        "placeholderText": "Search Blogs..."
+                    },
+                    "componentConfig": {
+                        "id": "searchButton",
+                        "settingsData": {
+                            "settingsWidth": 500,
+                            "settingsRenderOption": "dialog",
+                            "triggers": [],
+                            "actions": []
+                        },
+                        "initialData": {
+                            "componentId": "searchButton",
+                            "componentName": "Search Button",
+                            "alignment": "center",
+                            "componentLayout": "default",
+                            "customSettingsData": {
+                                "url": "blog/search.html",
+                                "method": "GET",
+                                "urlParam": "term",
+                                "placeholderText": "Search Blogs"
+                            },
+                            "nestedComponents": []
+                        }
+                    },
+                    "description": "",
+                    "detailPageId": "",
+                    "height": "",
+                    "initialized": true,
+                    "isCaaSLayout": false,
+                    "linkType": "scs-link-action",
+                    "marginBottom": 5,
+                    "marginLeft": 5,
+                    "marginRight": 5,
+                    "marginTop": 5,
+                    "nestedComponents": [],
+                    "styleClass": "",
+                    "styleClassName": "",
+                    "seeded": false,
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "visibleNestedComponents": [],
+                    "width": 0
+                }
+            },
+            "c9c5b4f6-29f8-49e5-81fa-2398589f034f": {
+                "type": "scs-component",
+                "id": "ContentNavMenu",
+                "data": {
+                    "actions": "",
+                    "alignment": "fill",
+                    "assets": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "componentId": "contentNavMenu",
+                    "componentName": "Content Navigation Menu Component",
+                    "componentFactory": "",
+                    "componentLayout": "default",
+                    "contentId": "",
+                    "contentLayoutCategory": "",
+                    "contentPlaceholder": false,
+                    "contentTypes": [],
+                    "contentViewing": "",
+                    "customSettingsData": {
+                        "showDropdownMenu": true,
+                        "showContentView": true,
+                        "externalSiteEnabled": true,
+                        "contentConfigs": {
+                            "Blog": {
+                                "queryString": "offset=7",
+                                "layoutCategory": "Overlay",
+                                "detailPage": "43"
+                            }
+                        },
+                        "contentTypeMetadata": [{
+                            "name": "UNUM_People",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "UNUM_PressReleases",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "UNUM_News",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "UNUM_Blogs",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "UNUM_Article",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Unum",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "News",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Temp",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Prod",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Product-Info",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Product-Information",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "TestType1",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Itinerary",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Blog_HZ",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "FieldReport",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "AREducationDevice",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Recipe",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Article",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "EducationDevice",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "InstructionStep",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Education",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "JHFRecipe",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "dxCard",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "MYBOTARTICLE",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "abBotArticle",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Bio",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "NewsArticle",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "test",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "AutoBlog",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Promo",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Blog",
+                            "hasCategoryField": true,
+                            "categoryOptions": [{
+                                "category": "HOW TO",
+                                "label": "HOW TO"
+                            }, {
+                                "category": "DRINKS",
+                                "label": "DRINKS"
+                            }, {
+                                "category": "PEOPLE",
+                                "label": "PEOPLE"
+                            }, {
+                                "category": "RECIPES",
+                                "label": "RECIPES"
+                            }],
+                            "menuDivId": "contentmenu1"
+                        }, {
+                            "name": "Author",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Ad",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "DigitalAsset",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }],
+                        "externalSites": [{
+                            "name": "SHOP",
+                            "url": "https://ccstore-z5ga.oracleoutsourcing.com/coffee-beans/category/123"
+                        }]
+                    },
+                    "componentConfig": {
+                        "id": "contentNavMenu-component",
+                        "settingsData": {
+                            "settingsWidth": 350,
+                            "settingsRenderOption": "dialog",
+                            "componentLayouts": [],
+                            "actions": []
+                        },
+                        "initialData": {
+                            "componentId": "contentNavMenu",
+                            "componentName": "Content Navigation Menu Component",
+                            "componentLayout": "default",
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "customSettingsData": {
+                                "showDropdownMenu": true,
+                                "showContentView": true,
+                                "externalSiteEnabled": true,
+                                "contentTypeMetadata": [{
+                                    "name": "AutoBlog",
+                                    "hasCategoryField": false,
+                                    "categoryOptions": [],
+                                    "menuDivId": null
+                                }, {
+                                    "name": "Promo",
+                                    "hasCategoryField": false,
+                                    "categoryOptions": [],
+                                    "menuDivId": null
+                                }, {
+                                    "name": "Blog",
+                                    "hasCategoryField": true,
+                                    "categoryOptions": [{
+                                        "category": "HOW TO",
+                                        "label": "HOW TO"
+                                    }, {
+                                        "category": "DRINKS",
+                                        "label": "DRINKS"
+                                    }, {
+                                        "category": "PEOPLE",
+                                        "label": "PEOPLE"
+                                    }, {
+                                        "category": "RECIPES",
+                                        "label": "RECIPES"
+                                    }],
+                                    "menuDivId": "contentmenu1"
+                                }, {
+                                    "name": "Author",
+                                    "hasCategoryField": false,
+                                    "categoryOptions": [],
+                                    "menuDivId": null
+                                }, {
+                                    "name": "Ad",
+                                    "hasCategoryField": false,
+                                    "categoryOptions": [],
+                                    "menuDivId": null
+                                }, {
+                                    "name": "DigitalAsset",
+                                    "hasCategoryField": false,
+                                    "categoryOptions": [],
+                                    "menuDivId": null
+                                }]
+                            },
+                            "nestedComponents": []
+                        }
+                    },
+                    "description": "",
+                    "detailPageId": "",
+                    "height": "",
+                    "initialized": true,
+                    "isCaaSLayout": false,
+                    "linkType": "scs-link-action",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "nestedComponents": [],
+                    "styleClass": "",
+                    "styleClassName": "",
+                    "seeded": false,
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "visibleNestedComponents": [],
+                    "width": 0
+                }
+            }
+        }
+    },
+    "variants": null
+}

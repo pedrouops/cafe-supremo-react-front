@@ -1,0 +1,80 @@
+{
+    "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+    "type": "Author",
+    "name": "Jamie Oliver",
+    "description": "Senior Writer",
+    "createddate": {
+        "value": "2017-05-08T21:46:34.310Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "updateddate": {
+        "value": "2017-11-08T19:20:29.139Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "links": [{
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+        "rel": "self",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+        "rel": "canonical",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+        "rel": "describedby",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": "application/schema+json"
+    }],
+    "data": {
+        "author_bio": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla congue massa risus, id mollis orci consectetur et. Fusce velit nisi, mattis quis viverra et, accumsan ac mi. Phasellus in justo varius magna commodo mattis a vel mi. Duis risus ipsum, commodo et gravida id, tincidunt sit amet est. Phasellus vitae rutrum ex, ac placerat orci. Nam eu metus accumsan, bibendum dolor nec, sodales nibh. Nunc volutpat pharetra sem, et luctus arcu tincidunt a. Nam interdum, arcu ac tincidunt varius, est augue molestie metus, ut blandit orci nisl eu turpis. Morbi ac mollis quam. Aliquam faucibus pellentesque sem. Proin vel maximus libero. Donec eu leo at augue interdum mattis non mattis augue. Maecenas convallis, eros vitae dapibus ullamcorper, nibh libero porttitor quam, ut eleifend risus eros ut dolor.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Etiam bibendum accumsan bibendum. Nullam nec enim non velit gravida viverra et in nibh. Donec tempus elit eu massa gravida consequat. Curabitur et metus sed ipsum imperdiet viverra ut vel eros. Morbi aliquet fermentum nisi quis consectetur. In viverra pharetra bibendum. Vivamus placerat, augue at mollis dapibus, sem elit gravida erat, nec feugiat diam urna at ante. Phasellus volutpat ornare urna et vehicula. Sed eu neque nec sapien gravida fermentum laoreet eget lorem.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Nullam nulla neque, rhoncus in odio eu, ultricies commodo lorem. Pellentesque felis velit, feugiat sit amet facilisis vel, vulputate quis nibh. Fusce interdum tellus eget quam imperdiet lacinia. Vestibulum pulvinar mi vitae odio laoreet laoreet posuere vitae augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum ornare justo sit amet placerat suscipit. Sed sed nibh vel massa consectetur sodales eu quis nisl. Nam rutrum at leo et bibendum. Duis ultrices mauris eget eros faucibus aliquet. Nulla tincidunt sem et enim posuere, sit amet condimentum nisi tristique. Ut erat ipsum, efficitur sed tincidunt sed, rutrum eget augue. Quisque volutpat, odio quis bibendum laoreet, ligula magna convallis est, et iaculis elit dui et est. Quisque felis risus, posuere nec nibh non, mattis egestas leo. Vestibulum ultricies pretium condimentum. Fusce imperdiet, mauris ut convallis tempor, nibh eros dignissim sapien, id pretium sapien mi eget ligula.<o:p></o:p></p>\n",
+        "author_image_header": {
+            "id": "DigitalAsset_proxy_84b4f175-7430-4206-a08b-1624b80d03bc",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_84b4f175-7430-4206-a08b-1624b80d03bc",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "author_image_avatar": {
+            "id": "DigitalAsset_proxy_0093d8f2-1f9f-46d9-8d0b-523c554525ae",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_0093d8f2-1f9f-46d9-8d0b-523c554525ae",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        }
+    },
+    "publishinfo": [{
+        "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+        "publishedby": "1463671286774",
+        "version": "1",
+        "publisheddate": {
+            "value": "2017-11-08T19:20:25.763Z",
+            "timezone": "UTC",
+            "description": ""
+        }
+    }],
+    "externalFile": {
+        "folderId": "F30A49846D9D32210B1822F3ECCA8B41B03C8311AD5D",
+        "fileId": "D743807F1C7F5034FEC4C2A9ECCA8B41B03C8311AD5D",
+        "version": "1"
+    }
+}

@@ -1,0 +1,87 @@
+.ad-default {
+	margin: 25px 0 0 25px;	
+}
+
+.ad-default .contentItem {
+	color: white;
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, .4);
+	position: absolute;
+	letter-spacing: 1px;
+	text-align: center;
+	padding-top: 16.5vw;
+	padding-left: 1vw;
+    padding-right: 1vw;	
+}
+
+.ad-default .contentItem.Dark {
+	color: black;
+	text-shadow: 0px 0px 10px rgba(255, 255, 255, .4);
+}
+
+.ad-default .image {
+	width:100%;
+}
+
+.ad-default .name {
+	font-size: 2vw;
+	font-weight: 700;
+    line-height: 1.1;	
+}
+
+.ad-default hr {
+	margin-top: 1vw;
+	margin-bottom: 1vw;
+    border-top: 2px solid #eee;
+}
+
+.ad-default .description {
+	font-size: 1.1vw;
+	font-weight: 400;
+    line-height: 1.2;
+}
+
+.ad-default button {
+    margin-top: 2vw;
+	color: white;
+	background: #bb0000;
+	border-width: 0px;
+    padding-left: 1.4vw;
+    padding-right: 1.4vw;
+    padding-top: .4vw;
+    padding-bottom: .7vw;
+    font-size: 1.3vw;
+    font-weight: 400;
+    line-height: 1.2;
+	border-radius: 2px;	
+	letter-spacing: 1px;	
+}
+
+@media (min-width: 1500px) {
+	.ad-default .contentItem {
+		padding-top: 247.5px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.ad-default .name {
+		font-size: 30px;
+	}
+
+	.ad-default hr {
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+
+	.ad-default .description {
+		font-size: 16.5px;
+	}
+
+	.ad-default button {
+		margin-top: 30px;
+		padding-left: 21px;
+		padding-right: 21px;
+		padding-top: 6px;
+		padding-bottom: 10.5px;
+		font-size: 19.5px;
+	}
+}

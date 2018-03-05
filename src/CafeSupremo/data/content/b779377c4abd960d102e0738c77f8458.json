@@ -1,0 +1,119 @@
+{
+    "id": "Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+    "type": "Blog",
+    "name": "Iced Coffee",
+    "description": "Creating iced coffee the right way",
+    "createddate": {
+        "value": "2017-10-27T04:31:28.133Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "updateddate": {
+        "value": "2017-10-27T04:31:29.196Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "links": [{
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+        "rel": "self",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+        "rel": "canonical",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+        "rel": "describedby",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": "application/schema+json"
+    }],
+    "data": {
+        "blog_category": "DRINKS",
+        "blog_textposition": "Left",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt dignissim posuere. Ut et ultricies libero. Nulla eget cursus lorem. Duis accumsan sapien mauris, ut facilisis nulla dignissim eu. Praesent vitae erat imperdiet ante accumsan finibus. Vestibulum ac ligula tristique, luctus orci sit amet, placerat velit. Fusce id orci sodales, euismod lacus eget, aliquam justo. Nulla ultrices ligula neque, eget efficitur enim pharetra non. Sed facilisis imperdiet elit ac suscipit.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Proin ut enim facilisis, ullamcorper velit non, placerat mi. Curabitur egestas tellus tristique ligula egestas, ut placerat ex gravida. Nulla pellentesque eros eget tempor pharetra. Aenean orci nibh, suscipit ac tempor eu, pellentesque porttitor orci. Suspendisse potenti. Cras elementum vehicula sapien, vel gravida ipsum hendrerit nec. Nunc bibendum libero porttitor, vehicula nulla eu, vestibulum elit. Maecenas semper dolor sit amet ex mollis elementum. Nullam semper consequat diam, non dignissim justo placerat vel. Sed diam purus, venenatis id scelerisque at, vestibulum sit amet enim.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Aliquam pellentesque urna ac mauris viverra, nec mollis magna ornare. Morbi varius varius nunc nec imperdiet. Vivamus sapien urna, hendrerit et est sed, gravida facilisis nunc. Praesent eget orci nisl. Ut venenatis vestibulum vulputate. Quisque pretium scelerisque magna. Vivamus sodales ipsum ex, vitae sagittis mi scelerisque eu. Mauris sit amet pellentesque leo, sed molestie felis. Proin eu cursus mauris. Integer consectetur tincidunt nibh sed tempor. Maecenas a lectus finibus, tristique leo vulputate, feugiat tellus. Phasellus euismod et leo sed consectetur. Aenean facilisis eget odio et iaculis.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+            "id": "DigitalAsset_proxy_9d3f9087-b99e-4710-b205-313f9435d9fe",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_9d3f9087-b99e-4710-b205-313f9435d9fe",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_thumbnail": {
+            "id": "DigitalAsset_proxy_a43e93da-3bfb-4676-8713-041ec9873d21",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_a43e93da-3bfb-4676-8713-041ec9873d21",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_header": {
+            "id": "DigitalAsset_proxy_25eadc42-5f65-447b-a246-5adccfcbbeb0",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_25eadc42-5f65-447b-a246-5adccfcbbeb0",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_ad_small": {
+            "id": "DigitalAsset_proxy_03cacd17-e8dc-443d-bb27-d1d1c6df283f",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_03cacd17-e8dc-443d-bb27-d1d1c6df283f",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_author": {
+            "id": "Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+            "type": "Author",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        }
+    },
+    "publishinfo": [{
+        "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+        "publishedby": "robert.briggs@oracle.com",
+        "version": "1",
+        "publisheddate": {
+            "value": "2017-10-27T04:31:27.518Z",
+            "timezone": "UTC",
+            "description": ""
+        }
+    }],
+    "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D653C2A970D6D43082F7E979ECCA8B41B03C8311AD5D",
+        "version": "1"
+    }
+}

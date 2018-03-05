@@ -1,0 +1,119 @@
+{
+    "id": "Blog_core_85ada799-60f1-45eb-a589-96413cacd63c",
+    "type": "Blog",
+    "name": "Power of Coffee",
+    "description": "Giving back to the community",
+    "createddate": {
+        "value": "2017-05-08T22:39:57.870Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "updateddate": {
+        "value": "2017-05-08T22:40:21.604Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "links": [{
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c",
+        "rel": "self",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c",
+        "rel": "canonical",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c",
+        "rel": "describedby",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": "application/schema+json"
+    }],
+    "data": {
+        "blog_category": "PEOPLE",
+        "blog_textposition": "Left",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Our annual &quot;Power of Coffee&quot; fundraiser raised over $1 million to help families in need.&nbsp; With your donations last month, and Cafe Supremo&#39;s dollar for dollar matching, we hit our highest numbers ever!&nbsp; Thank you for being a part of our community and giving back to our community.&nbsp;&nbsp; Our annual &quot;Power of Coffee&quot; fundraiser raised over $1 million to help families in need.&nbsp; With your donations last month, and Cafe Supremo&#39;s dollar for dollar matching, we hit our highest numbers ever!&nbsp; Thank you for being a part of our community and giving back to our community.&nbsp; <o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sodales enim quis tortor euismod, eu egestas eros rhoncus. Vestibulum ac dui consequat, cursus velit eu, euismod felis. Ut tincidunt commodo nunc ut maximus.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Curabitur congue mauris in neque cursus sagittis. Donec porta feugiat cursus. Aliquam elementum vehicula magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tincidunt erat, vulputate rhoncus ex. In ultricies diam eu elit faucibus, eget tempus metus pulvinar. Sed et tempus arcu, a porttitor nibh.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+            "id": "DigitalAsset_proxy_b13aa899-afac-45c2-ac23-d340eaceec55",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_b13aa899-afac-45c2-ac23-d340eaceec55",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_thumbnail": {
+            "id": "DigitalAsset_proxy_d1c87576-01cd-4bd5-83b6-fd1f461effa0",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_d1c87576-01cd-4bd5-83b6-fd1f461effa0",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_header": {
+            "id": "DigitalAsset_proxy_e88bc36c-066d-4669-8435-63d2b500a0d9",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_e88bc36c-066d-4669-8435-63d2b500a0d9",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_ad_small": {
+            "id": "DigitalAsset_proxy_8e4e3cf9-53cb-4f5d-b138-9c9cf4df440d",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_8e4e3cf9-53cb-4f5d-b138-9c9cf4df440d",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_author": {
+            "id": "Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+            "type": "Author",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        }
+    },
+    "publishinfo": [{
+        "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+        "publishedby": "1463671286774",
+        "version": "1",
+        "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+        }
+    }],
+    "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D6DE6A61CA13230BE423CBFCECCA8B41B03C8311AD5D",
+        "version": "1"
+    }
+}

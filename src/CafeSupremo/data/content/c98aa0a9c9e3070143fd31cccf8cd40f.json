@@ -1,0 +1,119 @@
+{
+    "id": "Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4",
+    "type": "Blog",
+    "name": "Our Pastries",
+    "description": "Get the perfect pastries to go with your prefect coffee",
+    "createddate": {
+        "value": "2017-05-08T22:40:03.847Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "updateddate": {
+        "value": "2017-05-08T22:40:10.030Z",
+        "timezone": "UTC",
+        "description": ""
+    },
+    "links": [{
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4",
+        "rel": "self",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4",
+        "rel": "canonical",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": ""
+    }, {
+        "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4",
+        "rel": "describedby",
+        "templated": false,
+        "method": "GET",
+        "profile": "",
+        "mediaType": "application/schema+json"
+    }],
+    "data": {
+        "blog_category": "RECIPES",
+        "blog_textposition": "Center",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Our pastries are made from scratch and baked in-house daily. Come enjoy our croissants, scones, danishes and any other varieties.&nbsp; Satisfy your sweet tooth or enjoy something savory.&nbsp;&nbsp; Our pastries are made from scratch and baked in-house daily. Come enjoy our croissants, scones, danishes and any other varieties.&nbsp; Satisfy your sweet tooth or enjoy something savory.&nbsp;&nbsp; <o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sodales enim quis tortor euismod, eu egestas eros rhoncus. Vestibulum ac dui consequat, cursus velit eu, euismod felis. Ut tincidunt commodo nunc ut maximus.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\nCurabitur congue mauris in neque cursus sagittis. Donec porta feugiat cursus. Aliquam elementum vehicula magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tincidunt erat, vulputate rhoncus ex. In ultricies diam eu elit faucibus, eget tempus metus pulvinar. Sed et tempus arcu, a porttitor nibh.",
+        "blog_image_ad": {
+            "id": "DigitalAsset_proxy_1b8e2a18-7405-444f-afa2-56ee1cdb9ac5",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_1b8e2a18-7405-444f-afa2-56ee1cdb9ac5",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_thumbnail": {
+            "id": "DigitalAsset_proxy_4f5e47a4-fab0-4705-894e-a1a200b69dcd",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_4f5e47a4-fab0-4705-894e-a1a200b69dcd",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_header": {
+            "id": "DigitalAsset_proxy_ebbdba07-b6fd-4372-94e4-8af7b6ffa53c",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_ebbdba07-b6fd-4372-94e4-8af7b6ffa53c",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_image_ad_small": {
+            "id": "DigitalAsset_proxy_f70348c8-8207-4cfd-a843-48b6d6d97a15",
+            "type": "DigitalAsset",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_f70348c8-8207-4cfd-a843-48b6d6d97a15",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        },
+        "blog_author": {
+            "id": "Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+            "type": "Author",
+            "link": {
+                "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+                "rel": "Reference",
+                "templated": false,
+                "method": "GET",
+                "profile": "",
+                "mediaType": ""
+            }
+        }
+    },
+    "publishinfo": [{
+        "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+        "publishedby": "1463671286774",
+        "version": "1",
+        "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+        }
+    }],
+    "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D76A521A30D36C26C3292DBAECCA8B41B03C8311AD5D",
+        "version": "1"
+    }
+}

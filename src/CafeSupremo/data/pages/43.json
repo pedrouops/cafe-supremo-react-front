@@ -1,0 +1,775 @@
+{
+    "base": {
+        "properties": {
+            "title": "",
+            "pageLayout": "details.html",
+            "pageDescription": "",
+            "keywords": "",
+            "hideFromSearchEngines": false,
+            "header": "",
+            "footer": "",
+            "noIndex": true,
+            "noFollow": true,
+            "noArchive": true,
+            "noSnippet": true,
+            "isCobrowseEnabled": false
+        },
+        "slots": {
+            "headline": {
+                "components": ["df2286ea-aa0e-4680-bfab-6f1d1fc3c238"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"df2286ea-aa0e-4680-bfab-6f1d1fc3c238\"></div></div></div>"
+            },
+            "footer": {
+                "components": ["d3d06e79-8af4-4746-8a0f-84a0a4ae2fd0"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"d3d06e79-8af4-4746-8a0f-84a0a4ae2fd0\"></div></div></div>"
+            },
+            "content": {
+                "components": [],
+                "grid": ""
+            },
+            "logocontainer": {
+                "components": ["a3faf1db-c39a-46a6-8072-da1b922bf5a9"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"a3faf1db-c39a-46a6-8072-da1b922bf5a9\"></div></div></div>",
+                "styles": ["background-attachment:scroll", "background-color:", "background-position:left top", "background-repeat:no-repeat", "background-size:auto"]
+            },
+            "test": {
+                "components": [],
+                "grid": ""
+            },
+            "overlay": {
+                "components": [],
+                "grid": ""
+            },
+            "currentUser": {
+                "components": [],
+                "grid": ""
+            },
+            "background": {
+                "components": [],
+                "grid": "",
+                "styles": ["background-attachment:scroll", "background-color:", "background-position:left top", "background-repeat:no-repeat", "background-size:cover"]
+            },
+            "Content": {
+                "components": [],
+                "grid": ""
+            },
+            "blog-content": {
+                "components": ["debe5044-da65-4dc2-b609-65e540c18848"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"debe5044-da65-4dc2-b609-65e540c18848\"></div></div></div>"
+            },
+            "default-container": {
+                "components": [],
+                "grid": "<div class=\"headline scs-slot\" id=\"headline\" tabindex=\"0\" aria-label=\"headline\">\n\t\t\t<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"de4bca47-d76a-4351-8da3-6f6db18de0f5\"></div></div></div></div>\n\n\t\t\t<div class=\"content scs-slot scs-slot-hover\" id=\"content\" tabindex=\"0\" aria-label=\"content\">\n\t\t\t<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"bd65029f-22e8-443b-a470-a80857627cac\"></div></div></div></div>\n\t\t<div class=\"headline\">\n\t\t\t</div>\n\n\t\t\t<div class=\"content\">\n\t\t\t</div>"
+            },
+            "searchcontainer": {
+                "components": ["bfe83726-df57-491d-abe5-dcc5b9e9ff51"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"bfe83726-df57-491d-abe5-dcc5b9e9ff51\"></div></div></div>"
+            },
+            "navMenu": {
+                "components": ["a0123b66-2531-4457-afe3-a049cd0e878b"],
+                "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 100%;\"><div id=\"a0123b66-2531-4457-afe3-a049cd0e878b\"></div></div></div>"
+            }
+        },
+        "componentInstances": {
+            "9096b489-4768-4a11-97d8-b732aea59705": {
+                "type": "scs-socialbar",
+                "id": "scs-socialbar",
+                "data": {
+                    "alignment": "left",
+                    "backgroundColor": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "iconSize": 28,
+                    "iconSpacing": 10,
+                    "images": [{
+                        "source": "",
+                        "name": "COMP_ICON_FACEBOOK",
+                        "class": "scs-facebook-icon",
+                        "title": "",
+                        "altText": "",
+                        "description": "",
+                        "link": "http://www.facebook.com",
+                        "target": ["_blank"]
+                    }, {
+                        "source": "",
+                        "name": "COMP_ICON_LINKEDIN",
+                        "class": "scs-linkedin-icon",
+                        "title": "",
+                        "altText": "",
+                        "description": "",
+                        "link": "http://www.linkedin.com",
+                        "target": ["_blank"]
+                    }, {
+                        "source": "",
+                        "name": "COMP_ICON_TWITTER",
+                        "class": "scs-twitter-icon",
+                        "title": "",
+                        "altText": "",
+                        "description": "",
+                        "link": "http://www.twitter.com",
+                        "target": ["_blank"]
+                    }, {
+                        "source": "",
+                        "name": "COMP_ICON_GOOGLEPLUS",
+                        "class": "scs-googleplus-icon",
+                        "title": "",
+                        "altText": "",
+                        "description": "",
+                        "link": "http://plus.google.com",
+                        "target": ["_blank"]
+                    }, {
+                        "source": "",
+                        "name": "COMP_ICON_YOUTUBE",
+                        "class": "scs-youtube-icon",
+                        "title": "",
+                        "altText": "",
+                        "description": "",
+                        "link": "http://www.youtube.com",
+                        "target": ["_blank"]
+                    }],
+                    "layout": "horizontal",
+                    "marginBottom": 5,
+                    "marginLeft": 5,
+                    "marginRight": 5,
+                    "marginTop": 5,
+                    "styleClass": "",
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "contentIds": [],
+                    "contentViewings": []
+                }
+            },
+            "bc621bee-7b36-4edc-a8f1-106948d2771a": {
+                "type": "scs-image",
+                "id": "scs-image",
+                "data": {
+                    "alignment": "right",
+                    "altText": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "caption": "",
+                    "contentId": "",
+                    "contentViewing": "",
+                    "imageHref": "[!--$SCS_PAGE--]12[/!--$SCS_PAGE--]",
+                    "imageHrefContentViewing": "",
+                    "imageHrefName": "",
+                    "imageName": "Cafe-Supremo-Logo.png",
+                    "imageTarget": "_self",
+                    "imageUrl": "[!--$SCS_CONTENT_URL--]/Cafe-Supremo-Logo-7708770000002966.png",
+                    "linkType": "scs-link-sitepage",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "styleClass": "",
+                    "title": "",
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "width": 300
+                }
+            },
+            "a3faf1db-c39a-46a6-8072-da1b922bf5a9": {
+                "type": "scs-image",
+                "id": "scs-image",
+                "data": {
+                    "alignment": "left",
+                    "altText": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "caption": "",
+                    "contentId": "",
+                    "contentViewing": "",
+                    "imageHref": "[!--$SCS_PAGE--]12[/!--$SCS_PAGE--]",
+                    "imageHrefContentViewing": "",
+                    "imageHrefName": "",
+                    "imageName": "Cafe-Supremo-Logo.png",
+                    "imageTarget": "_self",
+                    "imageUrl": "[!--$SCS_CONTENT_URL--]/Cafe-Supremo-Logo-7708770000002965.png",
+                    "linkType": "scs-link-sitepage",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "styleClass": "",
+                    "title": "",
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "width": 300
+                }
+            },
+            "d3d06e79-8af4-4746-8a0f-84a0a4ae2fd0": {
+                "type": "scs-componentgroup",
+                "id": "FooterBar",
+                "data": {
+                    "className": "",
+                    "components": ["9096b489-4768-4a11-97d8-b732aea59705", "bc621bee-7b36-4edc-a8f1-106948d2771a"],
+                    "grid": "<div class=\"scs-row\"><div class=\"scs-col\" style=\"width: 70.04%;\"><div id=\"9096b489-4768-4a11-97d8-b732aea59705\"></div></div><div class=\"scs-col\" style=\"width: 29.96%;\"><div id=\"aed03106-2283-43bb-80bb-16e270ef61ba\"></div><div id=\"bc621bee-7b36-4edc-a8f1-106948d2771a\"></div></div></div>"
+                }
+            },
+            "df2286ea-aa0e-4680-bfab-6f1d1fc3c238": {
+                "type": "scs-component",
+                "id": "scs-component",
+                "data": {
+                    "actions": "",
+                    "alignment": "fill",
+                    "assets": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "componentId": "",
+                    "componentName": "",
+                    "componentFactory": "",
+                    "componentLayout": "",
+                    "contentId": "",
+                    "contentLayoutCategory": "Banner",
+                    "contentPlaceholder": true,
+                    "contentTypes": ["Blog", "Author"],
+                    "contentViewing": "",
+                    "customSettingsData": "",
+                    "componentConfig": "",
+                    "description": "",
+                    "detailPageId": "",
+                    "height": "",
+                    "initialized": true,
+                    "isCaaSLayout": true,
+                    "linkType": "scs-link-action",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "nestedComponents": [],
+                    "styleClass": "",
+                    "styleClassName": "",
+                    "seeded": true,
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "visibleNestedComponents": [],
+                    "width": 0
+                }
+            },
+            "b9b393b6-022c-4e01-95bb-4dc3db05a7f6": {
+                "type": "scs-component",
+                "id": "scs-component",
+                "data": {
+                    "actions": "",
+                    "alignment": "fill",
+                    "assets": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "componentId": "",
+                    "componentName": "",
+                    "componentFactory": "",
+                    "componentLayout": "",
+                    "contentId": "",
+                    "contentLayoutCategory": "Details",
+                    "contentPlaceholder": true,
+                    "contentTypes": ["Blog", "Author"],
+                    "contentViewing": "",
+                    "customSettingsData": "",
+                    "componentConfig": "",
+                    "description": "",
+                    "detailPageId": "",
+                    "height": "",
+                    "initialized": true,
+                    "isCaaSLayout": true,
+                    "linkType": "scs-link-action",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "nestedComponents": [],
+                    "styleClass": "",
+                    "styleClassName": "",
+                    "seeded": true,
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "visibleNestedComponents": [],
+                    "width": 0
+                }
+            },
+            "a6c834c5-5382-47a7-ad36-a5f4c51568cd": {
+                "type": "scs-component",
+                "id": "scs-component",
+                "data": {
+                    "actions": "",
+                    "alignment": "fill",
+                    "assets": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "componentId": "",
+                    "componentName": "",
+                    "componentFactory": "",
+                    "componentLayout": "",
+                    "contentId": "",
+                    "contentLayoutCategory": "Author",
+                    "contentPlaceholder": true,
+                    "contentTypes": ["Blog"],
+                    "contentViewing": "",
+                    "customSettingsData": "",
+                    "componentConfig": "",
+                    "description": "",
+                    "detailPageId": "44",
+                    "height": "",
+                    "initialized": true,
+                    "isCaaSLayout": true,
+                    "linkType": "scs-link-action",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "nestedComponents": [],
+                    "styleClass": "",
+                    "styleClassName": "",
+                    "seeded": true,
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "visibleNestedComponents": [],
+                    "width": 0
+                }
+            },
+            "b7b0f912-64a5-4afa-ab58-a8c35ad8b05b": {
+                "type": "scs-contentlist",
+                "id": "scs-contentlist",
+                "data": {
+                    "alignment": "fill",
+                    "borderColor": "black",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "contentTypes": ["Ad"],
+                    "customSettingsData": "",
+                    "dateFilter": "all",
+                    "dateFilterBegin": "",
+                    "dateFilterEnd": "",
+                    "dateFilterNumber": 1,
+                    "dateFilterNumber2": 1,
+                    "dateFilterUnits": "days",
+                    "detailPageId": "",
+                    "layoutCategory": "",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "maxResults": 1,
+                    "queryString": "",
+                    "sectionLayout": "",
+                    "sectionLayoutInstanceId": "",
+                    "sortOrder": "updateddate:desc",
+                    "styleClass": "",
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "width": ""
+                }
+            },
+            "debe5044-da65-4dc2-b609-65e540c18848": {
+                "type": "scs-sectionlayout",
+                "id": "scs-sl-two-columns",
+                "data": {
+                    "componentFactory": "scs-two-columns",
+                    "customSettingsData": {
+                        "behavior": "hide2",
+                        "columnWidth1": 75,
+                        "columnWidth2": 25,
+                        "breakpoint": 767
+                    },
+                    "components": ["b9b393b6-022c-4e01-95bb-4dc3db05a7f6", "d89b52fe-74f7-4dcc-a13f-779f0a21ea88"],
+                    "styles": ["background-attachment:scroll", "background-color:", "background-position:left top", "background-repeat:no-repeat", "background-size:auto"]
+                }
+            },
+            "d89b52fe-74f7-4dcc-a13f-779f0a21ea88": {
+                "type": "scs-sectionlayout",
+                "id": "scs-sl-vertical",
+                "data": {
+                    "componentFactory": "scs-vertical",
+                    "components": ["a6c834c5-5382-47a7-ad36-a5f4c51568cd", "b7b0f912-64a5-4afa-ab58-a8c35ad8b05b"]
+                }
+            },
+            "bfe83726-df57-491d-abe5-dcc5b9e9ff51": {
+                "type": "scs-component",
+                "id": "Search-Button",
+                "data": {
+                    "actions": "",
+                    "alignment": "right",
+                    "assets": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "componentId": "searchButton",
+                    "componentName": "Search Button",
+                    "componentFactory": "",
+                    "componentLayout": "default",
+                    "contentId": "",
+                    "contentLayoutCategory": "",
+                    "contentPlaceholder": false,
+                    "contentTypes": [],
+                    "contentViewing": "",
+                    "customSettingsData": {
+                        "url": "../../../search.html",
+                        "method": "GET",
+                        "urlParam": "term",
+                        "placeholderText": "Search Blogs..."
+                    },
+                    "componentConfig": {
+                        "id": "searchButton",
+                        "settingsData": {
+                            "settingsWidth": 500,
+                            "settingsRenderOption": "dialog",
+                            "triggers": [],
+                            "actions": []
+                        },
+                        "initialData": {
+                            "componentId": "searchButton",
+                            "componentName": "Search Button",
+                            "alignment": "center",
+                            "componentLayout": "default",
+                            "customSettingsData": {
+                                "url": "blog/search.html",
+                                "method": "GET",
+                                "urlParam": "term",
+                                "placeholderText": "Search Blogs"
+                            },
+                            "nestedComponents": []
+                        }
+                    },
+                    "description": "",
+                    "detailPageId": "",
+                    "height": "",
+                    "initialized": true,
+                    "isCaaSLayout": false,
+                    "linkType": "scs-link-action",
+                    "marginBottom": 5,
+                    "marginLeft": 5,
+                    "marginRight": 5,
+                    "marginTop": 5,
+                    "nestedComponents": [],
+                    "styleClass": "",
+                    "styleClassName": "",
+                    "seeded": false,
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "visibleNestedComponents": [],
+                    "width": 0
+                }
+            },
+            "a0123b66-2531-4457-afe3-a049cd0e878b": {
+                "type": "scs-component",
+                "id": "ContentNavMenu",
+                "data": {
+                    "actions": "",
+                    "alignment": "fill",
+                    "assets": "",
+                    "borderColor": "#808080",
+                    "borderRadius": 0,
+                    "borderStyle": "none",
+                    "borderWidth": 1,
+                    "componentId": "contentNavMenu",
+                    "componentName": "Content Navigation Menu Component",
+                    "componentFactory": "",
+                    "componentLayout": "default",
+                    "contentId": "",
+                    "contentLayoutCategory": "",
+                    "contentPlaceholder": false,
+                    "contentTypes": [],
+                    "contentViewing": "",
+                    "customSettingsData": {
+                        "showDropdownMenu": true,
+                        "showContentView": true,
+                        "externalSiteEnabled": true,
+                        "contentConfigs": {
+                            "Blog": {
+                                "queryString": "offset=7",
+                                "layoutCategory": "Overlay",
+                                "detailPage": "43"
+                            }
+                        },
+                        "contentTypeMetadata": [{
+                            "name": "UNUM_People",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "UNUM_PressReleases",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "UNUM_News",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "UNUM_Blogs",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "UNUM_Article",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Unum",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "News",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Temp",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Prod",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Product-Info",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Product-Information",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "TestType1",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Itinerary",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Blog_HZ",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "FieldReport",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "AREducationDevice",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Recipe",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Article",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "EducationDevice",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "InstructionStep",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Education",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "JHFRecipe",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "dxCard",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "MYBOTARTICLE",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "abBotArticle",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Bio",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "NewsArticle",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "test",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "AutoBlog",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Promo",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Blog",
+                            "hasCategoryField": true,
+                            "categoryOptions": [{
+                                "category": "HOW TO",
+                                "label": "HOW TO"
+                            }, {
+                                "category": "DRINKS",
+                                "label": "DRINKS"
+                            }, {
+                                "category": "PEOPLE",
+                                "label": "PEOPLE"
+                            }, {
+                                "category": "RECIPES",
+                                "label": "RECIPES"
+                            }],
+                            "menuDivId": "contentmenu1"
+                        }, {
+                            "name": "Author",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "Ad",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }, {
+                            "name": "DigitalAsset",
+                            "hasCategoryField": false,
+                            "categoryOptions": [],
+                            "menuDivId": null
+                        }],
+                        "externalSites": [{
+                            "name": "SHOP",
+                            "url": "https://ccstore-z5ga.oracleoutsourcing.com/coffee-beans/category/123"
+                        }]
+                    },
+                    "componentConfig": {
+                        "id": "contentNavMenu-component",
+                        "settingsData": {
+                            "settingsWidth": 350,
+                            "settingsRenderOption": "dialog",
+                            "componentLayouts": [],
+                            "actions": []
+                        },
+                        "initialData": {
+                            "componentId": "contentNavMenu",
+                            "componentName": "Content Navigation Menu Component",
+                            "componentLayout": "default",
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "customSettingsData": {
+                                "showDropdownMenu": true,
+                                "showContentView": true,
+                                "externalSiteEnabled": true,
+                                "contentTypeMetadata": [{
+                                    "name": "AutoBlog",
+                                    "hasCategoryField": false,
+                                    "categoryOptions": [],
+                                    "menuDivId": null
+                                }, {
+                                    "name": "Promo",
+                                    "hasCategoryField": false,
+                                    "categoryOptions": [],
+                                    "menuDivId": null
+                                }, {
+                                    "name": "Blog",
+                                    "hasCategoryField": true,
+                                    "categoryOptions": [{
+                                        "category": "HOW TO",
+                                        "label": "HOW TO"
+                                    }, {
+                                        "category": "DRINKS",
+                                        "label": "DRINKS"
+                                    }, {
+                                        "category": "PEOPLE",
+                                        "label": "PEOPLE"
+                                    }, {
+                                        "category": "RECIPES",
+                                        "label": "RECIPES"
+                                    }],
+                                    "menuDivId": "contentmenu1"
+                                }, {
+                                    "name": "Author",
+                                    "hasCategoryField": false,
+                                    "categoryOptions": [],
+                                    "menuDivId": null
+                                }, {
+                                    "name": "Ad",
+                                    "hasCategoryField": false,
+                                    "categoryOptions": [],
+                                    "menuDivId": null
+                                }, {
+                                    "name": "DigitalAsset",
+                                    "hasCategoryField": false,
+                                    "categoryOptions": [],
+                                    "menuDivId": null
+                                }]
+                            },
+                            "nestedComponents": []
+                        }
+                    },
+                    "description": "",
+                    "detailPageId": "",
+                    "height": "",
+                    "initialized": true,
+                    "isCaaSLayout": false,
+                    "linkType": "scs-link-action",
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "nestedComponents": [],
+                    "styleClass": "",
+                    "styleClassName": "",
+                    "seeded": false,
+                    "useStyleClass": "true",
+                    "visible": true,
+                    "visibleNestedComponents": [],
+                    "width": 0
+                }
+            }
+        }
+    },
+    "variants": null
+}

@@ -1,0 +1,76 @@
+[{
+    "type": "Promo",
+    "categoryList": [{
+        "categoryName": "Default",
+        "layoutName": "Promo-Default"
+    }, {
+        "categoryName": "Details",
+        "layoutName": "Promo-Details"
+    }, {
+        "categoryName": "Tile View",
+        "layoutName": "Promo-Default"
+    }]
+}, {
+    "type": "Blog",
+    "categoryList": [{
+        "categoryName": "Default",
+        "layoutName": "Blog-Default"
+    }, {
+        "categoryName": "Content List Default",
+        "layoutName": "Blog-Default"
+    }, {
+        "categoryName": "Details",
+        "layoutName": "Blog-Details"
+    }, {
+        "categoryName": "Headline",
+        "layoutName": "Blog-Headline"
+    }, {
+        "categoryName": "Author",
+        "layoutName": "Blog-Author"
+    }, {
+        "categoryName": "Content Placeholder Default",
+        "layoutName": ""
+    }, {
+        "categoryName": "Highlight",
+        "layoutName": "Blog-Highlight"
+    }, {
+        "categoryName": "Overlay",
+        "layoutName": "Blog-Overlay"
+    }, {
+        "categoryName": "Tile View",
+        "layoutName": "Blog-Default"
+    }, {
+        "categoryName": "Banner",
+        "layoutName": "Blog-Banner"
+    }, {
+        "categoryName": "Empty Content List Default",
+        "layoutName": ""
+    }]
+}, {
+    "type": "Author",
+    "categoryList": [{
+        "categoryName": "Default",
+        "layoutName": "Author-Details"
+    }, {
+        "categoryName": "Details",
+        "layoutName": "Author-Details"
+    }, {
+        "categoryName": "Tile View",
+        "layoutName": "Author-Details"
+    }, {
+        "categoryName": "Banner",
+        "layoutName": "Author-Banner"
+    }]
+}, {
+    "type": "Ad",
+    "categoryList": [{
+        "categoryName": "Default",
+        "layoutName": "Ad-Default"
+    }, {
+        "categoryName": "Highlight",
+        "layoutName": "Ad-Highlight"
+    }, {
+        "categoryName": "Tile View",
+        "layoutName": "Ad-Default"
+    }]
+}]
