@@ -9,7 +9,7 @@ To use it
 1. install git, nodejs and yarn
    1. get git
    2. get nodejs
-   3. get yarn: npm install yarn
+   3. get yarn: npm install yarn --global
 
 2. clone this repository
    `git clone https://github.com/dolfdijkstra/cafe-supremo-react-front.git`
