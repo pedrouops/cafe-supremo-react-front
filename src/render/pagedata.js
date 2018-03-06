@@ -26,7 +26,7 @@ const get = slug => {
     .filter(p => p.parentId === null)
     .reduce((a, e, i) => (i === 0 ? e : a), 0)
   const page = pages['' + pageData.id]
-  console.log('page', page)
+  // console.log('page', page)
   const components = id => page.base.componentInstances[id]
   const factory = id => createComponent(components(id))
   return {

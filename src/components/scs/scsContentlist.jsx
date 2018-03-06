@@ -52,7 +52,7 @@ const Component = ({ type, id, data }) => {
 
 const List = ({list,layout}) => {
   
-  console.log(JSON.stringify(list, null, 2))
+  // console.log(JSON.stringify(list, null, 2))
 
   return (
     <div className={'scs-component-container scs-sectionlayout'}>
