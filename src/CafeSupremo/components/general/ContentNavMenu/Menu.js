@@ -2,7 +2,7 @@ import React from 'react'
 import './nav-menu.css'
 
 const Menu = () => (
-  <div id='cc00233d-f321-4e33-802b-3daa3b6705a2_content_undefined'>
+  <div>
     <div className='navcontainer'>
       <nav className='main-nav' role='navigation'>
         <div className='navbar-header'>
@@ -32,18 +32,12 @@ const Menu = () => (
               className='dropdown-container scs-contentlist'
               id='cl_contentmenu1'
             >
-              <div
-                id='e6c24793-2578-4ab5-b58a-a0e353ac8424'
-                className='scs-component-container scs-sectionlayout'
-              >
+              <div className='scs-component-container scs-sectionlayout'>
                 <div className='scs-container-styles'>
                   <div className='scs-component-content'>
                     <div className='sl-horizontal-row'>
                       <div className='sl-horizontal-item'>
-                        <div
-                          id='ab7c50b6-b3b2-4f15-ba63-43a46f2a3240'
-                          className='scs-component-container'
-                        >
+                        <div className='scs-component-container'>
                           <div className='scs-component-bounding-box'>
                             <div>
                               <div
@@ -61,7 +55,7 @@ const Menu = () => (
                                 >
                                   <div className='scs-custom-component-wrapper'>
                                     {/* create a container div */}
-                                    <div id='ab7c50b6-b3b2-4f15-ba63-43a46f2a3240customComponentDiv'>
+                                    <div>
                                       <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4/Our Pastries'>
                                         <div className='blog-overlay'>
                                           <div className='button-wrapper'>
@@ -245,6 +239,7 @@ const TopNav = () => (
           data-hover='dropdown'
           href='https://ccstore-z5ga.oracleoutsourcing.com/'
           target='_blank'
+          rel='noopener noreferrer'
         >
           SHOP
         </a>

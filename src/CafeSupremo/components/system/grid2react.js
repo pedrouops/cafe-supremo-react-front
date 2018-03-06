@@ -40,18 +40,16 @@ function getPropsFromAttributes (element) {
 }
 
 const NodeType = {
-    ELEMENT: 1,
-    TEXT: 3,
-    COMMENT: 8
+  ELEMENT: 1,
+  TEXT: 3,
+  COMMENT: 8
 }
 
 const grid2react = (source, components, factory) => {
-
-
   const parseNodes = (nodes = []) => {
     return Array.from(nodes).map((node, index) => {
       if (node.nodeType === NodeType.ELEMENT) {
-        return parseElementNode(node, ''+index)
+        return parseElementNode(node, '' + index)
       }
       return node.nodeValue
     })
@@ -71,15 +69,12 @@ const grid2react = (source, components, factory) => {
     // grid magic happens here, append child component
     if (props.id && components.indexOf(props.id) !== -1) {
       children = factory(props.id)
-        console.log(children)
     }
     return React.createElement(tagName, props, children)
   }
-console.log(source)
   if (!source || source.length === 0) return ''
 
   const tmp = document.createElement('div')
-  console.log(tmp)
   tmp.innerHTML = source
   return parseNodes(tmp.childNodes)
 }

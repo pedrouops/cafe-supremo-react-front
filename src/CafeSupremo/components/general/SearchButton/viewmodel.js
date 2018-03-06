@@ -38,19 +38,16 @@ define(
         })
         .on('click', function (focusEvt) {
           // Delay the trigger so Firefox/Safari have time to register the binding change
-          setTimeout(
-            function () {
-              // User clicked/tapped/tabbed on search icon
-              // Use a custom attribute 'data-haspopover' to track whether a popover is showing
-              if ($searchButtonComponent.attr('data-haspopover') !== 'true') {
-                $searchButtonComponent.attr('data-haspopover', 'true')
-                $searchTrigger.popover('show')
-              } else {
-                $searchTrigger.popover('hide')
-              }
-            },
-            50
-          )
+          setTimeout(function () {
+            // User clicked/tapped/tabbed on search icon
+            // Use a custom attribute 'data-haspopover' to track whether a popover is showing
+            if ($searchButtonComponent.attr('data-haspopover') !== 'true') {
+              $searchButtonComponent.attr('data-haspopover', 'true')
+              $searchTrigger.popover('show')
+            } else {
+              $searchTrigger.popover('hide')
+            }
+          }, 50)
         })
         .on('shown.bs.popover', function () {
           // Popover is now completely visible.

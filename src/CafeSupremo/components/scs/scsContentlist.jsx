@@ -1,11 +1,12 @@
 import React from 'react'
-import Promo  from '../lists/Promo'
-import Blog  from '../lists/Blog'
-import Ad  from '../lists/Ad'
-
+import Promo from '../lists/Promo'
+import Blog from '../lists/Blog'
+import Ad from '../lists/Ad'
 
 const registry = {
-    Promo:Promo, Blog:Blog, Ad: Ad
+  Promo: Promo,
+  Blog: Blog,
+  Ad: Ad
 }
 
 const noMargin = {
@@ -15,7 +16,7 @@ const noMargin = {
   marginLeft: 0
 }
 
-const unknown = () => (<div>LIST NOT FOUND</div>)
+const unknown = () => <div>LIST NOT FOUND</div>
 
 const Component = ({ type, id, data }) => {
   console.log(type, id, data)

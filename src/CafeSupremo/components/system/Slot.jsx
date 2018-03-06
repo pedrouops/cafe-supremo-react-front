@@ -8,9 +8,10 @@ const Slot = ({ id, ...others }, context) => {
   const { grid, components } = pd.slots(id)
   console.log('slot', id, components, grid)
   if (components.length === 0) return ''
-  const Grid = () => grid2react(grid, components, (id,key) =>
-    createComponent(context.pageData.components(id),key)
-  )
+  const Grid = () =>
+    grid2react(grid, components, (id, key) =>
+      createComponent(context.pageData.components(id), key)
+    )
 
   return (
     <div id={id} {...others}>

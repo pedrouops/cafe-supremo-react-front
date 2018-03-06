@@ -22,22 +22,24 @@
  *	</footer>
  */
 
-function includeHTML() {
-	$('includeHTML').each(function() {
-		var $this = $(this);
-		if ($this.attr('includeFile')) {
-
-			$.ajax({
-				url: $this.attr('urlPrefix') + $this.attr('includeFile'),
-				dataType: 'html',
-				async: false,
-				success: function(content) {
-					content = content.replace(new RegExp('_scs_theme_root_', 'g'), $this.attr('urlPrefix'));
-					$($this).replaceWith(content);
-				}
-			});
-		}
-	});
+function includeHTML () {
+  $('includeHTML').each(function () {
+    var $this = $(this)
+    if ($this.attr('includeFile')) {
+      $.ajax({
+        url: $this.attr('urlPrefix') + $this.attr('includeFile'),
+        dataType: 'html',
+        async: false,
+        success: function (content) {
+          content = content.replace(
+            new RegExp('_scs_theme_root_', 'g'),
+            $this.attr('urlPrefix')
+          )
+          $($this).replaceWith(content)
+        }
+      })
+    }
+  })
 }
 
-includeHTML();
+includeHTML()

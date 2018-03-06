@@ -15,26 +15,26 @@ const Image = ({ type, id, data }) => {
     '[!--$SCS_CONTENT_URL--]',
     '/CafeSupremo/content'
   )
-  const style={
-            textAlign: alignment,
-            marginTop: marginTop,
-            marginRight: marginRight,
-            marginBottom: marginBottom,
-            marginLeft: marginLeft
-          }
+  const style = {
+    textAlign: alignment,
+    marginTop: marginTop,
+    marginRight: marginRight,
+    marginBottom: marginBottom,
+    marginLeft: marginLeft
+  }
   return (
     <div className='scs-component-bounding-box'>
-        <div
-          className='scs-image scs-component scs-image-default-style'
-          style={style}
-        >
-          <div className='scs-component-content' style={{ width: width }}>
-            <div className='scs-image-container'>
-              <img alt={imageName} className='scs-image-image' src={src} />
-            </div>
+      <div
+        className='scs-image scs-component scs-image-default-style'
+        style={style}
+      >
+        <div className='scs-component-content' style={{ width: width }}>
+          <div className='scs-image-container'>
+            <img alt={imageName} className='scs-image-image' src={src} />
           </div>
         </div>
-        <div className='scs-hidden' />
+      </div>
+      <div className='scs-hidden' />
     </div>
   )
 }
