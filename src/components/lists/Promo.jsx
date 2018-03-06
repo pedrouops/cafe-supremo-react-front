@@ -1,62 +1,6 @@
 import React from 'react'
 import '../layout/Promo/Default/design.css'
 
-const promo = {
-  href:
-    '/CafeSupremo/product-catalog/details/Promo/Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc/A free pastry!',
-  contentId: 'Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc-contentItem',
-  name: 'A free pastry!',
-  description: '(for a limited time only)',
-  src:
-    'https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_dd886f14-a26c-46b0-b541-5f6650fa0400/default?cb=_cache_7d24',
-  alt: ''
-}
-
-const Component = () => {
-  const list = [promo]
-  const layout = Promo
-
-  console.log(JSON.stringify(list, null, 2))
-  return (
-    <div className={'scs-component-container scs-sectionlayout'}>
-      <div className='scs-container-styles'>
-        <div className='scs-component-content'>
-          {list.map((e, index) => (
-            <ComponentContainer
-              key={index}
-              {...e}
-              Layout={layout}
-              position={index % 2 === 0 ? 'Left' : 'Right'}
-            />
-          ))}
-        </div>
-      </div>
-    </div>
-  )
-}
-const noMargin = {
-  marginTop: 0,
-  marginRight: 0,
-  marginBottom: 0,
-  marginLeft: 0
-}
-
-const ComponentContainer = ({ Layout, ...other }) => (
-  <div className='scs-component-bounding-box'>
-    <div
-      className='scs-custom-component scs-component scs-component-default-style'
-      style={noMargin}
-    >
-      <div className='scs-component-content' style={{ width: '100%' }}>
-        <div className='scs-custom-component-wrapper'>
-          <Layout {...other} />
-        </div>
-      </div>
-      <div />
-    </div>
-    <div className='scs-hidden' />
-  </div>
-)
 const Promo = ({ id, href, contentId, name, description, src, alt }) => (
   <div>
     <a href={href}>
@@ -77,4 +21,4 @@ const Promo = ({ id, href, contentId, name, description, src, alt }) => (
     </a>
   </div>
 )
-export default Component
+export default Promo
