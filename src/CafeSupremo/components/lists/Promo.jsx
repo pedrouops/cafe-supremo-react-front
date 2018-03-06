@@ -1,5 +1,5 @@
 import React from 'react'
-
+import '../layout/Promo/Default/design.css'
 
 const promo = {
   href:
@@ -12,42 +12,52 @@ const promo = {
   alt: ''
 }
 
+const Component = () => {
+  const list = [promo]
+  const layout = Promo
 
+  console.log(JSON.stringify(list, null, 2))
+  return (
+    <div className={'scs-component-container scs-sectionlayout'}>
+      <div className='scs-container-styles'>
+        <div className='scs-component-content'>
+          {list.map((e, index) => (
+            <ComponentContainer
+              key={index}
+              {...e}
+              Layout={layout}
+              position={index % 2 === 0 ? 'Left' : 'Right'}
+            />
+          ))}
+        </div>
+      </div>
+    </div>
+  )
+}
 const noMargin = {
   marginTop: 0,
   marginRight: 0,
   marginBottom: 0,
   marginLeft: 0
 }
-const Component = () => ( 
-                       <div className={'scs-component-container scs-sectionlayout'} >
-                        <div className='scs-container-styles'>
-                          <div className='scs-component-content'>
-                            <div className={'scs-component-container'} >
-                              <div className='scs-component-bounding-box'>
-                                  <div
-                                    className='scs-custom-component scs-component scs-component-default-style'
-                                    style={noMargin}
-                                  >
-                                    <div
-                                      className='scs-component-content'
-                                      style={{ width: '100%' }}
-                                    >
-                                      <div className='scs-custom-component-wrapper'>
-                                        <Promo
-                                          {...promo}
-                                        />
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className='scs-hidden' />
-                              </div>
-                          </div>
-                        </div>
-                    </div>
-    </div>)
 
-const Promo = ({id,href,contentId, name, description,src,alt}) => (
+const ComponentContainer = ({ Layout, ...other }) => (
+  <div className='scs-component-bounding-box'>
+    <div
+      className='scs-custom-component scs-component scs-component-default-style'
+      style={noMargin}
+    >
+      <div className='scs-component-content' style={{ width: '100%' }}>
+        <div className='scs-custom-component-wrapper'>
+          <Layout {...other} />
+        </div>
+      </div>
+      <div />
+    </div>
+    <div className='scs-hidden' />
+  </div>
+)
+const Promo = ({ id, href, contentId, name, description, src, alt }) => (
   <div>
     <a href={href}>
       <div className='promo-default'>

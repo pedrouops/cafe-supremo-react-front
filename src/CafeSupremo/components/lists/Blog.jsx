@@ -1,4 +1,5 @@
 import React from 'react'
+import '../layout/Blog/Highlight/design.css'
 
 const blog = {
   href:
@@ -14,36 +15,68 @@ const blog = {
   alt: ''
 }
 
+const Component = () => {
+  const list = [blog]
+  const layout = Blog
+  console.log(JSON.stringify(list, null, 2))
 
-const Blog = () => (
-    <BlogEntry {...blog} />
-    )
-
-const BlogEntry = (props) => (
-    <a href={props.href}>
-      <div className='blog-highlight'>
-        <div className='contentItemWrapper'>
-          <button type='button'>{props.type}</button>
-          <div
-            className='contentItem'
-            id='Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a-contentItem'
-          >
-            <div className='titleWrapper'>
-              <span className='title'>{props.title} / </span>
-              <span className='date'>{props.date}</span>
-            </div>
-            <div className='name'>{props.name}</div>
-            <div className='description'>{props.description}</div>
-          </div>
+  return (
+    <div className={'scs-component-container scs-sectionlayout'}>
+      <div className='scs-container-styles'>
+        <div className='scs-component-content'>
+          {list.map((e, index) => (
+            <ComponentContainer
+              key={index}
+              {...e}
+              Layout={layout}
+              position={index % 2 === 0 ? 'Left' : 'Right'}
+            />
+          ))}
         </div>
-        <img
-          className='image'
-          id={props.contentId + '-imageAd'}
-          src={props.src}
-          alt={props.alt}
-        />
       </div>
-    </a>
+    </div>
+  )
+}
+const noMargin = {
+  marginTop: 0,
+  marginRight: 0,
+  marginBottom: 0,
+  marginLeft: 0
+}
+
+const ComponentContainer = ({ Layout, ...other }) => (
+  <div className='scs-component-bounding-box'>
+    <div
+      className='scs-custom-component scs-component scs-component-default-style'
+      style={noMargin}
+    >
+      <div className='scs-component-content' style={{ width: '100%' }}>
+        <div className='scs-custom-component-wrapper'>
+          <Layout {...other} />
+        </div>
+      </div>
+      <div />
+    </div>
+    <div className='scs-hidden' />
+  </div>
+)
+const Blog = ({ href, type, title, date, name, description, src, alt }) => (
+  <a href={href}>
+    <div className='blog-highlight'>
+      <div className='contentItemWrapper'>
+        <button type='button'>{type}</button>
+        <div className='contentItem'>
+          <div className='titleWrapper'>
+            <span className='title'>{title} / </span>
+            <span className='date'>{date}</span>
+          </div>
+          <div className='name'>{name}</div>
+          <div className='description'>{description}</div>
+        </div>
+      </div>
+      <img className='image' src={src} alt={alt} />
+    </div>
+  </a>
 )
 
-export default Blog
+export default Component
