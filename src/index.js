@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './CafeSupremo/App.jsx'
+import App from './App.jsx'
 
 import './scsStylePages.css'
 

@@ -56,7 +56,7 @@ const Menu = () => (
                                   <div className='scs-custom-component-wrapper'>
                                     {/* create a container div */}
                                     <div>
-                                      <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4/Our Pastries'>
+                                      <a href='/blog/blogdetails/Blog/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4/Our Pastries'>
                                         <div className='blog-overlay'>
                                           <div className='button-wrapper'>
                                             <div className='button'>
@@ -110,13 +110,13 @@ const Menu = () => (
                   </p>
                   <ol>
                     <li>
-                      <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b/Create Beautiful Latte Art!'>
+                      <a href='/blog/blogdetails/Blog/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b/Create Beautiful Latte Art!'>
                         Create Beautiful Latte Art!
                       </a>
                     </li>
 
                     <li>
-                      <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00/Pouring Just The Right Cup'>
+                      <a href='/blog/blogdetails/Blog/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00/Pouring Just The Right Cup'>
                         Pouring Just The Right Cup
                       </a>
                     </li>
@@ -129,13 +129,13 @@ const Menu = () => (
                   </p>
                   <ol>
                     <li>
-                      <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c/Iced Coffee'>
+                      <a href='/blog/blogdetails/Blog/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c/Iced Coffee'>
                         Iced Coffee
                       </a>
                     </li>
 
                     <li>
-                      <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3/Sustainable Coffee for you'>
+                      <a href='/blog/blogdetails/Blog/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3/Sustainable Coffee for you'>
                         Sustainable Coffee for you
                       </a>
                     </li>
@@ -148,7 +148,7 @@ const Menu = () => (
                   </p>
                   <ol>
                     <li>
-                      <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c/Power of Coffee'>
+                      <a href='/blog/blogdetails/Blog/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c/Power of Coffee'>
                         Power of Coffee
                       </a>
                     </li>
@@ -161,25 +161,25 @@ const Menu = () => (
                   </p>
                   <ol>
                     <li>
-                      <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a/Cake Batter The Right Way!'>
+                      <a href='/blog/blogdetails/Blog/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a/Cake Batter The Right Way!'>
                         Cake Batter The Right Way!
                       </a>
                     </li>
 
                     <li>
-                      <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098/Meet our Barista of the Month'>
+                      <a href='/blog/blogdetails/Blog/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098/Meet our Barista of the Month'>
                         Meet our Barista of the Month
                       </a>
                     </li>
 
                     <li>
-                      <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4/Our Pastries'>
+                      <a href='/blog/blogdetails/Blog/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4/Our Pastries'>
                         Our Pastries
                       </a>
                     </li>
 
                     <li>
-                      <a href='/CafeSupremo/blog/blogdetails/Blog/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5/The Perfect Meringue'>
+                      <a href='/blog/blogdetails/Blog/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5/The Perfect Meringue'>
                         The Perfect Meringue
                       </a>
                     </li>
@@ -204,7 +204,7 @@ const TopNav = () => (
         <a
           className='dropdown-toggle'
           data-hover='dropdown'
-          href='/CafeSupremo/home.html'
+          href='/home.html'
           target='_self'
         >
           HOME
@@ -215,7 +215,7 @@ const TopNav = () => (
         <a
           className='dropdown-toggle'
           data-hover='dropdown'
-          href='/CafeSupremo/product-catalog.html'
+          href='/product-catalog.html'
           target='_self'
         >
           PRODUCT CATALOG
@@ -226,7 +226,7 @@ const TopNav = () => (
         <a
           className='dropdown-toggle'
           data-hover='dropdown'
-          href='/CafeSupremo/blog.html'
+          href='/blog.html'
           target='_self'
         >
           BLOG
