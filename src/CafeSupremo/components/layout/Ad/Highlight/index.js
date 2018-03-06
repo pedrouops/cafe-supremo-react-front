@@ -16,18 +16,12 @@ export default ({ name, description, data, id }) => {
           className={
             'contentItem ' + data.ad_textposition + ' ' + data.ad_textcolor
           }
-          id={id + '-contentItem'}
         >
           <div className='name'>{name}</div>
           <div className='description'>{description}</div>
           <button type='button'>shop now</button>
         </div>
-        <img
-          className='image image-fill'
-          id={id + '-image'}
-          src={imageBannerURL}
-          alt=''
-        />
+        <img className='image image-fill' src={imageBannerURL} alt='' />
       </div>
     </a>
   )

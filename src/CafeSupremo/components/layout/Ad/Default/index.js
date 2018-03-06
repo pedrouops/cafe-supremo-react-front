@@ -2,14 +2,14 @@ import './design.css'
 
 export default data => (
   <a href={data.ad_commerceurl} target='_blank'>
-    <div class='ad-default'>
-      <div class={'contentItem ' + data.ad_textcolor} id={id + '-contentItem'}>
-        <div class='name'>{name}</div>
+    <div className='ad-default'>
+      <div className={'contentItem ' + data.ad_textcolor}>
+        <div className='name'>{name}</div>
         <hr />
-        <div class='description'>{description}</div>
+        <div className='description'>{description}</div>
         <button type='button'>shop now</button>
       </div>
-      <img class='image' id={id + '-image'} src={imageSideURL} alt='' />
+      <img className='image' src={imageSideURL} alt='' />
     </div>
   </a>
 )

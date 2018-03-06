@@ -1,73 +1,17 @@
-/* globals define */
+import './design.css'
 
-define([
-	'jquery',
-	'mustache',
-	'text!./layout.html',
-	'css!./design.css'
-], function($, Mustache, templateHtml, css) {
-	'use strict';
+const ContentLayout = () => (
+  <a href={scsData.detailPageLink}>
+    <div className='blog-default'>
+      <div className='button-wrapper'>
+        <div className='button'>{data.blog_category}</div>
+      </div>
 
-	function ContentLayout(params) {
-		this.contentItemData = params.contentItemData || {};
-		this.scsData = params.scsData;
-		this.contentClient = params.contentClient || params.scsData.contentClient;
-	}
-
-	ContentLayout.prototype = {
-		render: function(parentObj) {
-			var template,
-				content = $.extend({}, this.contentItemData),
-				contentClient = this.contentClient,
-				contentType,
-				secureContent = false;
-
-			if (this.scsData) {
-				content = $.extend(content, { 'scsData': this.scsData });
-				contentType = content.scsData.showPublishedContent === true ? 'published' : 'draft';
-				secureContent = content.scsData.secureContent;
-			}
-
-
-			try {
-                // Get formatted date
-                content.formattedDate = dateToMDY(content.updateddate);
-
-                // Get blog image
-                content.imageHeaderURL = contentClient.getRenditionURL({
-                    'itemGUID': (content.data.blog_image_thumbnail instanceof Object) ? content.data.blog_image_thumbnail.id : content.data.blog_image_thumbnail,
-                    'contentType': contentType,
-                    'secureContent': secureContent
-                });
-
-                // I Mustache you to bind this
-                var template =  Mustache.render(templateHtml, content);
-                $(parentObj).append(template);
-
-            } catch (err) {
-                console.error("Couldn't render content:", err);
-            }
-		}
-	};
-
-	function dateToMDY(date) {
-		var dateObj = new Date(date.value);
-		var options = {year: 'numeric', month: 'long', day: 'numeric'};
-		var formattedDate = dateObj.toLocaleDateString('en-US', options);
-		return formattedDate;
-	}
-
-	return ContentLayout;
-});<a href="{{scsData.detailPageLink}}">
-	<div class="blog-default">
-		<div class="button-wrapper">
-			<div class="button">{{data.blog_category}}</div>
-		</div>
-
-		<img class="image" src="{{imageHeaderURL}}">	
-		<div class="contentItem" id="{{id}}-contentItem">
-			<div class="name">{{name}}</div>
-			<div class="date">{{formattedDate}}</div>
-		</div>
-	</div>
-</a>
+      <img className='image' src={imageHeaderURL} />
+      <div className='contentItem'>
+        <div className='name'>{name}</div>
+        <div className='date'>{formattedDate}</div>
+      </div>
+    </div>
+  </a>
+)
