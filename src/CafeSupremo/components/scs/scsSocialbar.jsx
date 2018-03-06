@@ -5,11 +5,6 @@ const blank =
 const Component = ({ data }) => {
   const {
     alignment = 'left',
-    backgroundColor = '',
-    borderColor = '#808080',
-    borderRadius = 0,
-    borderStyle = 'none',
-    borderWidth = 1,
     iconSize = 28,
     iconSpacing = 10,
     images = [],
@@ -39,8 +34,8 @@ const Component = ({ data }) => {
         >
           <div className='scs-component-content'>
             <div className='scs-socialbar-container'>
-              {images.map(e => (
-                <a href={e.link} target='_blank'>
+              {images.map((e, index) => (
+                <a key={index} href={e.link} target='_blank'>
                   <img
                     className={'scs-socialbar-icon ' + e['class']}
                     src={blank}
