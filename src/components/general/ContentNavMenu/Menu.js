@@ -4,7 +4,7 @@ import './nav-menu.css'
 const Menu = () => (
   <div>
     <div className='navcontainer'>
-      <nav className='main-nav' role='navigation'>
+      <nav className='main-nav'>
         <div className='navbar-header'>
           <button
             className='navbar-toggle'
@@ -66,6 +66,7 @@ const Menu = () => (
 
                                           <img
                                             className='image'
+                                            alt=''
                                             src='https://www.mycontentdemo.com/content/published/api/v1/digital-assets/DigitalAsset_proxy_f70348c8-8207-4cfd-a843-48b6d6d97a15/default?cb=_cache_7d24'
                                           />
                                           <div
