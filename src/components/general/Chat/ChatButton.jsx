@@ -4,9 +4,8 @@ import './chat.css'
 class ChatButton extends React.Component {
   constructor (props) {
     super(props)
-    var isClicked = false;
     this.handleClick = this.handleClick.bind(this)
-    this.state = { isClicked: isClicked === 'false' }
+    this.state = { isClicked: false }
   }
   handleClick(){
     this.setState({isClicked : !this.state.isClicked});
