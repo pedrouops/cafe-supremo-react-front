@@ -18,8 +18,8 @@ class Chat extends React.Component {
 
     debug('constructor: ')
     // todo
-    var self = this
-    var count = 0
+    let count = 0
+    let self=this
 
     // Values that will not change can be const types
 
@@ -27,9 +27,9 @@ class Chat extends React.Component {
     const userId = '1'
     const websocketConnectionUrl = 'ws://141.144.22.238:8888/chat/ws'
 
-    var currentConnection
-    var ws
-    self.waitingForText = false
+    let currentConnection
+    let ws
+    this.waitingForText = false
 
     const messageToBot = {
       to: {
@@ -38,7 +38,7 @@ class Chat extends React.Component {
       }
     }
 
-    var connection = websocketConnectionUrl + '?user=' + userId
+    let connection = websocketConnectionUrl + '?user=' + userId
     if (connection !== currentConnection) {
       currentConnection = connection
       debug('initWebSocketIfNeeded: currentConnection ' + currentConnection)
@@ -48,18 +48,18 @@ class Chat extends React.Component {
       ws.onmessage = function (evt) {
         self.waitingForText = false
         debug('Message received: ' + evt.data)
-        var response = JSON.parse(evt.data)
+        let response = JSON.parse(evt.data)
         if (
           response.hasOwnProperty('body') &&
           response.body.hasOwnProperty('messagePayload')
         ) {
-          var messagePayload = response.body.messagePayload
+          let messagePayload = response.body.messagePayload
 
           // ES6 Note the use of Backquotes
           debug(`messagePayload is ${messagePayload.text}`)
           debug('Message payload: ' + JSON.stringify(messagePayload))
 
-          var messageRecieved = JSON.stringify(messagePayload.text)
+          let messageRecieved = JSON.stringify(messagePayload.text)
           addMessage(messageRecieved)
         } else if (response.hasOwnProperty('error')) {
           debug('FAIL:' + response.error.message)
@@ -68,7 +68,7 @@ class Chat extends React.Component {
       }
     }
 
-    var sendToBot = function (message, isAcknowledge) {
+    const sendToBot = function (message, isAcknowledge) {
       // wait for websocket until open
       waitForSocketConnection(ws, function () {
         self.waitingForText = true
@@ -76,7 +76,7 @@ class Chat extends React.Component {
         debug('Message sent: ' + JSON.stringify(message))
       })
     }
-    var waitForSocketConnection = function (socket, callback) {
+    const waitForSocketConnection = function (socket, callback) {
       setTimeout(function () {
         if (socket.readyState === 1) {
           callback()
