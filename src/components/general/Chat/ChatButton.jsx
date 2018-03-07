@@ -7,21 +7,25 @@ class ChatButton extends React.Component {
     this.handleClick = this.handleClick.bind(this)
     this.state = { isClicked: false }
   }
-  handleClick(){
-    this.setState({isClicked : !this.state.isClicked});
+  handleClick () {
+    this.setState({ isClicked: !this.state.isClicked })
   }
 
   render () {
     return this.state.isClicked ? (
       <div className='chat-outer-box'>
-          <Chat/>
-         </div>
-          ) : (
-        <div className='chat-open-button'> <button className='chat-hidden-button' id='someButton' onClick={this.handleClick}>
-
-               </button>
-         </div>
-      )
+        <Chat />
+      </div>
+    ) : (
+      <div className='chat-open-button'>
+        {' '}
+        <button
+          className='chat-hidden-button'
+          id='someButton'
+          onClick={this.handleClick}
+        />
+      </div>
+    )
   }
 }
 export default ChatButton

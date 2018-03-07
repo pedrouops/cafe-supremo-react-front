@@ -1,8 +1,6 @@
 import React from 'react'
 import '../layout/Blog/Highlight/design.css'
 
-
-
 const Blog = ({ href, type, title, date, name, description, src, alt }) => (
   <a href={href}>
     <div className='blog-highlight'>

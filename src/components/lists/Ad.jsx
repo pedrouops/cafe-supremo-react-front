@@ -1,15 +1,7 @@
 import React from 'react'
 import '../layout/Ad/Highlight/design.css'
 
-
-const Ad = ({
-  categoryLink,
-  position,
-  brightness,
-  name,
-  description,
-  src
-}) => (
+const Ad = ({ categoryLink, position, brightness, name, description, src }) => (
   <div>
     <a href={categoryLink} target='_blank'>
       <div className='ad-highlight'>
