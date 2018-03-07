@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "format": "prettier-standard 'src/**/*.js'",
+    "format": "prettier-standard 'src/**/*.js' && prettier-standard 'src/**/*.jsx'",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
