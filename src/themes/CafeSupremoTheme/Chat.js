@@ -17,7 +17,7 @@ class Chat extends React.Component {
     const debug = message => console.log(message);
 
     debug("constructor: ");
-
+    //todo
     var self = this;
     var count = 0;
 
