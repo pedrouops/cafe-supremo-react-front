@@ -9,7 +9,7 @@
                 "description": null,
                 "keywords": "",
                 "header": "",
-                "footer": "<div class=\"scs-cookie-consent\" data-scs-consent-version=\"1\" style=\"display: none;\">This site uses cookies.  Please review our <a href=\"[!--$SCS_PAGE--]77[/!--$SCS_PAGE--]\">Privacy Policy</a>.  <a href=\"#\" alt=\"close\" class=\"scs-cookie-consent-close\"></a>  </div> <div style=\"scs-chat-button\">EMMA</div>",
+                "footer": "<div class=\"scs-cookie-consent\" data-scs-consent-version=\"1\" style=\"display: none;\">This site uses cookies.  Please review our <a href=\"[!--$SCS_PAGE--]77[/!--$SCS_PAGE--]\">Privacy Policy</a>.  <a href=\"#\" alt=\"close\" class=\"scs-cookie-consent-close\"></a></div>",
                 "hideFromSearchEngines": false,
                 "errorPage": null,
                 "siteURL": "",
