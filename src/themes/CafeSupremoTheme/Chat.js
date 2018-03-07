@@ -3,7 +3,6 @@ import ReconnectingWebSocket from 'reconnecting-websocket';
 
 class Chat extends React.Component {
     constructor(props) {
-
     //allows you to access this.props in the constructor method
     super(props);
     //initialize the state
