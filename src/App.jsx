@@ -1,19 +1,8 @@
 import React, { Component } from 'react'
-import PropTypes from 'prop-types'
+import Layout from './components/general/Chat/ChatButton'
 
-import Layout from './themes/CafeSupremoTheme/Default'
-import pageData from './render/pagedata'
-
-// Main JavaScript
-global.jQuery = require('jquery')
-require('bootstrap')
-
-export default class CafeSupremo extends Component {
-  getChildContext () {
-    return {
-      pageData: pageData('slug')
-    }
-  }
+export default class App extends Component {
+ 
   render () {
     return (
       <React.Fragment>
@@ -21,7 +10,4 @@ export default class CafeSupremo extends Component {
       </React.Fragment>
     )
   }
-}
-CafeSupremo.childContextTypes = {
-  pageData: PropTypes.object
 }

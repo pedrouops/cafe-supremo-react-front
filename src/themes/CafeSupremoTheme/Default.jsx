@@ -5,7 +5,6 @@ import './assets/css/styles.css'
 import './assets/plugins/bootstrap/css/bootstrap.css'
 
 import Header from './Header'
-import Chat from './Chat'
 import Footer from './Footer'
 import Slot from '../../components/system/Slot'
 
@@ -17,7 +16,6 @@ const Default = () => (
     <Slot className='headline scs-slot' id='blog' />
     <Footer />
     <CookieConsent />
-    <ChatButton/>
   </div>
 )
 
@@ -48,31 +46,5 @@ class CookieConsent extends React.Component {
     )
   }
 }
-
-class ChatButton extends React.Component {
-  constructor (props) {
-    super(props)
-    var isClicked = false;
-    this.handleClick = this.handleClick.bind(this)
-    this.state = { isClicked: isClicked === 'false' }
-  }
-  handleClick(){
-    this.setState({isClicked : !this.state.isClicked});
-  }
-
-  render () {
-    return this.state.isClicked ? (
-      <div className='chat-outer-box'>
-          <Chat/>
-         </div>
-          ) : (
-        <div className='chat-open-button'> <button className='chat-hidden-button' id='someButton' onClick={this.handleClick}>
-
-               </button>
-         </div>
-      )
-  }
-}
-
 
 export default Default
