@@ -1,0 +1,7 @@
+const unique = (e,i,a) => a.indexOf(e) === i
+
+const types = allItems.map(item => item.type).sort().filter(unique)
+
+const full = items.map(item => content[item.id]).reduce((aggr, item)=> Object.assign(aggr, {[item.data.id]: item}),[])
+
+console.log(JSON.stringify({ALL:{data: {items: items}}, ...full },null,2))
