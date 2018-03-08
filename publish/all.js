@@ -3,8 +3,7 @@ const fs = require('fs')
 
 const contentTypes = ['Ad', 'Promo', 'Blog']
 const token = '11ad271cc1ae61bd03249332e8445c96'
-const cb = '_cache_7d24'
-// &fields=ALL
+
 const host = 'https://demo-gse00009991.sites.us2.oraclecloud.com'
 
 const itemsURL = ({ maxResults, sortOrder }) =>
@@ -27,7 +26,6 @@ const queryOp = ({ maxResults, sortOrder }) => ({
   sortOrder
 })
 
-// console.log(queries)
 const esc = encodeURIComponent
 const key = ({ maxResults, sortOrder }) => `ALL;${maxResults};${sortOrder}`
 
@@ -55,7 +53,7 @@ const fetches = Promise.all(
   [{ maxResults: 500, sortOrder: 'updateddate:desc' }].map(e =>
     fetch(itemsURL(e))
       .then(response => response.json())
-      .then(data => ({ [key(e)]: { data: data, query: queryOp(e) } }))
+      .then(data => ({ ALL: { data: data, query: queryOp(e) } }))
   )
 )
 fetches

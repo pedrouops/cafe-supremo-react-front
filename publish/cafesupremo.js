@@ -1,15 +1,15 @@
 const fetch = require('node-fetch')
+const structure = require('../src/data/structure.json')
 
 const contentTypes = ['Ad', 'Promo', 'Blog']
 const token = '11ad271cc1ae61bd03249332e8445c96'
-const cb = '_cache_7d24'
 // &fields=ALL
 const host = 'https://demo-gse00009991.sites.us2.oraclecloud.com'
 
 const itemsURL = ({ contentType, maxResults, sortOrder }) =>
   `${host}/content/published/api/v1/items?field:type:equals=${contentType}&contentType=published&orderBy=${esc(
     sortOrder
-  )}&limit=${maxResults}&access-token=${token}&cb=${cb}`
+  )}&limit=${maxResults}&access-token=${token}`
 
 const dump = s => {
   console.log(JSON.stringify(s, null, 2))
@@ -19,11 +19,6 @@ const write = data => {
     fs.writeFileSync('src/data/content/cafesupremo.json', JSON.stringify(data,null,2))
     return data
 }
-
-const structure = require('../src/data/structure.json')
-
-// const pages=  structure.base.pages.filter(e => !e.isDetailPage && !e.isSearchPage)
-// console.log('PAGES',pages)
 
 const pages = [12, 34, 39, 41, 43, 44].reduce(
   (a, id) =>
@@ -35,13 +30,7 @@ const queryOp = ({ contentType, maxResults, sortOrder }) => ({
   maxResults,
   sortOrder
 })
-
-const queries = Object.values(pages)
-  .map(page => Object.values(page.base.componentInstances))
-  .reduce((a, e) => a.concat(e), [])
-  .filter(e => e.type === 'scs-contentlist')
-  .map(e =>
-    [
+const fieldsFromContentList = [
       'contentTypes',
       'dateFilter',
       'dateFilterBegin',
@@ -52,7 +41,13 @@ const queries = Object.values(pages)
       'maxResults',
       'queryString',
       'sortOrder'
-    ].reduce((a, i) => Object.assign(a, { [i]: e.data[i] }), {})
+    ]
+const queries = Object.values(pages)
+  .map(page => Object.values(page.base.componentInstances))
+  .reduce((a, e) => a.concat(e), [])
+  .filter(e => e.type === 'scs-contentlist')
+  .map(e =>
+    fieldsFromContentList.reduce((a, i) => Object.assign(a, { [i]: e.data[i] }), {})
   )
 
 // console.log(queries)
