@@ -16,8 +16,11 @@ const dump = s => {
   return s
 }
 const write = data => {
-    fs.writeFileSync('src/data/content/cafesupremo.json', JSON.stringify(data,null,2))
-    return data
+  fs.writeFileSync(
+    'src/data/content/cafesupremo.json',
+    JSON.stringify(data, null, 2)
+  )
+  return data
 }
 
 const pages = [12, 34, 39, 41, 43, 44].reduce(
@@ -31,23 +34,26 @@ const queryOp = ({ contentType, maxResults, sortOrder }) => ({
   sortOrder
 })
 const fieldsFromContentList = [
-      'contentTypes',
-      'dateFilter',
-      'dateFilterBegin',
-      'dateFilterEnd',
-      'dateFilterNumber',
-      'dateFilterNumber2',
-      'dateFilterUnits',
-      'maxResults',
-      'queryString',
-      'sortOrder'
-    ]
+  'contentTypes',
+  'dateFilter',
+  'dateFilterBegin',
+  'dateFilterEnd',
+  'dateFilterNumber',
+  'dateFilterNumber2',
+  'dateFilterUnits',
+  'maxResults',
+  'queryString',
+  'sortOrder'
+]
 const queries = Object.values(pages)
   .map(page => Object.values(page.base.componentInstances))
   .reduce((a, e) => a.concat(e), [])
   .filter(e => e.type === 'scs-contentlist')
   .map(e =>
-    fieldsFromContentList.reduce((a, i) => Object.assign(a, { [i]: e.data[i] }), {})
+    fieldsFromContentList.reduce(
+      (a, i) => Object.assign(a, { [i]: e.data[i] }),
+      {}
+    )
   )
 
 // console.log(queries)

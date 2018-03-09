@@ -19,8 +19,11 @@ const dump = s => {
 }
 
 const write = data => {
-    fs.writeFileSync(path.join(__dirname , '/content.json'), JSON.stringify(data,null,2))
-    return data
+  fs.writeFileSync(
+    path.join(__dirname, '/content.json'),
+    JSON.stringify(data, null, 2)
+  )
+  return data
 }
 
 const esc = encodeURIComponent
@@ -43,12 +46,10 @@ const fetchItems = data => {
     .then(a => a.reduce((a, e) => Object.assign(a, e), {}))
     .then(r => Object.assign(data, r))
 }
-const fetches = 
-    fetch(itemsURL({ maxResults: 500, sortOrder: 'updateddate:desc' }))
-      .then(response => response.json())
-      .then(data => ({ ALL: { data: data} }))
-  
+const fetches = fetch(
+  itemsURL({ maxResults: 500, sortOrder: 'updateddate:desc' })
+)
+  .then(response => response.json())
+  .then(data => ({ ALL: { data: data } }))
 
-fetches
-  .then(fetchItems)
-  .then(write)
+fetches.then(fetchItems).then(write)

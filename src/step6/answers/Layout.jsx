@@ -29,7 +29,7 @@ export default class Layout extends Component {
   render () {
     return (
       <div>
-        <Body/>
+        <Body />
       </div>
     )
   }
@@ -37,9 +37,9 @@ export default class Layout extends Component {
 const w100pct = { width: '100%' }
 const w50px = { width: '50px' }
 
-const Body = () =>(
+const Body = () => (
   <div className='w3-light-grey'>
-    <div className='w3-content' style={({maxWidth:'1400px'})}>
+    <div className='w3-content' style={{ maxWidth: '1400px' }}>
       <Header />
       <div className='w3-row'>
         <div className='w3-col l8 s12'>
@@ -81,7 +81,7 @@ const Footer = () => (
 
 const AboutCard = () => (
   <div className='w3-card w3-margin w3-margin-top'>
-    <img src='/w3images/avatar_g.jpg' style={ w100pct } />
+    <img src='/w3images/avatar_g.jpg' style={w100pct} />
     <div className='w3-container w3-white'>
       <h4>
         <b>Coffee Lovers</b>
@@ -94,8 +94,6 @@ const AboutCard = () => (
     </div>
   </div>
 )
-
-
 
 const PopularPosts = () => (
   <div className='w3-card w3-margin'>
@@ -233,15 +231,19 @@ const BlogsOld = () => (
     </div>
   </div>
 )
-const Blogs = () => <List/>
+const Blogs = () => <List />
 const NoItems = () => <div>No items to display</div>
 const List = () => (
   <div>
     {items.map(fullItem).map((item, index) => <Blog key={index} item={item} />)}
   </div>
 )
-const  dateToMDY =(date) =>  new Date(date.value).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
-    
+const dateToMDY = date =>
+  new Date(date.value).toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  })
 
 const Blog = ({ item }) => {
   const { data } = item
@@ -261,7 +263,7 @@ const Blog = ({ item }) => {
   const image = toHref(blog_image_thumbnail.link)
   const date = dateToMDY(item.updateddate)
   return (
-  <div className='w3-card-4 w3-margin w3-white'>
+    <div className='w3-card-4 w3-margin w3-white'>
       <img src={image} alt={item.name} style={w100pct} />
       <div className='w3-container'>
         <h3>
@@ -285,6 +287,5 @@ const Blog = ({ item }) => {
         </div>
       </div>
     </div>
-  
   )
 }

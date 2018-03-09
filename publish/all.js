@@ -17,8 +17,8 @@ const dump = s => {
 }
 
 const write = data => {
-    fs.writeFileSync('src/data/content/all.json', JSON.stringify(data,null,2))
-    return data
+  fs.writeFileSync('src/data/content/all.json', JSON.stringify(data, null, 2))
+  return data
 }
 
 const queryOp = ({ maxResults, sortOrder }) => ({
