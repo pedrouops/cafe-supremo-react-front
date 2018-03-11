@@ -75,10 +75,6 @@ class Chat extends React.Component {
             debug("FAIL:" + response.error.message);
             addMessage(response.error.message);
           }
-
-
-
-
       }
     }
 
