@@ -1,9 +1,11 @@
 const fetch = require('node-fetch')
+const path = require('path')
+
 const fs = require('fs')
 
 const contentTypes = ['Ad', 'Promo', 'Blog']
-const token = '11ad271cc1ae61bd03249332e8445c96'
 
+const token = '11ad271cc1ae61bd03249332e8445c96'
 const host = 'https://demo-gse00009991.sites.us2.oraclecloud.com'
 
 const itemsURL = ({ maxResults, sortOrder }) =>
@@ -17,17 +19,16 @@ const dump = s => {
 }
 
 const write = data => {
-  fs.writeFileSync('src/data/content/all.json', JSON.stringify(data, null, 2))
+  fs.writeFileSync(
+    path.join(__dirname, '/content.json'),
+    JSON.stringify(data, null, 2)
+  )
   return data
 }
 
-const queryOp = ({ maxResults, sortOrder }) => ({
-  maxResults,
-  sortOrder
-})
-
 const esc = encodeURIComponent
-const key = ({ maxResults, sortOrder }) => `ALL;${maxResults};${sortOrder}`
+
+const noDigitalAssets = e => e.type !== 'DigitalAsset'
 
 const fetchItem = link => {
   return fetch(`${link.href}?access-token=${token}`)
@@ -35,13 +36,9 @@ const fetchItem = link => {
     .then(data => ({ [link.id]: { data: data } }))
 }
 const fetchItems = data => {
-  const links = Object.values(data)
-    .map(e =>
-      e.data.items
-        .filter(e => e.type !== 'DigitalAsset')
-        .map(e => ({ id: e.id, href: e.link.href, rel: e.link.rel }))
-    )
-    .reduce((a, e) => a.concat(e), [])
+  const links = data.ALL.data.items
+    .filter(noDigitalAssets)
+    .map(e => ({ id: e.id, href: e.link.href, rel: e.link.rel }))
     .sort((a, b) => a.href.localeCompare(b.href))
     .filter((e, i, a) => a.indexOf(e) === i)
   const itemFetches = links.map(fetchItem)
@@ -49,14 +46,10 @@ const fetchItems = data => {
     .then(a => a.reduce((a, e) => Object.assign(a, e), {}))
     .then(r => Object.assign(data, r))
 }
-const fetches = Promise.all(
-  [{ maxResults: 500, sortOrder: 'updateddate:desc' }].map(e =>
-    fetch(itemsURL(e))
-      .then(response => response.json())
-      .then(data => ({ ALL: { data: data, query: queryOp(e) } }))
-  )
+const fetches = fetch(
+  itemsURL({ maxResults: 500, sortOrder: 'updateddate:desc' })
 )
-fetches
-  .then(a => a.reduce((a, e) => Object.assign(a, e), {}))
-  .then(fetchItems)
-  .then(write)
+  .then(response => response.json())
+  .then(data => ({ ALL: { data: data } }))
+
+fetches.then(fetchItems).then(write)

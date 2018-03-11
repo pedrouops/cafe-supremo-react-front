@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Layout from './components/general/Chat/ChatButton'
+import Layout from './step1/Layout'
 
 export default class App extends Component {
   render () {

@@ -1,0 +1,1418 @@
+{
+  "ALL": {
+    "data": {
+      "items": [
+        {
+          "id": "Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44",
+          "description": "What makes the perfect coffee",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "The Perfect Coffee",
+          "type": "Blog"
+        },
+        {
+          "id": "Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a",
+          "description": "Step by step guide for the perfect consistency",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "Cake Batter The Right Way!",
+          "type": "Blog"
+        },
+        {
+          "id": "Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+          "description": "Creating iced coffee the right way",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "Iced Coffee",
+          "type": "Blog"
+        },
+        {
+          "id": "Blog_core_c292363b-37a4-4964-9905-6de06d25adf3",
+          "description": "Good for the heart and soul",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "Sustainable Coffee for you",
+          "type": "Blog"
+        },
+        {
+          "id": "Blog_core_2fe962a2-322b-4621-9c49-42803441d16b",
+          "description": "Make your coffee look as good as it tastes",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "Create Beautiful Latte Art!",
+          "type": "Blog"
+        },
+        {
+          "id": "Blog_core_85ada799-60f1-45eb-a589-96413cacd63c",
+          "description": "Giving back to the community",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "Power of Coffee",
+          "type": "Blog"
+        },
+        {
+          "id": "Blog_core_f3f69912-9a81-497e-adad-80e0eb800098",
+          "description": "Ask him anything",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "Meet our Barista of the Month",
+          "type": "Blog"
+        },
+        {
+          "id": "Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+          "description": "Getting the best look from your espresso",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "Pouring Just The Right Cup",
+          "type": "Blog"
+        },
+        {
+          "id": "Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4",
+          "description": "Get the perfect pastries to go with your prefect coffee",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "Our Pastries",
+          "type": "Blog"
+        },
+        {
+          "id": "Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5",
+          "description": "Make the sweetest lightest meringue ever",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "The Perfect Meringue",
+          "type": "Blog"
+        }
+      ]
+    }
+  },
+  "Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44": {
+    "data": {
+      "id": "Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44",
+      "type": "Blog",
+      "name": "The Perfect Coffee",
+      "description": "What makes the perfect coffee",
+      "createddate": {
+        "value": "2018-01-29T16:06:06.391Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2018-01-29T16:06:06.829Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "DRINKS",
+        "blog_textposition": "Right",
+        "blog_textcolor": "Light",
+        "blog_content": "<!DOCTYPE html><p>Perfect coffee pleasure, is no accident: it must be deliberately created, consistently and without compromise, cup after cup, by living our principles.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Along the complex path from bean to cup there are quicker ways of doing things than we do, and there are certainly cheaper ways. But there is no better way. Knowing a single faulty bean can taint a whole batch, we take control of quality down to the very last one &ndash; with a deliberate dedication to getting the details right at every step of the way.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_60f983bf-195b-4cf5-8a05-96753b3972db",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_60f983bf-195b-4cf5-8a05-96753b3972db",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_2fa41b4a-51fd-4390-9fac-5afb01383f8f",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_2fa41b4a-51fd-4390-9fac-5afb01383f8f",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_eaacbc7f-2ac7-4a9d-8866-f6602c8f72f3",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_eaacbc7f-2ac7-4a9d-8866-f6602c8f72f3",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_153ff593-c61b-43be-874e-16965646f512",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_153ff593-c61b-43be-874e-16965646f512",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "robert.briggs@oracle.com",
+          "version": "3",
+          "publisheddate": {
+            "value": "2018-01-29T16:06:04.911Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "DC70A2ECD7FA759DBDAC2E69ECCA8B41B03C8311AD5D",
+        "version": "3"
+      }
+    }
+  },
+  "Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a": {
+    "data": {
+      "id": "Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a",
+      "type": "Blog",
+      "name": "Cake Batter The Right Way!",
+      "description": "Step by step guide for the perfect consistency",
+      "createddate": {
+        "value": "2017-05-08T22:01:24.349Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-11-08T19:20:27.476Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_d18f5d5e-3e94-454b-bd38-aaadcac5a75a",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "RECIPES",
+        "blog_textposition": "Right",
+        "blog_textcolor": "Dark",
+        "blog_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus eu purus ac maximus. Morbi quis dignissim nisl. Nullam maximus urna sed enim eleifend efficitur. Suspendisse sagittis nulla egestas ligula placerat consequat. Morbi eget odio quis lacus laoreet lacinia. Cras vel mollis arcu, et ultricies enim. Sed at mi sed ante blandit tincidunt vitae nec ante. Proin congue id leo sed pellentesque. Nam blandit sollicitudin enim, sed venenatis mi sagittis vel. Maecenas gravida feugiat purus, et bibendum sem. Proin diam libero, placerat at risus ut, volutpat posuere turpis. Aliquam in mauris mauris. Curabitur vehicula diam at risus blandit, ut elementum enim dictum. In ac interdum turpis.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Praesent eleifend tincidunt convallis. Pellentesque rhoncus volutpat ex, sed posuere mi mattis ut. Nulla non nibh nunc. Quisque mauris urna, efficitur ac hendrerit sit amet, viverra nec erat. Aliquam erat volutpat. Donec risus sem, condimentum sed nulla sed, maximus porttitor risus. Etiam neque neque, molestie sit amet sem nec, efficitur venenatis lorem. Etiam pellentesque mi eu vehicula finibus.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Proin ac enim non neque pellentesque bibendum et eu sem. Suspendisse a purus ut tortor scelerisque pharetra. Nullam maximus tempor vulputate. Vivamus malesuada, libero vel placerat euismod, magna lacus mattis lectus, dignissim pellentesque massa risus eu mauris. Vivamus scelerisque nunc diam, eu tristique metus viverra at. Fusce nunc tellus, congue quis dictum eget, malesuada nec tellus. Curabitur pretium consectetur lacinia. Fusce et metus mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce fermentum at mauris sed rhoncus. Aenean ut accumsan quam. Duis velit leo, tempor sit amet eros sed, aliquam sodales lorem.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Mauris eu neque vitae odio eleifend bibendum. Morbi bibendum aliquam lectus at congue. Nunc vulputate tempor augue eu suscipit. Vivamus enim diam, vehicula eget justo non, elementum consequat nibh. Ut lectus odio, lacinia eget nulla vel, pharetra laoreet arcu. Sed in lectus vitae orci auctor luctus vel non risus. Morbi non turpis leo. Nunc tempus augue eget semper tristique. Phasellus faucibus placerat massa non tincidunt.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_81812417-0cd8-4ece-97a6-1e85c9867a5a",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_81812417-0cd8-4ece-97a6-1e85c9867a5a",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_fa72b211-85a5-457d-bf50-50c4c497acc3",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_fa72b211-85a5-457d-bf50-50c4c497acc3",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_fd150797-019b-487e-b1c2-cc674e277cc8",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_fd150797-019b-487e-b1c2-cc674e277cc8",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_7a5feb70-68d8-4132-9dbe-f6241eb53b73",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_7a5feb70-68d8-4132-9dbe-f6241eb53b73",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "3",
+          "publisheddate": {
+            "value": "2017-11-08T19:20:25.763Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D46512F621DAF1F696372F32ECCA8B41B03C8311AD5D",
+        "version": "3"
+      }
+    }
+  },
+  "Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c": {
+    "data": {
+      "id": "Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+      "type": "Blog",
+      "name": "Iced Coffee",
+      "description": "Creating iced coffee the right way",
+      "createddate": {
+        "value": "2017-10-27T04:31:28.133Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-10-27T04:31:29.196Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_c8570d3b-e9db-48e7-9d40-67c0b016c03c",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "DRINKS",
+        "blog_textposition": "Left",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt dignissim posuere. Ut et ultricies libero. Nulla eget cursus lorem. Duis accumsan sapien mauris, ut facilisis nulla dignissim eu. Praesent vitae erat imperdiet ante accumsan finibus. Vestibulum ac ligula tristique, luctus orci sit amet, placerat velit. Fusce id orci sodales, euismod lacus eget, aliquam justo. Nulla ultrices ligula neque, eget efficitur enim pharetra non. Sed facilisis imperdiet elit ac suscipit.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Proin ut enim facilisis, ullamcorper velit non, placerat mi. Curabitur egestas tellus tristique ligula egestas, ut placerat ex gravida. Nulla pellentesque eros eget tempor pharetra. Aenean orci nibh, suscipit ac tempor eu, pellentesque porttitor orci. Suspendisse potenti. Cras elementum vehicula sapien, vel gravida ipsum hendrerit nec. Nunc bibendum libero porttitor, vehicula nulla eu, vestibulum elit. Maecenas semper dolor sit amet ex mollis elementum. Nullam semper consequat diam, non dignissim justo placerat vel. Sed diam purus, venenatis id scelerisque at, vestibulum sit amet enim.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Aliquam pellentesque urna ac mauris viverra, nec mollis magna ornare. Morbi varius varius nunc nec imperdiet. Vivamus sapien urna, hendrerit et est sed, gravida facilisis nunc. Praesent eget orci nisl. Ut venenatis vestibulum vulputate. Quisque pretium scelerisque magna. Vivamus sodales ipsum ex, vitae sagittis mi scelerisque eu. Mauris sit amet pellentesque leo, sed molestie felis. Proin eu cursus mauris. Integer consectetur tincidunt nibh sed tempor. Maecenas a lectus finibus, tristique leo vulputate, feugiat tellus. Phasellus euismod et leo sed consectetur. Aenean facilisis eget odio et iaculis.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_9d3f9087-b99e-4710-b205-313f9435d9fe",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_9d3f9087-b99e-4710-b205-313f9435d9fe",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_a43e93da-3bfb-4676-8713-041ec9873d21",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_a43e93da-3bfb-4676-8713-041ec9873d21",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_25eadc42-5f65-447b-a246-5adccfcbbeb0",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_25eadc42-5f65-447b-a246-5adccfcbbeb0",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_03cacd17-e8dc-443d-bb27-d1d1c6df283f",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_03cacd17-e8dc-443d-bb27-d1d1c6df283f",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "robert.briggs@oracle.com",
+          "version": "1",
+          "publisheddate": {
+            "value": "2017-10-27T04:31:27.518Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D653C2A970D6D43082F7E979ECCA8B41B03C8311AD5D",
+        "version": "1"
+      }
+    }
+  },
+  "Blog_core_c292363b-37a4-4964-9905-6de06d25adf3": {
+    "data": {
+      "id": "Blog_core_c292363b-37a4-4964-9905-6de06d25adf3",
+      "type": "Blog",
+      "name": "Sustainable Coffee for you",
+      "description": "Good for the heart and soul",
+      "createddate": {
+        "value": "2017-05-08T22:15:44.823Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-08-03T07:22:23.192Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_c292363b-37a4-4964-9905-6de06d25adf3",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "DRINKS",
+        "blog_textposition": "Center",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Our coffee comes from South American regions where we have a strong commitment to supporting the farming communities that supply our coffee, tea and cocoa, and other agricultural products.&nbsp; Experience our famous Aroma coffee roast today. Our coffee comes from South American regions where we have a strong commitment to supporting the farming communities that supply our coffee, tea and cocoa, and other agricultural products.&nbsp; Experience our famous Aroma coffee roast today.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Our coffee comes from South African regions where we have a strong commitment to supporting the farming communities that supply our coffee, tea and cocoa, and other agricultural products.&nbsp; Experience our famous Aroma coffee roast today. ​Our coffee comes from South American regions where we have a strong commitment to supporting the farming communities that supply our coffee, tea and cocoa, and other agricultural products. <o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Our coffee comes from South American regions where we have a strong commitment to supporting the farming communities that supply our coffee, tea and cocoa, and other agricultural products.&nbsp; Experience our famous Aroma coffee roast today. ​Our coffee comes from South American regions where we have a strong commitment to supporting the farming communities that supply our coffee, tea and cocoa, and other agricultural products.&nbsp; Experience our famous Aroma coffee roast today.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_65418071-9e7e-4ff5-a2a6-7513832106e1",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_65418071-9e7e-4ff5-a2a6-7513832106e1",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_e156c1a8-7f02-4e9d-b9bb-7a63077cea3c",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_e156c1a8-7f02-4e9d-b9bb-7a63077cea3c",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_43822e3b-c719-43b2-b93a-4ec86f623e36",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_43822e3b-c719-43b2-b93a-4ec86f623e36",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_d3a8a531-5a1a-4ef8-ad69-6105702037cd",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_d3a8a531-5a1a-4ef8-ad69-6105702037cd",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "3",
+          "publisheddate": {
+            "value": "2017-08-03T07:22:21.827Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "DB691D737D80CB95E626402BECCA8B41B03C8311AD5D",
+        "version": "3"
+      }
+    }
+  },
+  "Blog_core_2fe962a2-322b-4621-9c49-42803441d16b": {
+    "data": {
+      "id": "Blog_core_2fe962a2-322b-4621-9c49-42803441d16b",
+      "type": "Blog",
+      "name": "Create Beautiful Latte Art!",
+      "description": "Make your coffee look as good as it tastes",
+      "createddate": {
+        "value": "2017-05-08T22:39:56.651Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-05-08T22:40:24.659Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_2fe962a2-322b-4621-9c49-42803441d16b",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "HOW TO",
+        "blog_textposition": "Center",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>With a little practice, you can too can create designs with steamed milk.&nbsp; For National Coffee Day, we spoke to Cafe Supremo&#39;s barista of the month Kirk Walker who has a lot of latte experience.&nbsp; Here are Kirk&#39;s own 3 simple steps to how to make three classic latte recipes.&nbsp; First, start with the basics with the foam heart.&nbsp;&nbsp; For intermediates, try a rabbit shape for your favorite animal lover.&nbsp; And for experts, the beautiful and elegant Rosetta design.&nbsp; <o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>With a little practice, you can too can create designs with steamed milk.&nbsp; For National Coffee Day, we spoke to Cafe Supremo&#39;s barista of the month Kirk Walker who has a lot of latte experience.&nbsp; Here are Kirk&#39;s own 3 simple steps to how to make three classic latte recipes.&nbsp; First, start with the basics with the foam heart.&nbsp;&nbsp; For intermediates, try a rabbit shape for your favorite animal lover.&nbsp; And for experts, the beautiful and elegant Rosetta design.&nbsp; <o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>With a little practice, you can too can create designs with steamed milk.&nbsp; For National Coffee Day, we spoke to Cafe Supremo&#39;s barista of the month Kirk Walker who has a lot of latte experience.&nbsp; Here are Kirk&#39;s own 3 simple steps to how to make three classic latte recipes.&nbsp; First, start with the basics with the foam heart.&nbsp;&nbsp; For intermediates, try a rabbit shape for your favorite animal lover.&nbsp; And for experts, the beautiful and elegant Rosetta design.&nbsp; <o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>With a little practice, you can too can create designs with steamed milk.&nbsp; For National Coffee Day, we spoke to Cafe Supremo&#39;s barista of the month Kirk Walker who has a lot of latte experience.&nbsp; Here are Kirk&#39;s own 3 simple steps to how to make three classic latte recipes.&nbsp; First, start with the basics with the foam heart.&nbsp;&nbsp; For intermediates, try a rabbit shape for your favorite animal lover.&nbsp; And for experts, the beautiful and elegant Rosetta design.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_1c670c73-d036-48ea-81ba-c452f1ae299c",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_1c670c73-d036-48ea-81ba-c452f1ae299c",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_3eb6ff3b-2ccc-4771-8987-9e4308d73afd",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_3eb6ff3b-2ccc-4771-8987-9e4308d73afd",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_9a7fc0af-99f1-4511-b7d2-53ce65501115",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_9a7fc0af-99f1-4511-b7d2-53ce65501115",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_d84d7e6b-0fe3-4832-9f7a-51783ba75e84",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_d84d7e6b-0fe3-4832-9f7a-51783ba75e84",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "1",
+          "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "DB30A15C291845E0F5FC9CACECCA8B41B03C8311AD5D",
+        "version": "1"
+      }
+    }
+  },
+  "Blog_core_85ada799-60f1-45eb-a589-96413cacd63c": {
+    "data": {
+      "id": "Blog_core_85ada799-60f1-45eb-a589-96413cacd63c",
+      "type": "Blog",
+      "name": "Power of Coffee",
+      "description": "Giving back to the community",
+      "createddate": {
+        "value": "2017-05-08T22:39:57.870Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-05-08T22:40:21.604Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_85ada799-60f1-45eb-a589-96413cacd63c",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "PEOPLE",
+        "blog_textposition": "Left",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Our annual &quot;Power of Coffee&quot; fundraiser raised over $1 million to help families in need.&nbsp; With your donations last month, and Cafe Supremo&#39;s dollar for dollar matching, we hit our highest numbers ever!&nbsp; Thank you for being a part of our community and giving back to our community.&nbsp;&nbsp; Our annual &quot;Power of Coffee&quot; fundraiser raised over $1 million to help families in need.&nbsp; With your donations last month, and Cafe Supremo&#39;s dollar for dollar matching, we hit our highest numbers ever!&nbsp; Thank you for being a part of our community and giving back to our community.&nbsp; <o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sodales enim quis tortor euismod, eu egestas eros rhoncus. Vestibulum ac dui consequat, cursus velit eu, euismod felis. Ut tincidunt commodo nunc ut maximus.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Curabitur congue mauris in neque cursus sagittis. Donec porta feugiat cursus. Aliquam elementum vehicula magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tincidunt erat, vulputate rhoncus ex. In ultricies diam eu elit faucibus, eget tempus metus pulvinar. Sed et tempus arcu, a porttitor nibh.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_b13aa899-afac-45c2-ac23-d340eaceec55",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_b13aa899-afac-45c2-ac23-d340eaceec55",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_d1c87576-01cd-4bd5-83b6-fd1f461effa0",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_d1c87576-01cd-4bd5-83b6-fd1f461effa0",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_e88bc36c-066d-4669-8435-63d2b500a0d9",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_e88bc36c-066d-4669-8435-63d2b500a0d9",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_8e4e3cf9-53cb-4f5d-b138-9c9cf4df440d",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_8e4e3cf9-53cb-4f5d-b138-9c9cf4df440d",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "1",
+          "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D6DE6A61CA13230BE423CBFCECCA8B41B03C8311AD5D",
+        "version": "1"
+      }
+    }
+  },
+  "Blog_core_f3f69912-9a81-497e-adad-80e0eb800098": {
+    "data": {
+      "id": "Blog_core_f3f69912-9a81-497e-adad-80e0eb800098",
+      "type": "Blog",
+      "name": "Meet our Barista of the Month",
+      "description": "Ask him anything",
+      "createddate": {
+        "value": "2017-05-08T22:39:58.207Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-05-08T22:40:20.604Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_f3f69912-9a81-497e-adad-80e0eb800098",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "RECIPES",
+        "blog_textposition": "Center",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Meet Kirk, our barista of the month who works out of our Seattle Madison Park coffeeshop.&nbsp; His love of coffee started early, and he wants to share everything he knows with you.&nbsp;&nbsp; Learn anything from designing latte art to perfecting your coffee brew. Find out what his favorite coffee and ice cream pairing is.&nbsp; Visit Kirk today our flagship Cafe Supremo coffeeshop in Seattle and ask him anything.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Meet Kirk, our barista of the month who works out of our Seattle Madison Park coffeeshop.&nbsp; His love of coffee started early, and he wants to share everything he knows with you.&nbsp;&nbsp; Learn anything from designing latte art to perfecting your coffee brew. Find out what his favorite coffee and ice cream pairing is.&nbsp; Visit Kirk today our flagship Cafe Supremo coffeeshop in Seattle and ask him anything.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Meet Kirk, our barista of the month who works out of our Seattle Madison Park coffeeshop.&nbsp; His love of coffee started early, and he wants to share everything he knows with you.&nbsp;&nbsp; Learn anything from designing latte art to perfecting your coffee brew. Find out what his favorite coffee and ice cream pairing is.&nbsp; Visit Kirk today our flagship Cafe Supremo coffeeshop in Seattle and ask him anything.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_7525e262-ec54-45f6-a686-84c0fbd6fa7b",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_7525e262-ec54-45f6-a686-84c0fbd6fa7b",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_9e01720b-3ad1-4ea8-85d6-fad6257e4699",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_9e01720b-3ad1-4ea8-85d6-fad6257e4699",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_e3084412-433a-418c-8e52-1eb064d4f35c",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_e3084412-433a-418c-8e52-1eb064d4f35c",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_9f7dfabb-9bf9-48a9-a59d-8e166568796c",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_9f7dfabb-9bf9-48a9-a59d-8e166568796c",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "1",
+          "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D2F9C2530E14F4D960B92D4CECCA8B41B03C8311AD5D",
+        "version": "1"
+      }
+    }
+  },
+  "Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00": {
+    "data": {
+      "id": "Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+      "type": "Blog",
+      "name": "Pouring Just The Right Cup",
+      "description": "Getting the best look from your espresso",
+      "createddate": {
+        "value": "2017-05-08T22:40:02.764Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-05-08T22:40:12.336Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_cb3977af-b0f2-4256-9bbc-b1dd2d78af00",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "HOW TO",
+        "blog_textposition": "Right",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sodales enim quis tortor euismod, eu egestas eros rhoncus. Vestibulum ac dui consequat, cursus velit eu, euismod felis. Ut tincidunt commodo nunc ut maximus. Phasellus ultricies, eros in pellentesque pulvinar, felis felis molestie erat, sed pellentesque neque ipsum nec dui. Quisque eleifend tortor turpis, vitae efficitur neque mattis nec. Etiam suscipit tincidunt viverra. Nullam aliquam faucibus gravida. Praesent mollis eu enim sed fermentum. Mauris lorem justo, varius quis purus at, pulvinar sodales dolor. Etiam nec nulla ipsum. Vivamus porta, magna tincidunt luctus tempus, odio leo hendrerit leo, nec bibendum orci eros nec est.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Curabitur congue mauris in neque cursus sagittis. Donec porta feugiat cursus. Aliquam elementum vehicula magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tincidunt erat, vulputate rhoncus ex. In ultricies diam eu elit faucibus, eget tempus metus pulvinar. Sed et tempus arcu, a porttitor nibh.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_e39d412f-a757-43a7-9097-b4dd768fd6c7",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_e39d412f-a757-43a7-9097-b4dd768fd6c7",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_8b271097-4429-443a-9302-6facaca6ac07",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_8b271097-4429-443a-9302-6facaca6ac07",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_c0c52ea8-7f4b-4798-8cd3-73fce38a0600",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_c0c52ea8-7f4b-4798-8cd3-73fce38a0600",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_5020bb57-e313-40a6-b31e-edfaab4a5d05",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_5020bb57-e313-40a6-b31e-edfaab4a5d05",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "1",
+          "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D67776D79C1E192D5087CEC7ECCA8B41B03C8311AD5D",
+        "version": "1"
+      }
+    }
+  },
+  "Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4": {
+    "data": {
+      "id": "Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4",
+      "type": "Blog",
+      "name": "Our Pastries",
+      "description": "Get the perfect pastries to go with your prefect coffee",
+      "createddate": {
+        "value": "2017-05-08T22:40:03.847Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-05-08T22:40:10.030Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_c4942f74-4f62-42cb-8de5-4a1b10a5c6b4",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "RECIPES",
+        "blog_textposition": "Center",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Our pastries are made from scratch and baked in-house daily. Come enjoy our croissants, scones, danishes and any other varieties.&nbsp; Satisfy your sweet tooth or enjoy something savory.&nbsp;&nbsp; Our pastries are made from scratch and baked in-house daily. Come enjoy our croissants, scones, danishes and any other varieties.&nbsp; Satisfy your sweet tooth or enjoy something savory.&nbsp;&nbsp; <o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sodales enim quis tortor euismod, eu egestas eros rhoncus. Vestibulum ac dui consequat, cursus velit eu, euismod felis. Ut tincidunt commodo nunc ut maximus.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\nCurabitur congue mauris in neque cursus sagittis. Donec porta feugiat cursus. Aliquam elementum vehicula magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tincidunt erat, vulputate rhoncus ex. In ultricies diam eu elit faucibus, eget tempus metus pulvinar. Sed et tempus arcu, a porttitor nibh.",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_1b8e2a18-7405-444f-afa2-56ee1cdb9ac5",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_1b8e2a18-7405-444f-afa2-56ee1cdb9ac5",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_4f5e47a4-fab0-4705-894e-a1a200b69dcd",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_4f5e47a4-fab0-4705-894e-a1a200b69dcd",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_ebbdba07-b6fd-4372-94e4-8af7b6ffa53c",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_ebbdba07-b6fd-4372-94e4-8af7b6ffa53c",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_f70348c8-8207-4cfd-a843-48b6d6d97a15",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_f70348c8-8207-4cfd-a843-48b6d6d97a15",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "1",
+          "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D76A521A30D36C26C3292DBAECCA8B41B03C8311AD5D",
+        "version": "1"
+      }
+    }
+  },
+  "Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5": {
+    "data": {
+      "id": "Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5",
+      "type": "Blog",
+      "name": "The Perfect Meringue",
+      "description": "Make the sweetest lightest meringue ever",
+      "createddate": {
+        "value": "2017-05-08T22:40:03.949Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-05-08T22:40:09.595Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_5c07a381-9546-4fa4-8c64-6e819edecfe5",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "RECIPES",
+        "blog_textposition": "Left",
+        "blog_textcolor": "Light",
+        "blog_content": "<p>Learn to make the perfect egg white meringue.&nbsp; Imagine blowing air into a balloon while whipping.&nbsp; That&#39;s the exact idea we want to convey when beating the egg whites, causing the whites to unfold and form films that trap the air bubbles.&nbsp; A perfect egg white meringue is really nothing but a big collection of foamy bubbles.&nbsp; Test out our tried-and-true recipe today and see what you think.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Learn to make the perfect egg white meringue.&nbsp; Imagine blowing air into a balloon while whipping.&nbsp; That&#39;s the exact idea we want to convey when beating the egg whites, causing the whites to unfold and form films that trap the air bubbles.&nbsp; A perfect egg white meringue is really nothing but a big collection of foamy bubbles.&nbsp; Test out our tried-and-true recipe today and see what you think.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Learn to make the perfect egg white meringue.&nbsp; Imagine blowing air into a balloon while whipping.&nbsp; That&#39;s the exact idea we want to convey when beating the egg whites, causing the whites to unfold and form films that trap the air bubbles.&nbsp; A perfect egg white meringue is really nothing but a big collection of foamy bubbles.&nbsp; Test out our tried-and-true recipe today and see what you think.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_8955d2e0-c6f8-4677-a197-aa6363b6c1ca",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_8955d2e0-c6f8-4677-a197-aa6363b6c1ca",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_a3e9ae69-2e4d-40fe-91bd-26097345307c",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_a3e9ae69-2e4d-40fe-91bd-26097345307c",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_6184d3cd-2d6a-43ac-a707-c9ca615f67ad",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_6184d3cd-2d6a-43ac-a707-c9ca615f67ad",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_49b537d4-aeb1-42a1-91e0-2bdbde68977f",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_49b537d4-aeb1-42a1-91e0-2bdbde68977f",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_e9d71a2d-7f30-463e-acbf-e43d66fad89b",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "1",
+          "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "D2BEF28B12382A0E1487D384ECCA8B41B03C8311AD5D",
+        "version": "1"
+      }
+    }
+  }
+}
