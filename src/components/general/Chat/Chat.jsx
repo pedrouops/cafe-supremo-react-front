@@ -23,7 +23,7 @@ class Chat extends React.Component {
 
     // Values that will not change can be const types
 
-    const channel = 'B96D1D9B-1EC3-43DA-88DA-E15DEB0819B1'
+    const channel = 'BF6391FA-5958-4A22-B340-CCFA04F5959E'
     const userId = '1'
     const websocketConnectionUrl = 'ws://141.144.22.238:8888/chat/ws'
 
@@ -53,18 +53,32 @@ class Chat extends React.Component {
           response.hasOwnProperty('body') &&
           response.body.hasOwnProperty('messagePayload')
         ) {
-          let messagePayload = response.body.messagePayload
 
-          // ES6 Note the use of Backquotes
-          debug(`messagePayload is ${messagePayload.text}`)
-          debug('Message payload: ' + JSON.stringify(messagePayload))
+          var messagePayload = response.body.messagePayload;
 
-          let messageRecieved = JSON.stringify(messagePayload.text)
-          addMessage(messageRecieved)
-        } else if (response.hasOwnProperty('error')) {
-          debug('FAIL:' + response.error.message)
-          addMessage(response.error.message)
-        }
+          //ES6 Note the use of Backquotes
+          debug(`messagePayload is ${messagePayload.text}`);
+
+          var test = messagePayload.text;
+          var messageRecieved = "";
+
+          //check if its an array of Blog items
+          if (test.indexOf('textposition') !== -1) {
+            messageRecieved = JSON.parse(test);
+          } else {
+            messageRecieved = JSON.stringify(messagePayload.text);
+          }
+
+          addMessage(messageRecieved);
+
+          } else if (response.hasOwnProperty('error')) {
+            debug("FAIL:" + response.error.message);
+            addMessage(response.error.message);
+          }
+
+
+
+
       }
     }
 
@@ -87,6 +101,7 @@ class Chat extends React.Component {
       }, 1000) // wait 1 second for the connection...
     }
 
+    //Send initial message to bot
     if (this.state.count === 0) {
       sendToBot(messageToBot)
     }
@@ -97,18 +112,12 @@ class Chat extends React.Component {
         messages: [...this.state.messages, data]
       })
 
-      console.log('addMessage -count ' + count)
-      //  console.log("Messages - "+this.state.messages);
     }
 
     this.sendMessage = ev => {
       ev.preventDefault()
 
-      console.log('SHOULD SEND: ' + this.state.message)
-
-      this.state.message = "What's my balance for savings"
       messageToBot.messagePayload = { type: 'text', text: this.state.message }
-      console.log('SHOULD SEND Overridden: ' + this.state.message)
 
       sendToBot(messageToBot)
       // set this back to null so the textbox dissapears
@@ -118,19 +127,34 @@ class Chat extends React.Component {
     }
   }
 
+
+
   render () {
     return (
-      <div className='chat-container'>
-        <div className='row'>
-          <div className='chat-col-4'>
-            <div className='chat-card'>
-              <div className='chat-card-body'>
-                <div className='chat-card-title'>
-                  Search the Supremo Content Base{' '}
-                  <button id='someButton2'>X</button>
+      <div className='search-container'>
+        <div className='search-row'>
+          <div className='search-col-4'>
+            <div className='search-card'>
+              <div className='search-card-body'>
+                <div className='search-card-title'>
+                  Search the Supremo content base using an AI bot
+                  <div className='search-card-header'>
+                    <form>
+                          <input type='text'
+                            placeholder='Content to search for eg. Coffee'
+                            className='search-content-input'
+                            value={this.state.message}
+                            onChange={ev => this.setState({ message: ev.target.value })}
+                          />
+
+                          <button onClick={this.sendMessage} className='search-content-button' >
+                            Search
+                          </button>
+                     </form>
+                  </div>
                 </div>
 
-                <div className='messages'>
+                <div className='search-messages'>
                   {this.state.messages.map((message, index) => {
                     if (index % 2 === 0) {
                       return (
@@ -140,9 +164,18 @@ class Chat extends React.Component {
                       )
                     } else {
                       return (
-                        <div className='bubble-right' key={index}>
-                          {message}
-                        </div>
+                        <div className="search-response" key={index} >
+
+
+                          {message.map(ContentItem => <div className="search-item">
+                                <img className='search-image' src={ContentItem.image}  />
+                                <div className="search-blog-title" >  {ContentItem.name }  -  {ContentItem.description } </div>
+                                <div className="search-blog-body"  >  {ContentItem.body }   </div>
+                              <div className="search-blog-end" >     </div>
+                                                 </div>
+                              )}
+
+                         </div>
                       )
                     }
                   })}
@@ -150,20 +183,7 @@ class Chat extends React.Component {
               </div>
               <div className='chat-card-footer'>
                 <br />
-                <input
-                  type='text'
-                  placeholder='Content to search for eg. Coffee'
-                  className='form-control'
-                  value={this.state.message}
-                  onChange={ev => this.setState({ message: ev.target.value })}
-                />
-                <br />
-                <button
-                  onClick={this.sendMessage}
-                  className='btn btn-primary form-control'
-                >
-                  Search
-                </button>
+
               </div>
             </div>
           </div>

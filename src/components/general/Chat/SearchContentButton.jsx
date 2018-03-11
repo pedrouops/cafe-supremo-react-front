@@ -1,7 +1,9 @@
 import React from 'react'
 import Chat from './Chat'
 import './chat.css'
-class ChatButton extends React.Component {
+
+//show button
+class SearchContentButton extends React.Component {
   constructor (props) {
     super(props)
     this.handleClick = this.handleClick.bind(this)
@@ -28,4 +30,4 @@ class ChatButton extends React.Component {
     )
   }
 }
-export default ChatButton
+export default SearchContentButton
