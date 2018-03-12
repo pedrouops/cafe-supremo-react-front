@@ -1,5 +1,6 @@
 import React from 'react'
 import ReconnectingWebSocket from 'reconnecting-websocket'
+import './chat.css'
 
 class Chat extends React.Component {
   constructor (props) {
@@ -116,14 +117,17 @@ class Chat extends React.Component {
       messageToBot.messagePayload = { type: 'text', text: this.state.message }
 
       sendToBot(messageToBot)
-      // set this back to null so the textbox dissapears
       addMessage(this.state.message)
+      // set this back to null so it resets the text input
       this.setState({ message: '' })
       count = count + 1
     }
+
   }
 
-
+  createMarkup(tmp) {
+    return {__html: tmp};
+  }
 
   render () {
     return (
@@ -133,19 +137,16 @@ class Chat extends React.Component {
             <div className='search-card'>
               <div className='search-card-body'>
                 <div className='search-card-title'>
-                  Search the Supremo content base using an AI bot
-                  <div className='search-card-header'>
-                    <form>
+                    <div className='search-card-header'>
+                    <form onSubmit={this.sendMessage}>
                           <input type='text'
-                            placeholder='Content to search for eg. Coffee'
+                            placeholder='Content to search for eg. What do you have on Coffee'
                             className='search-content-input'
                             value={this.state.message}
                             onChange={ev => this.setState({ message: ev.target.value })}
                           />
 
-                          <button onClick={this.sendMessage} className='search-content-button' >
-                            Search
-                          </button>
+
                      </form>
                   </div>
                 </div>
@@ -155,25 +156,38 @@ class Chat extends React.Component {
                     if (index % 2 === 0) {
                       return (
                         <div className='bubble-left' key={index}>
-                          {message}
+                          You searched for  "{message}"
                         </div>
                       )
                     } else {
-                      return (
+
+
+                      let response = this.state.messages[index] ;
+
+                      if (typeof  response === 'string'){
+
+                         return (
+                           <div className="search-response-error" key={index} > {message} </div>
+                         )
+                       }
+                       else{
+                          return (
+
                         <div className="search-response" key={index} >
 
 
-                          {message.map(ContentItem => <div className="search-item">
+                          {message.map((ContentItem, i) => <div key={i} className="search-item">
                                 <img className='search-image' src={ContentItem.image}  />
                                 <div className="search-blog-title" >  {ContentItem.name }  -  {ContentItem.description } </div>
-                                <div className="search-blog-body"  >  {ContentItem.body }   </div>
-                              <div className="search-blog-end" >     </div>
+                                <div className="search-blog-body" dangerouslySetInnerHTML={this.createMarkup(ContentItem.body)}/>
+                                  <br/><br/><br/>
                                                  </div>
                               )}
 
                          </div>
                       )
                     }
+                  }
                   })}
                 </div>
               </div>
