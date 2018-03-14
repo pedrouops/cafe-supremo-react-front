@@ -2,7 +2,7 @@ import React from 'react'
 import Chat from './ContentSearch'
 import './contentSearch.css'
 
-//show button
+// show button
 class ContentSearchButton extends React.Component {
   constructor (props) {
     super(props)

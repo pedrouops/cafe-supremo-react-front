@@ -6,10 +6,8 @@ class ContentSearch extends React.Component {
     // allows you to access this.props in the constructor method
     super(props)
 
-    //copy here
-
+    // copy here
   }
-
 
   render () {
     return (
@@ -19,24 +17,17 @@ class ContentSearch extends React.Component {
             <div className='search-card'>
               <div className='search-card-body'>
                 <div className='search-card-title'>
-                    <div className='search-card-header'>
-
-                      /* input field here */
-
+                  <div className='search-card-header'>
+                    /* input field here */
                   </div>
                 </div>
 
                 <div className='search-messages'>
-
-
-                        /*  output message responses and content items */
-
-
+                  /* output message responses and content items */
                 </div>
               </div>
               <div className='chat-card-footer'>
                 <br />
-
               </div>
             </div>
           </div>

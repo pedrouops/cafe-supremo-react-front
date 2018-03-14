@@ -1,9 +1,7 @@
-//import
+// import
 import ReconnectingWebSocket from 'reconnecting-websocket'
 
-
-//constructor
-
+// constructor
 
 this.state = {
   count: 0,
@@ -17,7 +15,7 @@ const debug = message => console.log(message)
 debug('constructor: ')
 // todo
 let count = 0
-let self=this
+let self = this
 
 // Values that will not change can be const types
 
@@ -51,28 +49,26 @@ if (connection !== currentConnection) {
       response.hasOwnProperty('body') &&
       response.body.hasOwnProperty('messagePayload')
     ) {
+      var messagePayload = response.body.messagePayload
 
-      var messagePayload = response.body.messagePayload;
+      // ES6 Note the use of Backquotes
+      debug(`messagePayload is ${messagePayload.text}`)
 
-      //ES6 Note the use of Backquotes
-      debug(`messagePayload is ${messagePayload.text}`);
+      var test = messagePayload.text
+      var messageRecieved = ''
 
-      var test = messagePayload.text;
-      var messageRecieved = "";
-
-      //check if its an array of Blog items
+      // check if its an array of Blog items
       if (test.indexOf('textposition') !== -1) {
-        messageRecieved = JSON.parse(test);
+        messageRecieved = JSON.parse(test)
       } else {
-        messageRecieved = JSON.stringify(messagePayload.text);
+        messageRecieved = JSON.stringify(messagePayload.text)
       }
 
-      addMessage(messageRecieved);
-
-      } else if (response.hasOwnProperty('error')) {
-        debug("FAIL:" + response.error.message);
-        addMessage(response.error.message);
-      }
+      addMessage(messageRecieved)
+    } else if (response.hasOwnProperty('error')) {
+      debug('FAIL:' + response.error.message)
+      addMessage(response.error.message)
+    }
   }
 }
 
@@ -95,7 +91,7 @@ const waitForSocketConnection = function (socket, callback) {
   }, 1000) // wait 1 second for the connection...
 }
 
-//Send initial message to bot
+// Send initial message to bot
 if (this.state.count === 0) {
   sendToBot(messageToBot)
 }
@@ -105,7 +101,6 @@ const addMessage = data => {
   this.setState({
     messages: [...this.state.messages, data]
   })
-
 }
 
 this.sendMessage = ev => {
