@@ -1,9 +1,9 @@
 import React from 'react'
-import Chat from './Chat'
-import './chat.css'
+import Chat from './ContentSearch'
+import './contentSearch.css'
 
 //show button
-class SearchContentButton extends React.Component {
+class ContentSearchButton extends React.Component {
   constructor (props) {
     super(props)
     this.handleClick = this.handleClick.bind(this)
@@ -16,7 +16,7 @@ class SearchContentButton extends React.Component {
   render () {
     return this.state.isClicked ? (
       <div className='chat-outer-box'>
-        <Chat />
+        <ContentSearch />
       </div>
     ) : (
       <div className='chat-open-button'>
@@ -30,4 +30,4 @@ class SearchContentButton extends React.Component {
     )
   }
 }
-export default SearchContentButton
+export default ContentSearchButton

@@ -1,0 +1,90 @@
+/**
+ * ---------------------------------------
+ * Chat
+ * ---------------------------------------
+ */
+.search-container{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.search-card-title{
+	height: 50px;
+	margin-top:30px;
+}
+.search-content-input{
+	width: 100%;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 16px;
+	background-color: white;
+	background-image: url('searchicon.png');
+	background-position: 10px 10px;
+	background-repeat: no-repeat;
+	padding: 12px 20px 12px 40px;
+  display:inline-block;
+}
+.search-content-button{
+	display:inline-block;
+}
+.search-card-header{
+	float: right;
+	width: 30%;
+	display:inline-block;
+}
+.search-messages{
+		  width: 100%;
+			background-color: #ffffa3;
+		 	padding-bottom: 150px;
+}
+.search-response-error
+{
+    color: red;
+		font-size:18px;
+		text-align: right;
+    padding: 5px 10px 5px 10px;
+    background: #ffffa3;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+.bubble-left
+{
+    padding: 5px 10px 5px 10px;
+    margin-top:5px;
+  	font-size: 18px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    .div:nth-child(even) {background-color: #0080FF;}
+}
+.search-blog-title{
+ 		font-size: 18px;
+    text-align: left;
+		position: absolute;
+		padding: 5px;
+		background-color:white;
+		color:black;
+		top: 17%;
+		left: 600px;
+		transform: translate(-130%, -50%);
+}
+.search-image{
+	float:left;
+	padding: 0px 15px 0px 0px;
+}
+.search-response{
+	padding: 5px 10px 5px 10px;
+		-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding-bottom: 100px;
+}
+.search-item{
+	position: relative;
+	padding-bottom: 25px;
+	padding-top: 17px;
+}
+.search-blog-body{
+
+}

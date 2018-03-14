@@ -1,8 +1,8 @@
 import React from 'react'
 import ReconnectingWebSocket from 'reconnecting-websocket'
-import './chat.css'
+import './contentSearch.css'
 
-class Chat extends React.Component {
+class ContentSearch extends React.Component {
   constructor (props) {
     // allows you to access this.props in the constructor method
     super(props)
@@ -177,7 +177,7 @@ class Chat extends React.Component {
 
 
                           {message.map((ContentItem, i) => <div key={i} className="search-item">
-                                <img className='search-image' src={ContentItem.image}  />
+                                <img alt="contentImage" className='search-image' src={ContentItem.image}  />
                                 <div className="search-blog-title" >  {ContentItem.name }  -  {ContentItem.description } </div>
                                 <div className="search-blog-body" dangerouslySetInnerHTML={this.createMarkup(ContentItem.body)}/>
                                   <br/><br/><br/>
@@ -203,4 +203,4 @@ class Chat extends React.Component {
   }
 }
 
-export default Chat
+export default ContentSearch
