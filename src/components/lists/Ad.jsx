@@ -1,7 +1,13 @@
 import React from 'react'
 import '../layout/Ad/Highlight/design.css'
 
-const Ad = ({ categoryLink, position, brightness, name, description, src }) => (
+const Ad = ({ data,name, description }) => {
+    const categoryLink =data['ad_commerceurl']
+    const position=data['ad_textposition']
+    const brightness=data['ad_textcolor']
+    const src  = data['ad_image_banner'].link.href.replace('/items/', '/digital-assets/') + '/default'
+
+    return (
   <div>
     <a href={categoryLink} target='_blank'>
       <div className='ad-highlight'>
@@ -15,4 +21,5 @@ const Ad = ({ categoryLink, position, brightness, name, description, src }) => (
     </a>
   </div>
 )
+}
 export default Ad

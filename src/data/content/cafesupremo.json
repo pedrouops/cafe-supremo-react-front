@@ -1,0 +1,846 @@
+{
+  "Ad;1;updateddate:desc": {
+    "data": {
+      "hasMore": true,
+      "limit": 4,
+      "count": 1,
+      "items": [
+        {
+          "id": "Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4",
+          "description": "Try something special, with that special someone",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "A LITTLE PARTY IN EVERY POD",
+          "type": "Ad"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Ad&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published",
+          "rel": "self",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Ad&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published",
+          "rel": "canonical",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Ad&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=1",
+          "rel": "next",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Ad&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=0",
+          "rel": "first",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Ad&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=3",
+          "rel": "last",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        }
+      ],
+      "offset": 0
+    },
+    "query": {
+      "contentType": "Ad",
+      "maxResults": 1,
+      "sortOrder": "updateddate:desc"
+    }
+  },
+  "Ad;3;updateddate:desc": {
+    "data": {
+      "hasMore": true,
+      "limit": 4,
+      "count": 3,
+      "items": [
+        {
+          "id": "Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4",
+          "description": "Try something special, with that special someone",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "A LITTLE PARTY IN EVERY POD",
+          "type": "Ad"
+        },
+        {
+          "id": "Ad_core_1ad5aaf6-a3de-40ee-b604-f0d9467679d7",
+          "description": "Get this months imports from around the globe in all of your favorite flavors",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_1ad5aaf6-a3de-40ee-b604-f0d9467679d7",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "LOVE AT FIRST ROAST",
+          "type": "Ad"
+        },
+        {
+          "id": "Ad_core_5745fa53-5790-428a-ad17-30d9f13f4d85",
+          "description": "Cups, spoons and any other accessories you need",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_5745fa53-5790-428a-ad17-30d9f13f4d85",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "NOW, ALL YOU NEED IS THE SPOON",
+          "type": "Ad"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=3&field:type:equals=Ad&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published",
+          "rel": "self",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=3&field:type:equals=Ad&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published",
+          "rel": "canonical",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=3&field:type:equals=Ad&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=3",
+          "rel": "next",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=3&field:type:equals=Ad&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=0",
+          "rel": "first",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=3&field:type:equals=Ad&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=3",
+          "rel": "last",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        }
+      ],
+      "offset": 0
+    },
+    "query": {
+      "contentType": "Ad",
+      "maxResults": 3,
+      "sortOrder": "updateddate:desc"
+    }
+  },
+  "Blog;1;updateddate:desc": {
+    "data": {
+      "hasMore": true,
+      "limit": 10,
+      "count": 1,
+      "items": [
+        {
+          "id": "Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44",
+          "description": "What makes the perfect coffee",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "The Perfect Coffee",
+          "type": "Blog"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Blog&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published",
+          "rel": "self",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Blog&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published",
+          "rel": "canonical",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Blog&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=1",
+          "rel": "next",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Blog&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=0",
+          "rel": "first",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Blog&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=9",
+          "rel": "last",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        }
+      ],
+      "offset": 0
+    },
+    "query": {
+      "contentType": "Blog",
+      "maxResults": 1,
+      "sortOrder": "updateddate:desc"
+    }
+  },
+  "Promo;1;updateddate:desc": {
+    "data": {
+      "hasMore": true,
+      "limit": 6,
+      "count": 1,
+      "items": [
+        {
+          "id": "Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc",
+          "description": "(for a limited time only)",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          },
+          "name": "A free pastry!",
+          "type": "Promo"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Promo&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published",
+          "rel": "self",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Promo&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published",
+          "rel": "canonical",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Promo&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=1",
+          "rel": "next",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Promo&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=0",
+          "rel": "first",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items?limit=1&field:type:equals=Promo&access-token=11ad271cc1ae61bd03249332e8445c96&orderBy=updateddate:desc&contentType=published&offset=5",
+          "rel": "last",
+          "templated": false,
+          "method": "",
+          "profile": "",
+          "mediaType": ""
+        }
+      ],
+      "offset": 0
+    },
+    "query": {
+      "contentType": "Promo",
+      "maxResults": 1,
+      "sortOrder": "updateddate:desc"
+    }
+  },
+  "Ad_core_1ad5aaf6-a3de-40ee-b604-f0d9467679d7": {
+    "data": {
+      "id": "Ad_core_1ad5aaf6-a3de-40ee-b604-f0d9467679d7",
+      "type": "Ad",
+      "name": "LOVE AT FIRST ROAST",
+      "description": "Get this months imports from around the globe in all of your favorite flavors",
+      "createddate": {
+        "value": "2017-05-08T22:39:57.978Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-05-08T22:40:21.250Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_1ad5aaf6-a3de-40ee-b604-f0d9467679d7?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_1ad5aaf6-a3de-40ee-b604-f0d9467679d7?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Ad_core_1ad5aaf6-a3de-40ee-b604-f0d9467679d7",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "ad_textcolor": "Light",
+        "ad_textposition": "Right",
+        "ad_commerceurl": "https://ccstore-z5ga.oracleoutsourcing.com/aroma-beans/product/1234",
+        "ad_image_side": {
+          "id": "DigitalAsset_proxy_841a466f-5be6-4968-a0a5-5db966081b4b",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_841a466f-5be6-4968-a0a5-5db966081b4b",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "ad_image_banner": {
+          "id": "DigitalAsset_proxy_752f96f0-c3f5-4bea-a01a-2f0a8b5e2063",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_752f96f0-c3f5-4bea-a01a-2f0a8b5e2063",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "1",
+          "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "F89CD881B1D1AD84EC2390DFECCA8B41B03C8311AD5D",
+        "fileId": "D97D4832CBDD171358D0CD26ECCA8B41B03C8311AD5D",
+        "version": "1"
+      }
+    }
+  },
+  "Ad_core_5745fa53-5790-428a-ad17-30d9f13f4d85": {
+    "data": {
+      "id": "Ad_core_5745fa53-5790-428a-ad17-30d9f13f4d85",
+      "type": "Ad",
+      "name": "NOW, ALL YOU NEED IS THE SPOON",
+      "description": "Cups, spoons and any other accessories you need",
+      "createddate": {
+        "value": "2017-05-08T22:40:01.266Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2017-05-08T22:40:16.234Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_5745fa53-5790-428a-ad17-30d9f13f4d85?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_5745fa53-5790-428a-ad17-30d9f13f4d85?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Ad_core_5745fa53-5790-428a-ad17-30d9f13f4d85",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "ad_textcolor": "Dark",
+        "ad_textposition": "Left",
+        "ad_commerceurl": "https://ccstore-z5ga.oracleoutsourcing.com/oracle-mug/product/Mug123",
+        "ad_image_side": {
+          "id": "DigitalAsset_proxy_23d2931d-d53e-41d5-a012-3fe1df602036",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_23d2931d-d53e-41d5-a012-3fe1df602036",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "ad_image_banner": {
+          "id": "DigitalAsset_proxy_c8d7c231-f9dc-4a44-834f-86f8527c5677",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_c8d7c231-f9dc-4a44-834f-86f8527c5677",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "1",
+          "publisheddate": {
+            "value": "2017-05-08T22:39:54.656Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "F89CD881B1D1AD84EC2390DFECCA8B41B03C8311AD5D",
+        "fileId": "D883C10DC1250CC6E84BE397ECCA8B41B03C8311AD5D",
+        "version": "1"
+      }
+    }
+  },
+  "Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4": {
+    "data": {
+      "id": "Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4",
+      "type": "Ad",
+      "name": "A LITTLE PARTY IN EVERY POD",
+      "description": "Try something special, with that special someone",
+      "createddate": {
+        "value": "2017-05-08T21:43:35.938Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2018-01-29T16:05:35.487Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Ad_core_6d9baffc-9010-4b46-a927-1804785c72c4",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "ad_textcolor": "Dark",
+        "ad_textposition": "Left",
+        "ad_commerceurl": "https://ccstore-z5ga.oracleoutsourcing.com/coffee-pods/category/2468",
+        "ad_image_side": {
+          "id": "DigitalAsset_proxy_fd77c467-0f0a-4636-966d-652298d270a0",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_fd77c467-0f0a-4636-966d-652298d270a0",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "ad_image_banner": {
+          "id": "DigitalAsset_proxy_24ca1644-fbe3-45db-a69f-7278b5c82aca",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_24ca1644-fbe3-45db-a69f-7278b5c82aca",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "1463671286774",
+          "version": "3",
+          "publisheddate": {
+            "value": "2018-01-29T16:05:34.500Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "F89CD881B1D1AD84EC2390DFECCA8B41B03C8311AD5D",
+        "fileId": "DD668A901F28F978FD39A96FECCA8B41B03C8311AD5D",
+        "version": "3"
+      }
+    }
+  },
+  "Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44": {
+    "data": {
+      "id": "Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44",
+      "type": "Blog",
+      "name": "The Perfect Coffee",
+      "description": "What makes the perfect coffee",
+      "createddate": {
+        "value": "2018-01-29T16:06:06.391Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2018-01-29T16:06:06.829Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Blog_core_b970909d-b425-4fa0-aaee-028380dc7d44",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "blog_category": "DRINKS",
+        "blog_textposition": "Right",
+        "blog_textcolor": "Light",
+        "blog_content": "<!DOCTYPE html><p>Perfect coffee pleasure, is no accident: it must be deliberately created, consistently and without compromise, cup after cup, by living our principles.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Along the complex path from bean to cup there are quicker ways of doing things than we do, and there are certainly cheaper ways. But there is no better way. Knowing a single faulty bean can taint a whole batch, we take control of quality down to the very last one &ndash; with a deliberate dedication to getting the details right at every step of the way.<o:p></o:p></p>\n",
+        "blog_image_ad": {
+          "id": "DigitalAsset_proxy_60f983bf-195b-4cf5-8a05-96753b3972db",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_60f983bf-195b-4cf5-8a05-96753b3972db",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_thumbnail": {
+          "id": "DigitalAsset_proxy_2fa41b4a-51fd-4390-9fac-5afb01383f8f",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_2fa41b4a-51fd-4390-9fac-5afb01383f8f",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_header": {
+          "id": "DigitalAsset_proxy_eaacbc7f-2ac7-4a9d-8866-f6602c8f72f3",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_eaacbc7f-2ac7-4a9d-8866-f6602c8f72f3",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_image_ad_small": {
+          "id": "DigitalAsset_proxy_153ff593-c61b-43be-874e-16965646f512",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_153ff593-c61b-43be-874e-16965646f512",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "blog_author": {
+          "id": "Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+          "type": "Author",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Author_core_53dba240-c673-4c2b-9623-d2bbff990e6d",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "robert.briggs@oracle.com",
+          "version": "3",
+          "publisheddate": {
+            "value": "2018-01-29T16:06:04.911Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "FE8BC00389973E65510604A5ECCA8B41B03C8311AD5D",
+        "fileId": "DC70A2ECD7FA759DBDAC2E69ECCA8B41B03C8311AD5D",
+        "version": "3"
+      }
+    }
+  },
+  "Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc": {
+    "data": {
+      "id": "Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc",
+      "type": "Promo",
+      "name": "A free pastry!",
+      "description": "(for a limited time) ",
+      "createddate": {
+        "value": "2017-05-08T22:31:13.898Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "updateddate": {
+        "value": "2018-03-14T09:34:09.857Z",
+        "timezone": "UTC",
+        "description": ""
+      },
+      "links": [
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "self",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc?access-token=11ad271cc1ae61bd03249332e8445c96",
+          "rel": "canonical",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": ""
+        },
+        {
+          "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/metadata-catalog/items/Promo_core_074f7960-db53-481c-8daf-ab831f5b8cdc",
+          "rel": "describedby",
+          "templated": false,
+          "method": "GET",
+          "profile": "",
+          "mediaType": "application/schema+json"
+        }
+      ],
+      "data": {
+        "promo_summary": "<!DOCTYPE html><p>Caf&eacute; Supremo provides Convenient Online &amp; Smartphone Ordering.<o:p></o:p></p>\n\n<p>It&#39;s easy to use and you&#39;ll always be the first to receive our best coupons from your car. Marcelo test.<o:p></o:p></p>\n",
+        "promo_textcolor": "Light",
+        "promo_content": "<!DOCTYPE html><p>Cake is &quot;free&quot; at Caf&eacute; Supremo throughout the fleet as long as you purchase a coffee on the road. Make awesome combinations with a wide variety of toppings and fillings.&nbsp; <o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Cras menus et manus&nbsp;gravida lectus quis est gravida, ac vehicula lacus pharetra. Vestibulum pretium eu metus vitae semper. Etiam ante sem, pretium ac justo eu, porta imperdiet purus. Curabitur sem dui, rutrum et congue eu, fermentum at quam. Ut id turpis quis dolor interdum convallis et ac urna. Aliquam at sem placerat mauris fermentum tempor eu nec ex.<o:p></o:p></p>\n\n<p><o:p>&nbsp;</o:p></p>\n\n<p>Sed et commodo lectus, ac elementum enim. Quisque at scelerisque est. Sed tristique placerat finibus. In id mattis risus. Sed congue non est sed euismod. Aenean ipsum turpis, sodales tristique erat semper, luctus laoreet mauris. Suspendisse luctus finibus pretium. Nunc egestas egestas sapien ut viverra.<o:p></o:p></p>\n",
+        "promo_textposition": "Right",
+        "promo_image_mobile_thumbnail": {
+          "id": "DigitalAsset_proxy_a4341cbc-6ede-4897-9d16-cfe5e75e9466",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_a4341cbc-6ede-4897-9d16-cfe5e75e9466",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "promo_image_mobile_header": {
+          "id": "DigitalAsset_proxy_72b3c123-6e36-49a6-bdbf-6aa5689d746f",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_72b3c123-6e36-49a6-bdbf-6aa5689d746f",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        },
+        "promo_image_banner": {
+          "id": "DigitalAsset_proxy_dd886f14-a26c-46b0-b541-5f6650fa0400",
+          "type": "DigitalAsset",
+          "link": {
+            "href": "https://demo-gse00009991.sites.us2.oraclecloud.com:443/content/published/api/v1/items/DigitalAsset_proxy_dd886f14-a26c-46b0-b541-5f6650fa0400",
+            "rel": "Reference",
+            "templated": false,
+            "method": "GET",
+            "profile": "",
+            "mediaType": ""
+          }
+        }
+      },
+      "publishinfo": [
+        {
+          "target": "F7F68BC5467313FACB749F39ECCA8B41B03C8311AD5D",
+          "publishedby": "robert.briggs@oracle.com",
+          "version": "49",
+          "publisheddate": {
+            "value": "2018-03-14T09:34:08.694Z",
+            "timezone": "UTC",
+            "description": ""
+          }
+        }
+      ],
+      "externalFile": {
+        "folderId": "F144BF10D4559040D8BCFEF7ECCA8B41B03C8311AD5D",
+        "fileId": "D724CF5BB4952FF9CA63E7E5ECCA8B41B03C8311AD5D",
+        "version": "49"
+      }
+    }
+  }
+}

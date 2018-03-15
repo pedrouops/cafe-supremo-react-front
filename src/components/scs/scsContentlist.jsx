@@ -2,21 +2,24 @@ import React from 'react'
 import Promo from '../lists/Promo'
 import Blog from '../lists/Blog'
 import Ad from '../lists/Ad'
-import promoItems from '../../data/items/Promos.json'
-import blogItems from '../../data/items/Blogs.json'
-import adItems from '../../data/items/Ads.json'
+
+// import promoItems from '../../data/items/Promos.json'
+// import blogItems from '../../data/items/Blogs.json'
+// import adItems from '../../data/items/Ads.json'
+import {find} from '../../content/contentQueryService'
 
 const registry = {
   Promo: Promo,
   Blog: Blog,
   Ad: Ad
 }
+/*
 const items = {
   Promo: promoItems,
   Blog: blogItems,
   Ad: adItems
 }
-
+*/
 const noMargin = {
   marginTop: 0,
   marginRight: 0,
@@ -30,7 +33,12 @@ const Component = ({ type, id, data }) => {
   console.log(type, id, data)
   const { layoutCategory, maxResults, contentTypes, sortOrder } = data
   const layout = registry[contentTypes[0]] || unknown
-  const model = items[contentTypes[0]] || []
+    const query = {contentType: contentTypes[0],
+  maxResults :maxResults,
+  sortOrder: sortOrder}
+    
+  const model = find(query) //items[contentTypes[0]] || []
+  console.log(model)
   return (
     <div className='scs-component-bounding-box'>
       <div
@@ -49,8 +57,6 @@ const Component = ({ type, id, data }) => {
 }
 
 const List = ({ list, layout }) => {
-  // console.log(JSON.stringify(list, null, 2))
-
   return (
     <div className={'scs-component-container scs-sectionlayout'}>
       <div className='scs-container-styles'>
