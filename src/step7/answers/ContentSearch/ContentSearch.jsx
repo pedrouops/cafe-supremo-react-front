@@ -24,7 +24,7 @@ class ContentSearch extends React.Component {
 
     this.sendMessage = ev => {
       ev.preventDefault()
-     this.botService.sendToBot(this.state.message)
+      this.botService.sendToBot(this.state.message)
       addMessage(this.state.message)
       // set this back to null so it resets the text input
       this.setState({ message: '' })

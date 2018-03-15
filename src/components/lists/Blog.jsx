@@ -8,32 +8,33 @@ const dateToMDY = date =>
     day: 'numeric'
   })
 
-const Blog = ({ data,name, description,id, updateddate }) => {
-   
-    const src  = data['blog_image_ad'].link.href.replace('/items/', '/digital-assets/') + '/default'
-const alt = name
-const href = '#' + id
-const type=data['blog_category']
-const title='Blog'
-const date=dateToMDY(updateddate)
+const Blog = ({ data, name, description, id, updateddate }) => {
+  const src =
+    data['blog_image_ad'].link.href.replace('/items/', '/digital-assets/') +
+    '/default'
+  const alt = name
+  const href = '#' + id
+  const type = data['blog_category']
+  const title = 'Blog'
+  const date = dateToMDY(updateddate)
 
-    return (
-  <a href={href}>
-    <div className='blog-highlight'>
-      <div className='contentItemWrapper'>
-        <button type='button'>{type}</button>
-        <div className='contentItem'>
-          <div className='titleWrapper'>
-            <span className='title'>{title} / </span>
-            <span className='date'>{date}</span>
+  return (
+    <a href={href}>
+      <div className='blog-highlight'>
+        <div className='contentItemWrapper'>
+          <button type='button'>{type}</button>
+          <div className='contentItem'>
+            <div className='titleWrapper'>
+              <span className='title'>{title} / </span>
+              <span className='date'>{date}</span>
+            </div>
+            <div className='name'>{name}</div>
+            <div className='description'>{description}</div>
           </div>
-          <div className='name'>{name}</div>
-          <div className='description'>{description}</div>
         </div>
+        <img className='image' src={src} alt={alt} />
       </div>
-      <img className='image' src={src} alt={alt} />
-    </div>
-  </a>
-)
+    </a>
+  )
 }
 export default Blog

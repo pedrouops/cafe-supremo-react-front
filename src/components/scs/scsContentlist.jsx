@@ -6,7 +6,7 @@ import Ad from '../lists/Ad'
 // import promoItems from '../../data/items/Promos.json'
 // import blogItems from '../../data/items/Blogs.json'
 // import adItems from '../../data/items/Ads.json'
-import {find} from '../../content/contentQueryService'
+import { find } from '../../content/contentQueryService'
 
 const registry = {
   Promo: Promo,
@@ -33,11 +33,13 @@ const Component = ({ type, id, data }) => {
   console.log(type, id, data)
   const { layoutCategory, maxResults, contentTypes, sortOrder } = data
   const layout = registry[contentTypes[0]] || unknown
-    const query = {contentType: contentTypes[0],
-  maxResults :maxResults,
-  sortOrder: sortOrder}
-    
-  const model = find(query) //items[contentTypes[0]] || []
+  const query = {
+    contentType: contentTypes[0],
+    maxResults: maxResults,
+    sortOrder: sortOrder
+  }
+
+  const model = find(query) // items[contentTypes[0]] || []
   console.log(model)
   return (
     <div className='scs-component-bounding-box'>
