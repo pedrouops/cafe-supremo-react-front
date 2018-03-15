@@ -1,4 +1,6 @@
 const fetch = require('node-fetch')
+const fs = require('fs')
+
 const structure = require('../src/data/structure.json')
 
 const contentTypes = ['Ad', 'Promo', 'Blog']
