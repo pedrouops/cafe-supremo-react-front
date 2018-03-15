@@ -1,5 +1,5 @@
-{
-  this.state.messages.map((message, index) => {
+<div className='search-messages'>
+  {this.state.messages.map((message, index) => {
     if (index % 2 === 0) {
       return (
         <div className='bubble-left' key={index}>
@@ -19,31 +19,31 @@
       } else {
         return (
           <div className='search-response' key={index}>
-            {message.map((ContentItem, i) => (
+            {message.map((contentItem, i) => (
               <div key={i} className='search-item'>
                 <img
                   alt='contentImage'
                   className='search-image'
-                  src={ContentItem.image}
+                  src={contentItem.image}
                 />
                 <div className='search-blog-title'>
                   {' '}
-                  {ContentItem.name} - {ContentItem.description}{' '}
+                  {contentItem.name} - {contentItem.description}{' '}
                 </div>
                 <div
                   className='search-blog-body'
                   dangerouslySetInnerHTML={this.createMarkup(
-                    ContentItem.body
+                    contentItem.body
                   )}
                 />
                 <br />
                 <br />
                 <br />
-              </div>          
+              </div>
             ))}
           </div>
         )
       }
     }
-  })
-}
+  })}
+</div>

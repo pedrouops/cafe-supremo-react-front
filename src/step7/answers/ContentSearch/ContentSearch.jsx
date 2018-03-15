@@ -107,7 +107,7 @@ class ContentSearch extends React.Component {
                       }
                     }
                   })}
-                </div>
+                </div>   
               </div>
               <div className='chat-card-footer'>
                 <br />
