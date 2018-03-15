@@ -9,6 +9,10 @@ class ContentSearch extends React.Component {
     // copy here
   }
 
+  createMarkup (tmp) {
+    return { __html: tmp }
+  }
+
   render () {
     return (
       <div className='search-container'>
