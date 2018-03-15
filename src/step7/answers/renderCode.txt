@@ -32,12 +32,14 @@
                 </div>
                 <div
                   className='search-blog-body'
-                  dangerouslySetInnerHTML={this.createMarkup(ContentItem.body)}
+                  dangerouslySetInnerHTML={this.createMarkup(
+                    ContentItem.body
+                  )}
                 />
                 <br />
                 <br />
                 <br />
-              </div>
+              </div>          
             ))}
           </div>
         )
