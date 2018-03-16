@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 import './w3.css'
 import './raleway.css'
 
+import ContentSearch from '../step7/ContentSearch/ContentSearch'
+
 import content from './content.json'
 
 const allItems = content.ALL.data.items
@@ -43,6 +45,7 @@ const Body = () => (
       <Header />
       <div className='w3-row'>
         <div className='w3-col l8 s12'>
+			<ContentSearch />
           <Blogs />
         </div>
         <div className='w3-col l4'>
