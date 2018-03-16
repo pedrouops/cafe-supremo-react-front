@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Layout from './step4/Layout'
+import Layout from './step5/Layout'
 
 export default class App extends Component {
   render () {
