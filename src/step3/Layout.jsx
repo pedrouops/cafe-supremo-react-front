@@ -18,6 +18,6 @@ export default class Layout extends Component {
 
 const Blog = ({ item }) => (
   <div>
-    <strong>{item.name}</strong>: PUT DESCRIPTION HERE
+    <strong>{item.name}</strong>: {item.description}
   </div>
 )
