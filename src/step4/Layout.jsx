@@ -55,10 +55,12 @@ const Blog = ({ item }) => {
   return (
     <div>
       <div>
-        <strong>NAME</strong>: CATEGORY
+        <strong>{item.name}</strong>: {data.blog_category}
       </div>
-      <div>IMAGE</div>
-      <div>CONTENT</div>
+      <div>
+		<img src={image}/> 
+      </div>
+      <div dangerouslySetInnerHTML={content}></div>
     </div>
   )
 }
